@@ -20,7 +20,7 @@
 		<text id="equipment">Equipment</text>
 		<text id="capacity">Carry:</text>
 		<text id="health">Santé:</text>
-		<text id="stamina">Stamina:</text>
+		<text id="stamina">Endurance:</text>
 		<text id="health_short">HP</text>
 		<text id="defense_short">DEF</text>
 		<text id="power">Power</text>
@@ -68,8 +68,8 @@
 		<text id="factory">Usine</text>
 		<text id="synthesizer">Synthétiseur</text>
 		<text id="power_per_hit">Power per Hit:</text>
-		<text id="stamina_per_hit">Stamina per Hit:</text>
-		<text id="stamina_per_use">Stamina per Use:</text>
+		<text id="stamina_per_hit">Endurance par coup:</text>
+		<text id="stamina_per_use">Endurance par utilisation:</text>
 		<text id="move">Bouger</text>
 		<text id="newgame">Nouveau jeu</text>
 		<text id="continue">Continue</text>
@@ -80,16 +80,16 @@
 		<text id="empty_slot">&lt; Empty Slot &gt;</text>
 		<text id="corrupt_slot">Corrupted Slot</text>
 		<text id="overwrite">Are you sure you wish to overwrite this slot?</text>
-		<text id="none">None</text>
+		<text id="none">Aucun</text>
 		<text id="addition_slots">Fields:</text>
 		<text id="placed">{item} placed.</text>
 		<text id="level_up">Level Up!</text>
 		<text id="level">Level:</text>
 		<text id="experience">Exp:</text>
-		<text id="hotkey">Select Item</text>
+		<text id="hotkey">Sélectionner un item</text>
 		<text id="set_hotkey">Set Hotkey:</text>
-		<text id="retry">Retry</text>
-		<text id="title">Title</text>
+		<text id="retry">Réessayez</text>
+		<text id="title">Titre</text>
 		<text id="move_all">Move All</text>
 		<text id="add_animal">Add Animal</text>
 		<text id="select_feed">Select Feed</text>
@@ -99,8 +99,8 @@
 		<text id="unmuted">Game Unmuted</text>
 		<text id="storehouse_add">{npc} added {count} {item} to the {storehouse}</text>
 		<text id="auto_eat">Used {count} {item} to restore health</text>
-		<text id="auto_eat_stamina">Used {count} {item} to restore stamina</text>
-		<text id="auto_eat_oxygen">Used {count} {item} to restore oxygen</text>
+		<text id="auto_eat_stamina">Utiliser {count} {item} pour restaurer l'endurance</text>
+		<text id="auto_eat_oxygen">Utiliser {count} {item} pour restaurer l'oxygène</text>
 		<text id="drop_all">Are you sure you wish to throw away all your {item}? They will be gone for good.</text>
 		<text id="sign_message">Set [item=sign] Message:</text>
 		<text id="transform">How many would you like to turn into {into}?</text>
@@ -150,16 +150,16 @@
 		<text id="set_time">What time would you like to make it (24-hour format)?</text>
 		<text id="save_prompt_magic">This is the end of the demo for the Magic Path. Would you like to save?</text>
 		<text id="save_prompt_science">This is the end of the demo for the Science Path. Would you like to save?</text>
-		<text id="credits">Credits</text>
-		<text id="order">Buy Game!</text>
-		<text id="reset">Reset</text>
+		<text id="credits">Crédits</text>
+		<text id="order">Acheter le jeu!</text>
+		<text id="reset">Réinitialiser</text>
 		<text id="exit_water">Climb Ashore</text>
 		<text id="no_ask">Don't ask again</text>
 		<text id="out_of_date">[color=ff2222]ATTN![/color] Update {version} is now available!</text>
 		<text id="select_dir">Select a Direction:\n\n[key=left][key=up][key=down][key=right]</text>
 		<text id="random">Aléatoire</text>
-		<text id="efficiency">Efficiency</text>
-		<text id="victory">Victory!</text>
+		<text id="efficiency">Efficacité</text>
+		<text id="victory">Victoire!</text>
 		<text id="item_found">New Item Discovered!</text>
 		<text id="more">+{count} More...</text>
 		<text id="dismantle_tip">To build this structure, you need to move or remove overlapping structures. You can do this using [item=dismantle] from your inventory.</text>
@@ -168,8 +168,8 @@
 	</section>
 	<section id="stats">
 		<text id="view">View Stats</text>
-		<text id="health">Max Health</text>
-		<text id="stamina">Max Stamina</text>
+		<text id="health">Santé Max</text>
+		<text id="stamina">Endurance Max</text>
 		<text id="speed">Vitesse</text>
 		<text id="endurance">Endurance</text>
 		<text id="attack">Attaque</text>
