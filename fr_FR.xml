@@ -126,7 +126,7 @@
 		<text id="restore_power">All batteries recharged!</text>
 		<text id="restore_power_partial">Recharged as many batteries as possible.</text>
 		<text id="rations">Rations</text>
-		<text id="time">Time</text>
+		<text id="time">Temps</text>
 		<text id="auto_feed">Feed {item} the following?{list}</text>
 		<text id="auto_fuel">Fuel {item} with the following?{list}</text>
 		<text id="auto_repair">Repair {item} with the following?{list}</text>
@@ -157,7 +157,7 @@
 		<text id="no_ask">Don't ask again</text>
 		<text id="out_of_date">[color=ff2222]ATTN![/color] Update {version} is now available!</text>
 		<text id="select_dir">Select a Direction:\n\n[key=left][key=up][key=down][key=right]</text>
-		<text id="random">Random</text>
+		<text id="random">Aléatoire</text>
 		<text id="efficiency">Efficiency</text>
 		<text id="victory">Victory!</text>
 		<text id="item_found">New Item Discovered!</text>
@@ -170,9 +170,9 @@
 		<text id="view">View Stats</text>
 		<text id="health">Max Health</text>
 		<text id="stamina">Max Stamina</text>
-		<text id="speed">Speed</text>
+		<text id="speed">Vitesse</text>
 		<text id="endurance">Endurance</text>
-		<text id="attack">Attack</text>
+		<text id="attack">Attaque</text>
 		<text id="range">Range</text>
 		<text id="defense">Defense</text>
 		<text id="elementDefense">Elemental Defense</text>
@@ -217,43 +217,43 @@
 		<text id="max">[color=770000]Skill Maxed</text>
 	</section>
 	<section id="actions">
-		<text id="drop">Discard</text>
-		<text id="place">Place</text>
-		<text id="use">Use</text>
+		<text id="drop">Annuler</text>
+		<text id="place">Placer</text>
+		<text id="use">Utiliser</text>
 		<text id="craft">Craft</text>
-		<text id="equip">Equip</text>
-		<text id="unequip">Unequip</text>
+		<text id="equip">Équiper</text>
+		<text id="unequip">Retirer</text>
 		<text id="fire">Fire</text>
-		<text id="eat">Eat</text>
+		<text id="eat">Manger</text>
 		<text id="loot">Loot Corpse</text>
 		<text id="feed">Feed</text>
 		<text id="feed_all">Feed All</text>
 		<text id="fuel_all">Fuel All</text>
 		<text id="repair_all">Repair All</text>
-		<text id="collect">Collect</text>
-		<text id="open">Open</text>
+		<text id="collect">Collecter</text>
+		<text id="open">Ouvrir</text>
 		<text id="carve">Carve</text>
-		<text id="switch">Switch</text>
+		<text id="switch">Changer</text>
 		<text id="transform">Transform</text>
-		<text id="repair">Repair</text>
-		<text id="rename">Rename</text>
-		<text id="fill">Fill</text>
-		<text id="synthesize">Synthesize</text>
-		<text id="enchant">Enchant</text>
+		<text id="repair">Réparer</text>
+		<text id="rename">Renommer</text>
+		<text id="fill">Remplir</text>
+		<text id="synthesize">Synthétiser</text>
+		<text id="enchant">Enchanter</text>
 		<text id="setProjectile">Set Projectile</text>
-		<text id="enrage">Enrage</text>
+		<text id="enrage">Enrager</text>
 		<text id="enrage_prompt">Are you sure you want to enrage your [item=adult_dragon]? It'll become permanently hostile towards you.</text>
 		<text id="enable_attack">Enable Attack</text>
 		<text id="disable_attack">Disable Attack</text>
 		<text id="enable_flight">Enable Flight</text>
 		<text id="disable_flight">Disable Flight</text>
-		<text id="summon">Summon</text>
+		<text id="summon">Convoquer</text>
 		<text id="uncraft">Uncraft</text>
 		<text id="set_time">Set Time</text>
 		<text id="reset_skills">Reset Skills</text>
-		<text id="build">Build</text>
-		<text id="upgrade">Upgrade</text>
-		<text id="plant">Plant</text>
+		<text id="build">Construire</text>
+		<text id="upgrade">Améliorer</text>
+		<text id="plant">Planter</text>
 		<text id="merge_coins">Combine Coins</text>
 	</section>
 	<section id="item.names">
