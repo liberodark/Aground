@@ -522,7 +522,7 @@
 		<text id="plants">Plants</text>
 		<text id="plant_cost">Plant Cost</text>
 		<text id="place_cost">Place Cost</text>
-		<text id="area_name_sign">Can rename islands when placed.</text>
+		<text id="area_name_sign">Peut renommer des îles une fois placées.</text>
 		<text id="equipOn">Equip On</text>
 		<text id="underwater">Can be used underwater.</text>
 		<text id="passTile">Passes through tiles.</text>
@@ -536,7 +536,7 @@
 		<text id="hammer">Builds blueprints on hit.</text>
 	</section>
 	<section id="achievement.names">
-		<text id="hut">Shelter</text>
+		<text id="hut">Abri</text>
 		<text id="boar">Instant Meat</text>
 		<text id="storehouse">Infinite Space</text>
 		<text id="farm">Sharecropping</text>
@@ -642,46 +642,46 @@
 		<text id="slots">-- Slots --</text>
 		<text id="plant">Change Crop</text>
 		<text id="fertilizer">Fertilizer</text>
-		<text id="activate_fail">There is something missing that's needed to activate this.</text>
-		<text id="search_fail">Hmm, nothing of interest here.</text>
-		<text id="get_pumpkin_seeds">Found some [item=pumpkin_seed]!</text>
-		<text id="sail_boat">Sail Boat</text>
+		<text id="activate_fail">Il manque quelque chose pour l'activer.</text>
+		<text id="search_fail">Hmm, rien d'intéressant ici.</text>
+		<text id="get_pumpkin_seeds">J'ai trouvé [item=pumpkin_seed]!</text>
+		<text id="sail_boat">Voilier/text>
 		<text id="manage_storage">Manage Storage</text>
-		<text id="elevator">Elevator</text>
+		<text id="elevator">Ascenseur</text>
 		<text id="overweight">The [tile=boat.ico] Boat is too heavy to sail!</text>
 		<text id="rest_boat">Rest in Boat</text>
 		<text id="activate">Would you like to use a {item} to activate this structure?</text>
 		<text id="enchant_recipe">The pillar reveals this enchantment:\n{enchant} + {items} = {creates}.</text>
 		<text id="enchant_added">The enchantment recipe has been added to the [color=770000]Forge[/color].</text>
 		<text id="place_in_lair">Requires {item} in this lair.</text>
-		<text id="golem_factory">The structure's power is all being drawn into that statue...</text>
+		<text id="golem_factory">Tout le pouvoir de la structure est attiré par cette statue ...</text>
 		<text id="golemech">Build Golemech</text>
 		<text id="build">Would you like to build a {structure} for the following resources?</text>
 		<text id="dismantle">Would you like to dismantle the {structure} for the following resources?</text>
 		<text id="plant_cost">Would you like to plant {structure} for the following resources?</text>
 		<text id="place_cost">Would you like to place {structure} for the following resources?</text>
-		<text id="dragon_lair">Dragon in Lair:</text>
-		<text id="change_appearance">Change Appearance</text>
-		<text id="forge">Activate the Forge.</text>
-		<text id="synthesizer">Activate the Synthesizer.</text>
+		<text id="dragon_lair">Dragon dans son Repaire:</text>
+		<text id="change_appearance">Changer d'Apparence</text>
+		<text id="forge">Activez la Forge.</text>
+		<text id="synthesizer">Activez le Synthétiseur.</text>
 	</section>
 	<section id="structure.tooltip">
 		<text id="hut">Repos dans la Cabane</text>
-		<text id="storehouse">Entrer dans l'entrepôt</text>
-		<text id="workshop">Craft in Workshop</text>
-		<text id="smelter">Smelt Ores</text>
+		<text id="storehouse">Entrer dans l'Entrepôt</text>
+		<text id="workshop">Crafter dans l'Atelier</text>
+		<text id="smelter">Fondre les Minerais</text>
 		<text id="kitchen">Cuisinier dans la Cuisine</text>
 		<text id="farm">Entrer dans la Ferme</text>
-		<text id="food_market">Trade with Foodseller</text>
-		<text id="weaps_market">Trade with Weapon Dealer</text>
-		<text id="mineral_market">Trade with Ore Merchant</text>
+		<text id="food_market">Commercer avec le Marchand de Nourriture</text>
+		<text id="weaps_market">Commercer avec le Marchand d'Armes</text>
+		<text id="mineral_market">Commercer avec le Marchand de Minerai</text>
 		<text id="dockhouse">Enter Dockhouse</text>
-		<text id="boat">Enter Boat</text>
-		<text id="lab">Mix Potions</text>
-		<text id="pen">Manage Pen</text>
-		<text id="cage">Manage Cage</text>
-		<text id="summon_alchemist">Summon Alchemist</text>
-		<text id="dragon_lair2">Raise Dragons</text>
+		<text id="boat">Entrer dans le Bateau</text>
+		<text id="lab">Mélanger les Potions</text>
+		<text id="pen">Gérer l'Enclos</text>
+		<text id="cage">Gérer la Cage</text>
+		<text id="summon_alchemist">Invoquer l'Alchimiste</text>
+		<text id="dragon_lair2">Réveiller les Dragons</text>
 		<text id="raise_into">Raise into {into}</text>
 		<text id="fly_dragon">Fly Dragon</text>
 		<text id="activate">Activer</text>
