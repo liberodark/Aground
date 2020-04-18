@@ -1531,7 +1531,7 @@
 		<text id="button_logout">Logout of Aground Cloud</text>
 		<text id="not_logged_in">Not logged into Aground Cloud</text>
 		<text id="logged_in">Logged in as: {username}</text>
-		<text id="username">Nom d'utilisateur:</text>
+		<text id="username">Utilisateur:</text>
 		<text id="password">Mot de passe:</text>
 		<text id="remember">Remember Me?</text>
 		<text id="create">Créer un compte</text>
