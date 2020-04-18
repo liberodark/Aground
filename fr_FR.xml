@@ -101,7 +101,7 @@
 		<text id="auto_eat">Used {count} {item} to restore health</text>
 		<text id="auto_eat_stamina">Utiliser {count} {item} pour restaurer l'endurance</text>
 		<text id="auto_eat_oxygen">Utiliser {count} {item} pour restaurer l'oxygène</text>
-		<text id="drop_all">Êtes-vous sûr de vouloir jeter tous vos {item}? Ils seront supprimer pour de bon.</text>
+		<text id="drop_all">Êtes-vous sûr de vouloir jeter tous vos {item}? Ils seront supprimés pour de bon.</text>
 		<text id="sign_message">Set [item=sign] Message:</text>
 		<text id="transform">Combien aimeriez-vous transformer en {into}?</text>
 		<text id="collect_complete">Collecte terminée</text>
@@ -173,7 +173,7 @@
 		<text id="speed">Vitesse</text>
 		<text id="endurance">Endurance</text>
 		<text id="attack">Attaque</text>
-		<text id="range">Porté</text>
+		<text id="range">Portée</text>
 		<text id="defense">Defense</text>
 		<text id="elementDefense">Elemental Defense</text>
 		<text id="cut">Coupe</text>
@@ -645,7 +645,7 @@
 		<text id="activate_fail">Il manque quelque chose pour l'activer.</text>
 		<text id="search_fail">Hmm, rien d'intéressant ici.</text>
 		<text id="get_pumpkin_seeds">J'ai trouvé [item=pumpkin_seed]!</text>
-		<text id="sail_boat">Voilier/text>
+		<text id="sail_boat">Voilier</text>
 		<text id="manage_storage">Manage Storage</text>
 		<text id="elevator">Ascenseur</text>
 		<text id="overweight">The [tile=boat.ico] Boat is too heavy to sail!</text>
@@ -654,7 +654,7 @@
 		<text id="enchant_recipe">The pillar reveals this enchantment:\n{enchant} + {items} = {creates}.</text>
 		<text id="enchant_added">The enchantment recipe has been added to the [color=770000]Forge[/color].</text>
 		<text id="place_in_lair">Requires {item} in this lair.</text>
-		<text id="golem_factory">Tout le pouvoir de la structure est attiré par cette statue ...</text>
+		<text id="golem_factory">Tout le pouvoir de la structure est attiré par cette statue...</text>
 		<text id="golemech">Construire un Golemech</text>
 		<text id="build">Would you like to build a {structure} for the following resources?</text>
 		<text id="dismantle">Would you like to dismantle the {structure} for the following resources?</text>
@@ -662,8 +662,8 @@
 		<text id="place_cost">Would you like to place {structure} for the following resources?</text>
 		<text id="dragon_lair">Dragon dans son Repaire:</text>
 		<text id="change_appearance">Changer d'Apparence</text>
-		<text id="forge">Activez la Forge.</text>
-		<text id="synthesizer">Activez le Synthétiseur.</text>
+		<text id="forge">Activer la Forge.</text>
+		<text id="synthesizer">Activer le Synthétiseur.</text>
 	</section>
 	<section id="structure.tooltip">
 		<text id="hut">Repos dans la Cabane</text>
@@ -746,7 +746,7 @@
 		<text id="place_no_room">Vous devez creuser une zone plus grande pour placer cet objet.</text>
 		<text id="no_place">Vous ne pouvez pas placer cela ici!</text>
 		<text id="no_use">Vous ne pouvez pas l'utiliser ici!</text>
-		<text id="place_height">Vous ne pouvez pas placer cela aussi haut./text>
+		<text id="place_height">Vous ne pouvez pas placer cela aussi haut.</text>
 		<text id="structure_surface">Cette structure ne peut pas être construite sous la surface.</text>
 		<text id="structure_underwater">Cette structure ne peut pas être construite sous l'eau.</text>
 		<text id="structure_water">This structure must be built on water.</text>
@@ -893,7 +893,7 @@
 		<text id="manage_items">Gérer les Items</text>
 		<text id="manage_player">Gérer soi-même</text>
 		<text id="battery">Charge à partir des batteries</text>
-		<text id="explain">[color=770000]TIP:[/color] Lorsque vous conduisez un véhicule ou un animal, vous pouvez sélectionner [key=equipment] pour voir les détails de ce que vous conduisez et le nourrir ou le ravitailler./text>
+		<text id="explain">[color=770000]TIP:[/color] When riding a vehicle or animal, you can hit [key=equipment] to see details about what you're riding, and feed or fuel it.</text>
 		<text id="flight_height">Ce véhicule ne peut pas voler plus haut!</text>
 		<text id="deploy">Déployer</text>
 		<text id="pack_up">Emballer</text>
@@ -919,7 +919,7 @@
 		<text id="introduce2">Hmph. Je suppose qu'avec [var=quest.storehouse.wood] [item=wood] et [var=quest.storehouse.berries] [item=berries] Je pourrais peut-être faire un bon [color=770000]Storehouse[/color].</text>
 		<text id="accept1">Bien! Je peux trouver ça, pas de problème.</text>
 		<text id="accept2">Prenez ça [item=stone_axe], si vous êtes tellement enthousiaste.</text>
-		<text id="stamina">Je suis épuisé. Tu as l'air fatiguée aussi. Nous devrions nous reposer dans le [color=770000]Hut[/color] pour sauver le jeu et restaurer notre[tile=stamina] [color=006600]Stamina[/color].</text>
+		<text id="stamina">Je suis épuisé. Tu as l'air fatiguée aussi. Nous devrions nous reposer dans le [color=770000]Hut[/color] pour sauver le jeu et restaurer notre [tile=stamina] [color=006600]Stamina[/color].</text>
 		<text id="wood">How's my old [item=stone_axe]? I bet it could chop down a tree by hitting [key=attack] next to one.</text>
 		<text id="hint1">All items go into your inventory when you collect them. You can check it by hitting [key=inventory].</text>
 		<text id="hint2">If your [tile=stamina] [color=006600]Stamina[/color] runs out, you will lose [tile=health] [color=770000]Health[/color], and if your [tile=health] [color=770000]Health[/color] runs out, you will die.</text>
@@ -972,8 +972,8 @@
 		<text id="sign2">Use this here [item=area_name_sign] to change the name of this island!</text>
 	</section>
 	<section id="miner">
-		<text id="introduce1">Oh hey. Je ne savais pas qu'il y avait d'autres survivants.</text>
-		<text id="introduce2">I’ve been underground - there’s way more to this place than meets the eye.</text>garde
+		<text id="introduce1">Oh, hey. Je ne savais pas qu'il y avait d'autres survivants.</text>
+		<text id="introduce2">I’ve been underground - there’s way more to this place than meets the eye.</text>
 		<text id="introduce3">I’ve got an extra pickaxe if you want to check it out too.</text>
 		<text id="smelter">How's the digging going? Maybe we should build a [color=770000]Smelter[/color] to melt down ores into bars.</text>
 		<text id="accept1">Great! Let me know when you have enough [item=coal]!</text>
