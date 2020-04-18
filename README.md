@@ -1,6 +1,3 @@
-# Aground
-Community translate for http://store.steampowered.com/app/876650
-
 <p align="center">
     <img src="http://cdn.edgecast.steamstatic.com/steam/apps/876650/header.jpg">    
 </p>
