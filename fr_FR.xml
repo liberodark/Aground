@@ -636,8 +636,8 @@
 		<text id="cotton">Cotton Field</text>
 		<text id="pumpkin">Pumpkin Field</text>
 		<text id="add_field">Expand Farm</text>
-		<text id="add_stall">Build Pen</text>
-		<text id="pen">Stylo</text>
+		<text id="add_stall">Construire un Enclos</text>
+		<text id="pen">Enclos</text>
 		<text id="produces">-- Produces --</text>
 		<text id="slots">-- Slots --</text>
 		<text id="plant">Change Crop</text>
@@ -655,7 +655,7 @@
 		<text id="enchant_added">The enchantment recipe has been added to the [color=770000]Forge[/color].</text>
 		<text id="place_in_lair">Requires {item} in this lair.</text>
 		<text id="golem_factory">Tout le pouvoir de la structure est attiré par cette statue ...</text>
-		<text id="golemech">Build Golemech</text>
+		<text id="golemech">Construire un Golemech</text>
 		<text id="build">Would you like to build a {structure} for the following resources?</text>
 		<text id="dismantle">Would you like to dismantle the {structure} for the following resources?</text>
 		<text id="plant_cost">Would you like to plant {structure} for the following resources?</text>
@@ -700,13 +700,13 @@
 		<text id="operate_self">Operate on Self</text>
 		<text id="operate_other">Operate on Animal</text>
 		<text id="crop">Tend Crop</text>
-		<text id="stall">Manage Pen</text>
-		<text id="summon_boat">Summon Boat</text>
-		<text id="summon_dragon">Summon Dragon</text>
+		<text id="stall">Gérer l'Enclos</text>
+		<text id="summon_boat">Invoquer le Bateau</text>
+		<text id="summon_dragon">Invoquer le Dragon</text>
 	</section>
 	<section id="object.tooltip">
 		<text id="bush">Cueillir des baies</text>
-		<text id="tree">Chop Tree</text>
+		<text id="tree">Couper l'Arbre</text>
 		<text id="enemy">Attaque</text>
 		<text id="collect">Collecter {item}</text>
 		<text id="open">Ouvrir {item}</text>
@@ -741,14 +741,14 @@
 		<text id="durability">Trop endommagé pour être utilisé!</text>
 		<text id="focus">Cliquer pour Focus</text>
 		<text id="ingredients">Vous n'avez pas assez d'ingrédients.</text>
-		<text id="place_surface">You cannot place this object below the surface.</text>
-		<text id="place_overlap">You cannot place objects on top of objects.</text>
-		<text id="place_no_room">You must dig out a bigger area to place this object.</text>
-		<text id="no_place">You cannot place that here!</text>
+		<text id="place_surface">Vous ne pouvez pas placer cet objet sous la surface.</text>
+		<text id="place_overlap">Vous ne pouvez pas placer d'objets sur des objets.</text>
+		<text id="place_no_room">Vous devez creuser une zone plus grande pour placer cet objet.</text>
+		<text id="no_place">Vous ne pouvez pas placer cela ici!</text>
 		<text id="no_use">Vous ne pouvez pas l'utiliser ici!</text>
-		<text id="place_height">You cannot place that this high up.</text>
-		<text id="structure_surface">This structure cannot be built below the surface.</text>
-		<text id="structure_underwater">This structure cannot be built underwater.</text>
+		<text id="place_height">Vous ne pouvez pas placer cela aussi haut./text>
+		<text id="structure_surface">Cette structure ne peut pas être construite sous la surface.</text>
+		<text id="structure_underwater">Cette structure ne peut pas être construite sous l'eau.</text>
 		<text id="structure_water">This structure must be built on water.</text>
 		<text id="structure_tile">You must dig out a bigger area to build this structure.</text>
 		<text id="structure_overlap">You cannot build structures on top of structures or crops.</text>
