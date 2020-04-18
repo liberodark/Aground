@@ -916,42 +916,42 @@
 	<section id="builder">
 		<text id="intro">Vous vous attendez vraiment à pouvoir survivre ici? C'est sans espoir, mec.</text>
 		<text id="introduce1">Vous êtes bon en construction, non? Et si nous construisions quelque chose pour stocker les ressources et la nourriture que nous recueillons?</text>
-		<text id="introduce2">Hmph. Je suppose qu'avec [var=quest.storehouse.wood] [item=wood] et [var=quest.storehouse.berries] [item=berries] Je pourrais peut-être faire un bon [color=770000]Storehouse[/color].</text>
+		<text id="introduce2">Hmph. Je suppose qu'avec [var=quest.storehouse.wood] [item=wood] et [var=quest.storehouse.berries] [item=berries] Je pourrais peut-être faire un bon [color=770000]Entrepôt[/color].</text>
 		<text id="accept1">Bien! Je peux trouver ça, pas de problème.</text>
 		<text id="accept2">Prenez ça [item=stone_axe], si vous êtes tellement enthousiaste.</text>
-		<text id="stamina">Je suis épuisé. Tu as l'air fatiguée aussi. Nous devrions nous reposer dans le [color=770000]Hut[/color] pour sauver le jeu et restaurer notre [tile=stamina] [color=006600]Stamina[/color].</text>
+		<text id="stamina">Je suis épuisé. Tu as l'air fatiguée aussi. Nous devrions nous reposer dans le [color=770000]Hut[/color] pour sauver le jeu et restaurer notre [tile=stamina] [color=006600]Endurance[/color].</text>
 		<text id="wood">How's my old [item=stone_axe]? I bet it could chop down a tree by hitting [key=attack] next to one.</text>
 		<text id="hint1">All items go into your inventory when you collect them. You can check it by hitting [key=inventory].</text>
-		<text id="hint2">If your [tile=stamina] [color=006600]Stamina[/color] runs out, you will lose [tile=health] [color=770000]Health[/color], and if your [tile=health] [color=770000]Health[/color] runs out, you will die.</text>
-		<text id="hint3">That's why you need to eat a lot of [item=berries], [item=fruit] and [item=meat]. You can do this by selecting them in your inventory.</text>
-		<text id="storehouse1">You gathered everything already? I’m impressed.</text>
-		<text id="storehouse2">Let’s get this [color=770000]Storehouse[/color] built!</text>
+		<text id="hint2">Si votre [tile=stamina] [color=006600]Endurance[/color] s'épuise, vous perdrez [tile=health] [color=770000]Health[/color], et si votre [tile=health] [color=770000]Santé[/color] s'épuise, vous mourrez.</text>
+		<text id="hint3">Voilà pourquoi vous devez manger beaucoup de [item=berries], [item=fruit] et [item=meat]. Vous pouvez le faire en les sélectionnant dans votre inventaire.</text>
+		<text id="storehouse1">Vous avez déjà tout rassemblé? Je suis impressionné.</text>
+		<text id="storehouse2">Construisons cet [color=770000]Entrepôt[/color]!</text>
 		<text id="storehouse3">Regarde ça! Vous ne vous sentez pas accompli?</text>
-		<text id="storehouse4">Yeah… actually, this will be useful. Now we can avoid getting tired from carrying too much.</text>
-		<text id="storehouse5">We can quickly drop off all that extra weight by using the Move All buttons, and use [key=quest] to toggle starred items - starred items will stay in your inventory when you hit Move All.</text>
-		<text id="farmer">We should make a deal with the [object=farmer], I bet he could help us grow some tasty food.</text>
-		<text id="miner">Did you see that [object=miner] emerge from underground? You should see what she wants.</text>
-		<text id="kitchen1">What do you think of building a [color=770000]Kitchen[/color]? [item=meat] is good, but it’s even better cooked.</text>
-		<text id="kitchen2">I'll need [var=quest.kitchen.wood] [item=wood] and [var=quest.kitchen.coal] [item=coal] to build the [color=770000]Kitchen[/color].</text>
-		<text id="kitchen3">Looks like you have everything I need. Let's get this [color=770000]Kitchen[/color] built!</text>
-		<text id="kitchen4">You can cook food at the [color=770000]Kitchen[/color] as long as you have [item=wood] or [item=coal] to fuel it.</text>
-		<text id="kitchen5">You know what I’m craving? Some [item=cheese]. Nothing is quite as delicious.</text>
-		<text id="kitchen6">I could upgrade the [color=770000]Kitchen[/color] to make [item=cheese] and cook new recipes for [var=quest.kitchen2.wood] [item=wood] and [var=quest.kitchen2.steel_bar] [item=steel_bar]s.</text>
-		<text id="no_kitchen">What happened to my beautiful [color=770000]Kitchen[/color]? You better build a new one ASAP! You can build it using a [item=kitchen_blueprint].</text>
-		<text id="kitchen7">Looks like you have everything I need. Let's get this [color=770000]Kitchen[/color] upgraded!</text>
+		<text id="storehouse4">Ouais… en fait, ce sera utile. Maintenant, nous pouvons éviter de nous fatiguer de trop en porter.</text>
+		<text id="storehouse5">Nous pouvons rapidement perdre tout ce poids supplémentaire en utilisant les boutons Déplacer Tout et utiliser [key=quest] pour basculer entre les éléments favoris - les éléments favoris resteront dans votre inventaire lorsque vous appuyez sur Déplacer tout.</text>
+		<text id="farmer">Nous devrions conclure un accord avec le [object=farmer], je parie qu'il pourrait nous aider à cultiver de la nourriture savoureuse.</text>
+		<text id="miner">Avez-vous vu cette [object=miner] émerger du sol? Tu devrais voir ce qu'elle veut.</text>
+		<text id="kitchen1">Que pensez-vous de construire une [color=770000]Cuisine[/color]? [item=meat] est bonne, mais c'est encore mieux cuit.</text>
+		<text id="kitchen2">J'aurai besoin de [var=quest.kitchen.wood] [item=wood] et [var=quest.kitchen.coal] [item=coal] pour construire la[color=770000]Cuisine[/color].</text>
+		<text id="kitchen3">On dirait que tu as tout ce dont j'ai besoin. Construisons cette [color=770000]Cuisine[/color]!</text>
+		<text id="kitchen4">Vous pouvez faire cuire des aliments à la [color=770000]Cuisine[/color] tant que vous avez [item=wood] ou [item=coal] pour l'alimenter.</text>
+		<text id="kitchen5">Tu sais ce dont j'ai envie? Du [item=cheese]. Rien n'est aussi délicieux.</text>
+		<text id="kitchen6">Je pourrais mettre à niveau la [color=770000]Cuisine[/color] pour faire du [item=cheese] et cuisiner de nouvelles recettes pour [var=quest.kitchen2.wood] [item=wood] et [var=quest.kitchen2.steel_bar] [item=steel_bar]s.</text>
+		<text id="no_kitchen">Qu'est-il arrivé à ma belle [color=770000]Cuisine[/color]? Vous feriez mieux d'en construire une nouvelle dès que possible! Vous pouvez le construire en utilisant un [item=kitchen_blueprint].</text>
+		<text id="kitchen7">On dirait que tu as tout ce dont j'ai besoin. Mettons la [color=770000]Cuisine[/color] à niveau!</text>
 		<text id="kitchen8">Essayez quelques-unes des nouvelles recettes! On se sent presque civilisé!</text>
-		<text id="farm">Man, I'm hungry. I hope you get that [color=770000]Farm[/color] finished soon!</text>
+		<text id="farm">Mec, j'ai faim. J'espère que cette [color=770000]Ferme[/color] sera bientôt terminée!</text>
 	</section>
 	<section id="farmer">
 		<text id="introduce1">Je suis content de te voir. Ici, je pensais que j'étais tout seul, juste un vieil homme dans un monde vide.</text>
 		<text id="introduce2">J'ai encore un peu de vie dans ces vieux os et je pense que je pourrais vous aider. L’agriculture est mon métier et nous avons tous besoin de bons aliments pour continuer.</text>
-		<text id="introduce3">How about we build a barn and get a [color=770000]Farm[/color] up and runnin’?</text>
-		<text id="farm1">Nice! I'll put up the barn and plant some [item=wheat_seed]!</text>
-		<text id="farm2">Now we have a [color=770000]Farm[/color]! Stop by on occasion to pick up growin' crops - they will help restore your [tile=stamina] [color=006600]Stamina[/color]. Here - take some [item=bread] to keep you going while it grows.</text>
-		<text id="farm3">You can get [item=wood] by chopping down trees.</text>
-		<text id="farm4">If you want to grow more, simply plant more seeds! You can also manage and remove existing crops at the barn!</text>
-		<text id="farm5">Look at our awesome [color=770000]Farm[/color]! It's as good as anything I used to grow back home! But if you want to grow more, I can always make more seeds.</text>
-		<text id="kitchen">Raw [item=wheat] isn’t very tasty, but I bet we could make something better if you and the [object=builder] made a [color=770000]Kitchen[/color].</text>
+		<text id="introduce3">Que diriez-vous de construire une grange et de monter une [color=770000]Ferme[/color] en marche?</text>
+		<text id="farm1">Bien! Je vais monter la grange et planter des [item=wheat_seed]!</text>
+		<text id="farm2">Maintenant, nous avons une [color=770000]Ferme[/color]! Arrêtez-vous à l'occasion pour ramasser des cultures - elles vous aideront à restaurer votre [tile=stamina] [color=006600]Endurance[/color]. Ici - prenez du [item=bread] pour vous permettre de continuer pendant qu'elles poussent.</text>
+		<text id="farm3">Vous pouvez obtenir du [item=wood] en coupant des arbres.</text>
+		<text id="farm4">Si vous voulez faire pousser plus, plantez simplement plus de graines! Vous pouvez également gérer et supprimer les cultures existantes dans la grange!</text>
+		<text id="farm5">Regardez notre super [color=770000]Ferme[/color]! C'est aussi bon que tout ce que je cultivais chez moi! Mais si vous voulez en faire pousser plus, je peux toujours faire plus de graines.</text>
+		<text id="kitchen">[item=wheat] cru n'est pas très goûteux, but I bet we could make something better if you and the [object=builder] made a [color=770000]Kitchen[/color].</text>
 		<text id="pen1">You know what this [color=770000]Farm[/color] needs? Some Livestock! How about capturing some [color=770000][tile=boar] Boars[/color] with a [item=net]?</text>
 		<text id="pen2">I’ll add a [color=770000]Pen[/color] for [var=quest.pen.pig] [item=pig]s and [var=quest.pen.wood] [item=wood].</text>
 		<text id="pen3">Now aren't those the fattest and juiciest looking [item=pig]s you've ever seen?</text>
