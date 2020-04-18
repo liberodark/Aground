@@ -91,29 +91,29 @@
 		<text id="retry">Réessayez</text>
 		<text id="title">Titre</text>
 		<text id="move_all">Move All</text>
-		<text id="add_animal">Add Animal</text>
-		<text id="select_feed">Select Feed</text>
+		<text id="add_animal">Ajouter un Animal</text>
+		<text id="select_feed">Sélectionner la Nourriture</text>
 		<text id="use_count">Combien voulez-vous en utiliser?</text>
-		<text id="select_fertilizer">Select Fertilizer</text>
+		<text id="select_fertilizer">Sélectionner l'Engrais</text>
 		<text id="muted">Game Muted</text>
 		<text id="unmuted">Game Unmuted</text>
 		<text id="storehouse_add">{npc} added {count} {item} to the {storehouse}</text>
 		<text id="auto_eat">Used {count} {item} to restore health</text>
 		<text id="auto_eat_stamina">Utiliser {count} {item} pour restaurer l'endurance</text>
 		<text id="auto_eat_oxygen">Utiliser {count} {item} pour restaurer l'oxygène</text>
-		<text id="drop_all">Are you sure you wish to throw away all your {item}? They will be gone for good.</text>
+		<text id="drop_all">Êtes-vous sûr de vouloir jeter tous vos {item}? Ils seront supprimer pour de bon.</text>
 		<text id="sign_message">Set [item=sign] Message:</text>
-		<text id="transform">How many would you like to turn into {into}?</text>
-		<text id="collect_complete">Collect Complete</text>
+		<text id="transform">Combien aimeriez-vous transformer en {into}?</text>
+		<text id="collect_complete">Collecte terminée</text>
 		<text id="set_sticky">Toggle [tile=sticky] Sticky Item</text>
-		<text id="set_first">Set First Item</text>
-		<text id="fishing_line">There's something on the line!</text>
+		<text id="set_first">Définir le Premier Item</text>
+		<text id="fishing_line">Il y a quelque chose en jeu!</text>
 		<text id="fishing_fail">Il s'est enfui!</text>
 		<text id="fishing_hooked">Attends...</text>
 		<text id="fishing_pull">Tirez maintenant!</text>
-		<text id="craft">How many would you like to craft?</text>
-		<text id="uncraft">How many would you like to uncraft?</text>
-		<text id="coins">Coins</text>
+		<text id="craft">Combien voulez-vous en fabriquer?</text>
+		<text id="uncraft">Combien voulez-vous en recycler?</text>
+		<text id="coins">Pièces</text>
 		<text id="broken">{item} a cassé!</text>
 		<text id="damaged">{item} va bientôt se casser!</text>
 		<text id="rem_storehouse_items">Inventaire Uniquement</text>
@@ -123,26 +123,26 @@
 		<text id="rename">Set {item} Name:</text>
 		<text id="recharge">Recharge</text>
 		<text id="recharge_batteries">Recharge Batteries</text>
-		<text id="restore_power">All batteries recharged!</text>
-		<text id="restore_power_partial">Recharged as many batteries as possible.</text>
+		<text id="restore_power">Toutes les batteries sont rechargées!</text>
+		<text id="restore_power_partial">Recharger autant de batteries que possible.</text>
 		<text id="rations">Rations</text>
 		<text id="time">Temps</text>
 		<text id="auto_feed">Feed {item} the following?{list}</text>
 		<text id="auto_fuel">Fuel {item} with the following?{list}</text>
 		<text id="auto_repair">Repair {item} with the following?{list}</text>
-		<text id="retransform">{item} is about to break! Use the following to fix?{list}</text>
+		<text id="retransform">{item} est sur le point de casser! Utiliser ce qui suit pour réparer?{list}</text>
 		<text id="uses">Utiliser</text>
 		<text id="enchantment">Enchantement</text>
-		<text id="cooldown">Cooldown</text>
+		<text id="cooldown">Refroidissement</text>
 		<text id="durability">Durabilité</text>
 		<text id="damage">Dommage</text>
 		<text id="capture">Capturer</text>
-		<text id="capture_type">Capture Type</text>
+		<text id="capture_type">Type de Capture</text>
 		<text id="spirits">Spirits</text>
-		<text id="flight">Flight Height:</text>
-		<text id="depth">Dive Depth:</text>
-		<text id="knockback">Knockback:</text>
-		<text id="fight">Fight</text>
+		<text id="flight">Altitude de Vol:</text>
+		<text id="depth">Profondeur de plongée:</text>
+		<text id="knockback">Recul:</text>
+		<text id="fight">Combat</text>
 		<text id="run_away">S'enfuir</text>
 		<text id="complete">Achevé</text>
 		<text id="remove">Supprimer</text>
@@ -153,17 +153,17 @@
 		<text id="credits">Crédits</text>
 		<text id="order">Acheter le jeu!</text>
 		<text id="reset">Réinitialiser</text>
-		<text id="exit_water">Climb Ashore</text>
+		<text id="exit_water">Monter sur la Rive</text>
 		<text id="no_ask">Ne demandez plus</text>
-		<text id="out_of_date">[color=ff2222]ATTN![/color] Update {version} is now available!</text>
+		<text id="out_of_date">[color=ff2222]ATTN![/color] La Mise à jour {version} est maintenant disponible!</text>
 		<text id="select_dir">Select a Direction:\n\n[key=left][key=up][key=down][key=right]</text>
 		<text id="random">Aléatoire</text>
 		<text id="efficiency">Efficacité</text>
 		<text id="victory">Victoire!</text>
-		<text id="item_found">New Item Discovered!</text>
+		<text id="item_found">Nouvel Item Découvert!</text>
 		<text id="more">+{count} Plus...</text>
 		<text id="dismantle_tip">Pour construire cette structure, vous devez déplacer ou supprimer les structures qui se chevauchent. Vous pouvez le faire en utilisant [item=dismantle] de votre inventaire.</text>
-		<text id="delete_save">Are you sure you wish to delete this slot?</text>
+		<text id="delete_save">Voulez-vous vraiment supprimer cet emplacement?</text>
 		<text id="full">Impossible de consommer des articles tant que [tile=stat.full] la minuterie s'épuise!</text>
 	</section>
 	<section id="stats">
@@ -173,19 +173,19 @@
 		<text id="speed">Vitesse</text>
 		<text id="endurance">Endurance</text>
 		<text id="attack">Attaque</text>
-		<text id="range">Range</text>
+		<text id="range">Porté</text>
 		<text id="defense">Defense</text>
 		<text id="elementDefense">Elemental Defense</text>
-		<text id="cut">Cut</text>
-		<text id="spirit">Spirit</text>
+		<text id="cut">Coupe</text>
+		<text id="spirit">Esprit</text>
 		<text id="mine">Mine</text>
 		<text id="weight">Poids</text>
 		<text id="evasion">Evasion</text>
-		<text id="critical">Critical</text>
-		<text id="fishing">Fishing</text>
-		<text id="mine_speed">Mining Speed</text>
+		<text id="critical">Critique</text>
+		<text id="fishing">Pêche</text>
+		<text id="mine_speed">Vitesse de Minage</text>
 		<text id="sight">Sight</text>
-		<text id="bargaining">Bargaining</text>
+		<text id="bargaining">Négociation</text>
 		<text id="trap">Trapping</text>
 		<text id="oxygen">Oxygen</text>
 		<text id="time">{mod} for {time}s</text>
@@ -893,7 +893,7 @@
 		<text id="manage_items">Gérer les Items</text>
 		<text id="manage_player">Gérer soi-même</text>
 		<text id="battery">Charge à partir des batteries</text>
-		<text id="explain">[color=770000]TIP:[/color] When riding a vehicle or animal, you can hit [key=equipment] to see details about what you're riding, and feed or fuel it.</text>
+		<text id="explain">[color=770000]TIP:[/color] Lorsque vous conduisez un véhicule ou un animal, vous pouvez sélectionner [key=equipment] pour voir les détails de ce que vous conduisez et le nourrir ou le ravitailler./text>
 		<text id="flight_height">Ce véhicule ne peut pas voler plus haut!</text>
 		<text id="deploy">Déployer</text>
 		<text id="pack_up">Emballer</text>
@@ -914,19 +914,19 @@
 		<text id="fisherman">Pêcheur</text>
 	</section>
 	<section id="builder">
-		<text id="intro">You really expect to be able to survive here? It’s hopeless, man.</text>
-		<text id="introduce1">You’re good at building right? What if we built something to store the resources and food we gather?</text>
-		<text id="introduce2">Hmph. I guess with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries] I might be able to make a decent [color=770000]Storehouse[/color].</text>
-		<text id="accept1">Alright! I can find that, no problem.</text>
-		<text id="accept2">Take this [item=stone_axe], if you’re so gung-ho.</text>
-		<text id="stamina">I'm exhausted. You look tired too. We should rest in the [color=770000]Hut[/color] to save the game and restore our [tile=stamina] [color=006600]Stamina[/color].</text>
+		<text id="intro">Vous vous attendez vraiment à pouvoir survivre ici? C'est sans espoir, mec.</text>
+		<text id="introduce1">Vous êtes bon en construction, non? Et si nous construisions quelque chose pour stocker les ressources et la nourriture que nous recueillons?</text>
+		<text id="introduce2">Hmph. Je suppose qu'avec [var=quest.storehouse.wood] [item=wood] et [var=quest.storehouse.berries] [item=berries] Je pourrais peut-être faire un bon [color=770000]Storehouse[/color].</text>
+		<text id="accept1">Bien! Je peux trouver ça, pas de problème.</text>
+		<text id="accept2">Prenez ça [item=stone_axe], si vous êtes tellement enthousiaste.</text>
+		<text id="stamina">Je suis épuisé. Tu as l'air fatiguée aussi. Nous devrions nous reposer dans le [color=770000]Hut[/color] pour sauver le jeu et restaurer notre[tile=stamina] [color=006600]Stamina[/color].</text>
 		<text id="wood">How's my old [item=stone_axe]? I bet it could chop down a tree by hitting [key=attack] next to one.</text>
 		<text id="hint1">All items go into your inventory when you collect them. You can check it by hitting [key=inventory].</text>
 		<text id="hint2">If your [tile=stamina] [color=006600]Stamina[/color] runs out, you will lose [tile=health] [color=770000]Health[/color], and if your [tile=health] [color=770000]Health[/color] runs out, you will die.</text>
 		<text id="hint3">That's why you need to eat a lot of [item=berries], [item=fruit] and [item=meat]. You can do this by selecting them in your inventory.</text>
 		<text id="storehouse1">You gathered everything already? I’m impressed.</text>
 		<text id="storehouse2">Let’s get this [color=770000]Storehouse[/color] built!</text>
-		<text id="storehouse3">Look at that! Don’t you feel accomplished?</text>
+		<text id="storehouse3">Regarde ça! Vous ne vous sentez pas accompli?</text>
 		<text id="storehouse4">Yeah… actually, this will be useful. Now we can avoid getting tired from carrying too much.</text>
 		<text id="storehouse5">We can quickly drop off all that extra weight by using the Move All buttons, and use [key=quest] to toggle starred items - starred items will stay in your inventory when you hit Move All.</text>
 		<text id="farmer">We should make a deal with the [object=farmer], I bet he could help us grow some tasty food.</text>
@@ -939,12 +939,12 @@
 		<text id="kitchen6">I could upgrade the [color=770000]Kitchen[/color] to make [item=cheese] and cook new recipes for [var=quest.kitchen2.wood] [item=wood] and [var=quest.kitchen2.steel_bar] [item=steel_bar]s.</text>
 		<text id="no_kitchen">What happened to my beautiful [color=770000]Kitchen[/color]? You better build a new one ASAP! You can build it using a [item=kitchen_blueprint].</text>
 		<text id="kitchen7">Looks like you have everything I need. Let's get this [color=770000]Kitchen[/color] upgraded!</text>
-		<text id="kitchen8">Try out some of the new recipes! It almost feels civilized!</text>
+		<text id="kitchen8">Essayez quelques-unes des nouvelles recettes! On se sent presque civilisé!</text>
 		<text id="farm">Man, I'm hungry. I hope you get that [color=770000]Farm[/color] finished soon!</text>
 	</section>
 	<section id="farmer">
-		<text id="introduce1">Boy am I glad to see you. Here I was thinkin’ I was all alone, just one old man in an empty world.</text>
-		<text id="introduce2">I still got some life in these old bones and I reckon I could help you out. Farming’s my trade, and we all need some good food to keep us going.</text>
+		<text id="introduce1">Je suis content de te voir. Ici, je pensais que j'étais tout seul, juste un vieil homme dans un monde vide.</text>
+		<text id="introduce2">J'ai encore un peu de vie dans ces vieux os et je pense que je pourrais vous aider. L’agriculture est mon métier et nous avons tous besoin de bons aliments pour continuer.</text>
 		<text id="introduce3">How about we build a barn and get a [color=770000]Farm[/color] up and runnin’?</text>
 		<text id="farm1">Nice! I'll put up the barn and plant some [item=wheat_seed]!</text>
 		<text id="farm2">Now we have a [color=770000]Farm[/color]! Stop by on occasion to pick up growin' crops - they will help restore your [tile=stamina] [color=006600]Stamina[/color]. Here - take some [item=bread] to keep you going while it grows.</text>
@@ -972,8 +972,8 @@
 		<text id="sign2">Use this here [item=area_name_sign] to change the name of this island!</text>
 	</section>
 	<section id="miner">
-		<text id="introduce1">Oh, hey. Didn’t realize there were other survivors.</text>
-		<text id="introduce2">I’ve been underground - there’s way more to this place than meets the eye.</text>
+		<text id="introduce1">Oh hey. Je ne savais pas qu'il y avait d'autres survivants.</text>
+		<text id="introduce2">I’ve been underground - there’s way more to this place than meets the eye.</text>garde
 		<text id="introduce3">I’ve got an extra pickaxe if you want to check it out too.</text>
 		<text id="smelter">How's the digging going? Maybe we should build a [color=770000]Smelter[/color] to melt down ores into bars.</text>
 		<text id="accept1">Great! Let me know when you have enough [item=coal]!</text>
