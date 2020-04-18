@@ -212,8 +212,8 @@
 		<text id="oxygen">Augmente la durée de votre survie sans respirer.</text>
 	</section>
 	<section id="skill">
-		<text id="allocate">Attribuer des Points de Compétence</text>
-		<text id="points">Points de Compétences</text>
+		<text id="allocate">Attribuer Compétence</text>
+		<text id="points">Compétences</text>
 		<text id="max">[color=770000]Compétence Maximale</text>
 	</section>
 	<section id="actions">
