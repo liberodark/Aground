@@ -1007,34 +1007,34 @@
 		<text id="introduce2">J'ai peut-être emprunté quelques choses. Mais écoutez. Je vous rembourserai en offrant mes services. J'ai des relations avec de nombreux commerçants sur d'autres îles.</text>
 		<text id="introduce3">Les commerçants? Il y a plus de survivants là-bas?</text>
 		<text id="introduce4">Ouais. Mais j'aurai besoin de [var=quest.market.gold_bar] [item=gold_bar]s pour les convaincre de venir ici.</text>
-		<text id="introduce5">You’re going to charge us when you were just caught stealing?!</text>
-		<text id="introduce6">That was that. This is business. My offer is [var=quest.market.gold_bar] [item=gold_bar]s to add this island to the trade route.</text>
-		<text id="introduce7">Fine. If there are other survivors out there, trading with them could get us off this island.</text>
-		<text id="introduce8">I’m sorry, I can’t trust a thief. Leave this island, and never come back.</text>
-		<text id="introduce9">There are better islands to steal from anyways. You don’t even know what you’re missing.</text>
-		<text id="market1">Perfect! I feel this is the beginning of many lucrative trades between us.</text>
-		<text id="market2">Take this [item=coin_purse]. You’ll need it to store coins for buying and selling. I recommend buying a [item=mega_backpack] as soon as you can, they are a real life-saver!</text>
-		<text id="market3">At the [color=770000]Marché[/color], you can sell goods to get coins, which you can use to buy other goods.</text>
-		<text id="market4">The [color=770000]Marché[/color] sometimes gets new stock too, so if you can't get what you want or they run out of inventory, check back later.</text>
-		<text id="market5">To make a [item=gold_bar], you'll need to smelt [item=gold], which is found deep underground. The [object=miner] may have some tips for mining that deep.</text>
-		<text id="dock1">Are you interested in seeing the rest of the world? How about building a [color=770000]Quai[/color]?</text>
-		<text id="dock2">I’ll build it for you if you give me [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] and [var=quest.dock.net] [item=net]s.</text>
-		<text id="dock3">Excellent, let's get this [color=770000]Quai[/color] built!</text>
-		<text id="dock4">Once you build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color], you'll be ready to travel across the sea!</text>
-		<text id="dock5">The [color=770000]Quai[/color] costs [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] and [var=quest.dock.net] [item=net]s.</text>
+		<text id="introduce5">Vous allez nous facturer alors que vous venez d’être surpris en train de voler?!</text>
+		<text id="introduce6">C'est ça. Ce sont les affaires. Je vous propose d'ajouter cette île à la route commerciale contre des [var=quest.market.gold_bar] [item=gold_bar]s.</text>
+		<text id="introduce7">Ok. S'il y a d'autres survivants, commercer avec eux pourrait nous permettre de quitter cette île.</text>
+		<text id="introduce8">Désolé, mais je ne peux pas faire confiance à une voleuse. Quittez cette île et ne revenez jamais.</text>
+		<text id="introduce9">Il y a de meilleures îles où voler de toute façon. Vous ne savez même pas ce que vous râtez.</text>
+		<text id="market1">Parfait! Je sens que c'est le début de nombreux échanges lucratifs entre nous.</text>
+		<text id="market2">Prenez ça [item=coin_purse]. Vous en aurez besoin pour stocker des pièces pour acheter et vendre. Je vous recommande d'acheter un [item=mega_backpack] dès que possible, ça facilite vraiment la vie!</text>
+		<text id="market3">Au [color=770000]Marché[/color], vous pouvez vendre des produits contre des pièces, que vous pouvez utiliser pour acheter d'autres produits.</text>
+		<text id="market4">Le [color=770000]Marché[/color] reçoit parfois aussi de nouveaux stocks, donc si vous ne trouver pas ce que vous voulez ou qu'ils sont en rupture de stock, revenez plus tard.</text>
+		<text id="market5">Pour faire une [item=gold_bar], vous devez fondre de l'[item=gold], qui se trouve profondément sous terre. Le [object=miner] pourrait avoir quelques conseils pour miner aussi profondément.</text>
+		<text id="dock1">Êtes-vous intéressé de voir le reste du monde? Que diriez-vous de construire un [color=770000]Quai[/color]?</text>
+		<text id="dock2">Je le construirai pour vous si vous me donner des [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] et [var=quest.dock.net] [item=net]s.</text>
+		<text id="dock3">Excellent, construisons ce [color=770000]Quai[/color]!</text>
+		<text id="dock4">Une fois que vous aurez construit un [tile=boat.ico] Bateau au [color=770000]Dockhouse[/color], vous serez prêt à voyager à travers les mers!</text>
+		<text id="dock5">Le [color=770000]Quai[/color] coûte [var=quest.dock.coins] [color=770000][tile=coin_purse.ico] Coins[/color], [var=quest.dock.wood] [item=wood], [var=quest.dock.cloth] [item=cloth] et [var=quest.dock.net] [item=net]s.</text>
 		<text id="accept">Accepter l'Offre</text>
 		<text id="reject">Envoyer</text>
 		<text id="sail">N'est-ce pas une belle journée pour la voile?</text>
-		<text id="pirate">Someone stole everything! All my hard work! Who would do such a thing?!</text>
-		<text id="shipping1">Now that you have items spread across multiple islands, wouldn't it be nice to be able to transfer them from storehouse to storehouse? With my new shipping service, you can - for a small fee!</text>
-		<text id="shipping2">What island would you like to ship items from?</text>
-		<text id="shipping3">I can ship items from [color=770000]{area}[/color] for 0.20 [color=770000][tile=coin_purse.ico] Coins[/color] per weight. Let me know what items you want me to ship:</text>
-		<text id="shipping4">What island would you like to ship the selected items to for {coins} [color=770000][tile=coin_purse.ico] Coins[/color]?</text>
-		<text id="shipping5">The items are on their way - you should see them there the next time you visit. Let me know if there are any other items you'd like to ship, and a pleasure doing business with you!</text>
+		<text id="pirate">Quelqu'un a tout volé! Tout mon dur labeur! Qui ferait une telle chose?!</text>
+		<text id="shipping1">Maintenant que vous avez des articles répartis sur plusieurs îles, ne serait-il pas agréable de pouvoir les transférer d'un entrepôt à l'autre? Avec mon nouveau service d'expédition, vous pouvez - pour une somme modique!</text>
+		<text id="shipping2">De quelle île souhaitez-vous expédier des articles?</text>
+		<text id="shipping3">Je peux expédier des articles [color=770000]{area}[/color] pour 0.20 [color=770000][tile=coin_purse.ico] Coins[/color] par poids. Faites-moi savoir quels articles vous voulez que j'expédie:</text>
+		<text id="shipping4">À quelle île souhaitez-vous expédier les articles sélectionnés pour {coins} [color=770000][tile=coin_purse.ico] Coins[/color]?</text>
+		<text id="shipping5">Les articles sont en route - vous devriez les voir là-bas lors de votre prochaine visite. Faites-moi savoir s'il y a d'autres articles que vous souhaitez expédier. C'est un plaisir de faire affaire avec vous!</text>
 	</section>
 	<section id="alchemist">
-		<text id="introduce1">There is more to this planet than meets the eye. I have been doing experiments, and I believe I have discovered magic!</text>
-		<text id="introduce2">I am in need of more materials. If you come across a [item=wyrm], slay it and give me its [item=dragonblood] and I will make sure you are rewarded.</text>
+		<text id="introduce1">Il y a plus qu'il n'y paraît sur cette planète. J'ai fait des expériences et je crois avoir découvert la magie!</text>
+		<text id="introduce2">J'ai besoin de plus de matériel. Si vous tombez sur un [item=wyrm], tuez-le et donnez-moi son [item=dragonblood] et je m'assurerai que vous soyez récompensé.</text>
 		<text id="lab1">I knew it! This is the secret! I must set up a laboratory immediately!</text>
 		<text id="lab2">Your reward? Bring materials to my lab and I will mix up a magic potion for you.</text>
 		<text id="lab3">Hurry up! My research is at a standstill until I get some [item=dragonblood]!</text>
