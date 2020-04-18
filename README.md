@@ -10,7 +10,7 @@ Community translate for http://store.steampowered.com/app/876650
 
 # Crashlands
 
-Community Translate : <a href="http://steamcommunity.com/app/391730/discussions/0/1692662484255991698/"> Link </a>
+Community Translate : <a href="https://steamcommunity.com/app/876650/discussions/0/4086396791249584909/"> Link </a>
 
 - liberodark : <a href="https://steamcommunity.com/app/876650/discussions/0/1841314700715046794/"> French </a>
 - Waiting for : Other
