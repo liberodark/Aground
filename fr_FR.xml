@@ -1438,7 +1438,7 @@
 		<text id="ui">UI Options</text>
 		<text id="controls">Contrôles</text>
 		<text id="achievements">Achievements</text>
-		<text id="title">Retour au jeu</text>
+		<text id="title">Retour au menu</text>
 		<text id="back">Retour</text>
 		<text id="quitgame">Do you wish to return to the title screen? Any unsaved progress will be lost.</text>
 		<text id="keyboard">Clavier</text>
