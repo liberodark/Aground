@@ -50,7 +50,7 @@
 		<text id="hut">Cabane</text>
 		<text id="smelter">Fonderie</text>
 		<text id="kitchen">Cuisine</text>
-		<text id="workshop">Workshop</text>
+		<text id="workshop">Atelier</text>
 		<text id="storehouse">Entrepôt</text>
 		<text id="dockhouse">Dockhouse</text>
 		<text id="market_placeholder">Marché</text>
@@ -93,7 +93,7 @@
 		<text id="move_all">Move All</text>
 		<text id="add_animal">Add Animal</text>
 		<text id="select_feed">Select Feed</text>
-		<text id="use_count">How many would you like to use?</text>
+		<text id="use_count">Combien voulez-vous en utiliser?</text>
 		<text id="select_fertilizer">Select Fertilizer</text>
 		<text id="muted">Game Muted</text>
 		<text id="unmuted">Game Unmuted</text>
@@ -146,10 +146,10 @@
 		<text id="run_away">S'enfuir</text>
 		<text id="complete">Achevé</text>
 		<text id="remove">Supprimer</text>
-		<text id="time_manipulator">Time Manipulator</text>
-		<text id="set_time">What time would you like to make it (24-hour format)?</text>
-		<text id="save_prompt_magic">This is the end of the demo for the Magic Path. Would you like to save?</text>
-		<text id="save_prompt_science">This is the end of the demo for the Science Path. Would you like to save?</text>
+		<text id="time_manipulator">Manipulateur de Temps</text>
+		<text id="set_time">À quelle heure souhaitez-vous le faire (format 24 heures)?</text>
+		<text id="save_prompt_magic">C'est la fin de la démo du Magic Path. Souhaitez-vous sauvegarder?</text>
+		<text id="save_prompt_science">Ceci est la fin de la démo du Science Path. Souhaitez-vous sauvegarder?</text>
 		<text id="credits">Crédits</text>
 		<text id="order">Acheter le jeu!</text>
 		<text id="reset">Réinitialiser</text>
@@ -162,9 +162,9 @@
 		<text id="victory">Victoire!</text>
 		<text id="item_found">New Item Discovered!</text>
 		<text id="more">+{count} Plus...</text>
-		<text id="dismantle_tip">To build this structure, you need to move or remove overlapping structures. You can do this using [item=dismantle] from your inventory.</text>
+		<text id="dismantle_tip">Pour construire cette structure, vous devez déplacer ou supprimer les structures qui se chevauchent. Vous pouvez le faire en utilisant [item=dismantle] de votre inventaire.</text>
 		<text id="delete_save">Are you sure you wish to delete this slot?</text>
-		<text id="full">Cannot consume items until the [tile=stat.full] timer runs out!</text>
+		<text id="full">Impossible de consommer des articles tant que [tile=stat.full] la minuterie s'épuise!</text>
 	</section>
 	<section id="stats">
 		<text id="view">Voir les Stats</text>
@@ -192,24 +192,24 @@
 		<text id="max">{mod} ({current}/{max})</text>
 	</section>
 	<section id="stat.descriptions">
-		<text id="health">How many hits you can take before dying.</text>
-		<text id="stamina">How many actions you can take before losing health.</text>
-		<text id="speed">How fast you can move.</text>
-		<text id="endurance">Lowers stamina cost for movement.</text>
-		<text id="attack">Increases damage for every melee attack.</text>
-		<text id="range">Increases range for all ranged weapons.</text>
-		<text id="defense">Lowers damage when hit.</text>
-		<text id="cut">Increases damage when cutting trees.</text>
-		<text id="mine">Allows you to mine harder tiles.</text>
-		<text id="weight">Increases base carrying capacity.</text>
-		<text id="evasion">Increases enemy miss chance.</text>
-		<text id="critical">Increases melee critical hit chance.</text>
-		<text id="fishing">Makes catching difficult fish easier.</text>
-		<text id="mine_speed">Allows you to mine tiles faster.</text>
-		<text id="sight">Reveals more tiles when moving and mining.</text>
-		<text id="bargaining">Increases the sell cost of items.</text>
-		<text id="trap">Increases catch rate for nets.</text>
-		<text id="oxygen">Increases how long you can survive without breathing.</text>
+		<text id="health">Combien de coups tu peux prendre avant de mourir.</text>
+		<text id="stamina">Combien d'actions vous pouvez entreprendre avant de perdre votre santé.</text>
+		<text id="speed">À quelle vitesse vous pouvez vous déplacer.</text>
+		<text id="endurance">Réduit le coût de l'endurance pour le mouvement.</text>
+		<text id="attack">Augmente les dégâts pour chaque attaque de mêlée.</text>
+		<text id="range">Augmente la portée de toutes les armes à distance.</text>
+		<text id="defense">Réduit les dégâts en cas de coup.</text>
+		<text id="cut">Augmente les dégâts lors de la coupe des arbres.</text>
+		<text id="mine">Vous permet de miner des tuiles plus dures.</text>
+		<text id="weight">Augmente la capacité de charge de base.</text>
+		<text id="evasion">Augmente les chances de s'enfuir.</text>
+		<text id="critical">Augmente les chances de coup critique en mêlée.</text>
+		<text id="fishing">Facilite la capture de poissons difficiles.</text>
+		<text id="mine_speed">Vous permet de miner plus rapidement.</text>
+		<text id="sight">Révèle plus de tuiles lors du déplacement et de l'extraction.</text>
+		<text id="bargaining">Augmente le coût de vente des Items.</text>
+		<text id="trap">Augmente le taux de capture des filets.</text>
+		<text id="oxygen">Augmente la durée de votre survie sans respirer.</text>
 	</section>
 	<section id="skill">
 		<text id="allocate">Allocate Skill Points</text>
@@ -1423,8 +1423,8 @@
 	</section>
 	<section id="system.planet.desc">
 		<text id="start">An Earth-like and habitable planet, colony location #21.\n\nSuspected of being [color=ff2222]Enemy Homeworld[/color].</text>
-		<text id="start.dwarf">A small but dense terrestrial planet close to the star. It has no atmosphere, but is likely to hold valuable ores and [item=exotic_matter].</text>
-		<text id="start.gas">An ice giant with a stormy atmosphere and strong gravitational pull.</text>
+		<text id="start.dwarf">Une petite planète terrestre dense mais proche de l'étoile. Elle n'a pas d'atmosphère, mais elle est susceptible de contenir des minerais précieux et [item=exotic_matter].</text>
+		<text id="start.gas">Une géante de glace avec une atmosphère orageuse et une forte attraction gravitationnelle.</text>
 	</section>
 	<section id="options">
 		<text id="options">Options</text>
