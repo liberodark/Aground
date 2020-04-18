@@ -1328,7 +1328,7 @@
 		<text id="tip2">If it says "Wait for it...", the fish needs a little more coaxing. Wait until it says "Pull now!" then hit [key=select] again!</text>
 		<text id="tip3">Some fish are more difficult to catch and require more keys. Keep an eye on the tooltip, and hit the key it shows!</text>
 		<text id="scene1">Me, this is all I need - a roof over my head, sunshine, and the vast ocean to fish.</text>
-		<text id="scene2">And you? What’s your dream?</text>
+		<text id="scene2">Et vous? Quel est votre rêve?</text>
 		<text id="scene3">I’d really like to know if there’s a way off this planet.</text>
 		<text id="scene4">What, why!? Do you have a death wish? Those things have no mercy.</text>
 		<text id="scene5">I want to know more about them… and why things happened the way they did...</text>
@@ -1352,7 +1352,7 @@
 		<text id="nav2">Did the Mirrows add this note?! I have to ask them about this...</text>
 		<text id="nav3">We're on the Enemy Homeworld? How do you know?</text>
 		<text id="nav4">We can't be certain... but we took samples of many ruins on this planet. Not only are they a match for their technology, but they date back over a million years ago!</text>
-		<text id="nav5">But they're gone now?</text>
+		<text id="nav5">Mais ils sont partis maintenant?</text>
 		<text id="nav6">We haven't detected them on this planet, but even if they did leave, they are sure to return eventually.</text>
 		<text id="nav7">This is why we were willing to sacrifice everything for strength... from the day we landed on this planet, a confrontation with them became inevitable.</text>
 	</section>
@@ -1368,7 +1368,7 @@
 		<text id="first9">Please…[pause=4] help…</text>
 		<text id="second1">… so when I arrived here I just started digging and didn’t even realize there was a storm.</text>
 		<text id="second2">But I’m glad you’re here. I was getting tired of eating dirt, and there’s nothing like a warm fire after a long day underground.</text>
-		<text id="second3">Do you think there are more survivors out there?</text>
+		<text id="second3">Pensez-vous qu'il y a plus de survivants là-bas?</text>
 		<text id="second4">Honestly, I’m surprised anyone survived that crash. But here we are, so maybe others survived too?</text>
 		<text id="third1">Now I bet you youngin’s are thinking this here’s the end of the world, but I thought the same during World War 3 and yet here we all are.</text>
 		<text id="third2">The way I sees it, we just got to make the best of the situation, and be glad there’s food to eat and company to share.</text>
@@ -1377,7 +1377,7 @@
 		<text id="fourth1">So tell us what you know of other survivors?</text>
 		<text id="fourth2">Most of us were scattered across different islands, but some of the islands have more survivors and even some working technology.</text>
 		<text id="fourth3">I’ve even heard rumors of an island with a nearly intact ship.</text>
-		<text id="fourth4">Could it still fly?</text>
+		<text id="fourth4">Pourrait-il encore voler?</text>
 		<text id="fourth5">As I said, all I’ve heard are rumors. But even if it could, it’d be certain death. Best to stay on this planet, they don’t seem to care about us here.</text>
 		<text id="hunter1">You're so good at this stuff. Were you a hunter before the crash?</text>
 		<text id="hunter2">Heh. Never killed an animal in my life before this. I was a scientist. Lab work. Molecules.</text>
@@ -1387,8 +1387,8 @@
 		<text id="mirrows1">They’ve been rebuilding technology?</text>
 		<text id="mirrows2">Yeah, Sunset Haven has power and industrial equipment.</text>
 		<text id="mirrows3">But the folks there aren’t too happy with the Mirrows who set it all up.</text>
-		<text id="mirrows4">The Mirrows survived!?</text>
-		<text id="mirrows5">You know them?</text>
+		<text id="mirrows4">Les Mirrows ont survécu!?</text>
+		<text id="mirrows5">Tu les connais?</text>
 		<text id="mirrows6">Unfortunately. We were part of the same research group back home, studying genetics.</text>
 		<text id="mirrows7">After the attack, they started doing awful stuff like human experimentation. I could no longer work with them.</text>
 		<text id="mirrows8">Hey, we should rebuild some technology here, too! If they can do it, why not us?</text>
