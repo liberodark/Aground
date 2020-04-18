@@ -13,11 +13,11 @@
 		<text id="save_corrupt">Sauvegarde corrompu! Cela peut être dû au fait que le lecteur se trouve dans une zone qui n'existe pas dans cette version.</text>
 		<text id="save_incomplete">Enregistrement incomplet - certains objets/éléments/zones peuvent être manquants. C'est généralement parce qu'il vous manque un mod ou que la sauvegarde provient d'une autre version du jeu..</text>
 		<text id="fuel">Carburant</text>
-		<text id="add_fuel">Add Fuel</text>
-		<text id="add_rations">Add Rations</text>
-		<text id="add_feed">Add Feed</text>
+		<text id="add_fuel">Ajouter du Carburant</text>
+		<text id="add_rations">Ajout des Rations</text>
+		<text id="add_feed">Ajouter de la Nourriture</text>
 		<text id="all">Tous</text>
-		<text id="equipment">Equipment</text>
+		<text id="equipment">Equipement</text>
 		<text id="capacity">Porter:</text>
 		<text id="health">Santé:</text>
 		<text id="stamina">Endurance:</text>
@@ -87,7 +87,7 @@
 		<text id="level">Niveau:</text>
 		<text id="experience">Exp:</text>
 		<text id="hotkey">Sélectionner un item</text>
-		<text id="set_hotkey">Set Hotkey:</text>
+		<text id="set_hotkey">Définir Raccourci:</text>
 		<text id="retry">Réessayez</text>
 		<text id="title">Titre</text>
 		<text id="move_all">Move All</text>
@@ -630,17 +630,17 @@
 		<text id="golemech">Vaincre un [color=ff2222]Golemech[/color].</text>
 	</section>
 	<section id="structure">
-		<text id="wheat">Wheat Field</text>
+		<text id="wheat">Champ de Blé</text>
 		<text id="orchard">Verger</text>
-		<text id="sugar">Sugar Field</text>
-		<text id="cotton">Cotton Field</text>
-		<text id="pumpkin">Pumpkin Field</text>
-		<text id="add_field">Expand Farm</text>
+		<text id="sugar">Champ de Sucre</text>
+		<text id="cotton">Champ de Coton</text>
+		<text id="pumpkin">Champ de Citrouilles</text>
+		<text id="add_field">Agrandir la Ferme</text>
 		<text id="add_stall">Construire un Enclos</text>
 		<text id="pen">Enclos</text>
-		<text id="produces">-- Produces --</text>
-		<text id="slots">-- Slots --</text>
-		<text id="plant">Change Crop</text>
+		<text id="produces">-- Produire --</text>
+		<text id="slots">-- Emplacements --</text>
+		<text id="plant">Changer de Culture</text>
 		<text id="fertilizer">Fertilizer</text>
 		<text id="activate_fail">Il manque quelque chose pour l'activer.</text>
 		<text id="search_fail">Hmm, rien d'intéressant ici.</text>
