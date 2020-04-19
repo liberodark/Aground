@@ -1108,11 +1108,11 @@
 		<text id="first5">Ils étaient là?! Après Vous?</text>
 		<text id="first6">Yes. I believe they were jealous of my magic. Or frightened of it? It’s hard to say for sure...</text>
 		<text id="second1">You met them on this planet ten years ago? That's before they tried to wipe out humanity and destroy Earth!</text>
-		<text id="second2">Correct. I was the first to encounter them, and the first they tried to kill.</text>
+		<text id="second2">Correct. J'ai été le premier à les rencontrer et le premier qu'ils ont tenté de tuer.</text>
 		<text id="second3">I don't know what I could've done differently to stop the war. They arrived suddenly with their biological weapons and attacked without a word.</text>
-		<text id="second4">If only there was a way to communicate with them...</text>
-		<text id="second5">We probably could communicate with them now, using my magic translation.</text>
-		<text id="second6">But, hopefully we'll never encounter them again, now that they seem content to ignore us.</text>
+		<text id="second4">Si seulement il y avait un moyen de communiquer avec eux...</text>
+		<text id="second5">Nous pourrions probablement communiquer avec eux maintenant, en utilisant ma traduction magique.</text>
+		<text id="second6">Mais avec de la chance nous ne les rencontrerons plus jamais, maintenant qu'ils semblent satisfaits de nous ignorer.</text>
 		<text id="oldone1">I’ve been noticing some very strange spikes in the magical energy lately. It could be nothing, but it could be one of them.</text>
 		<text id="oldone2">Si vous le trouvez, appelez-moi immédiatement. Si c'est vraiment l'un d'entre eux, nous sommes tous en grand danger.</text>
 		<text id="oldone3">Très bien, voyons si ma traduction fonctionne!</text>
@@ -1126,11 +1126,11 @@
 		<text id="oldone11">Vous regretterez d'avoir choisi de me déranger!</text>
 		<text id="oldone12">Non!</text>
 		<text id="oldone13">Qu'est-ce qui ne va pas, n'avons-nous pas gagné?</text>
-		<text id="oldone14">We were too slow! It sent out a signal. They will know we are on this planet!</text>
+		<text id="oldone14">Nous étions trop lents! Il a envoyé un signal. Ils sauront que nous sommes sur cette planète!</text>
 		<text id="oldone15">We must learn all the magic we can - and use their power against them when they come! Otherwise we are all doomed.</text>
 		<text id="oldone16">You are more adept at magic than I expected! This cannot be allowed, only we should wield magic.</text>
 		<text id="oldone17">It's sending a signal! If they hear it, they will come! I must finish this quickly!</text>
-		<text id="oldone18">What happened? Are you ok?</text>
+		<text id="oldone18">Qu'est-il arrivé? Ça va?</text>
 		<text id="oldone19">No…[pause=4] The signal was sent…[pause=4] And my life-force has been completely drained…</text>
 		<text id="oldone20">It is up to you now…[pause=4] Hurry!…[pause=4] Find the answers… Use their magic…</text>
 		<text id="oldone_tips1">[tile=alchemist anim=alchemist.idle] I'll set up a defensive barrier and healing magic. Stay behind me while it attacks, and then hit it when it overloads.</text>
@@ -1194,7 +1194,7 @@
 		<text id="accept5">Why don't you craft a [item=bow] and kill some [color=770000][tile=boar] Boars[/color]. And let me know if you need any hunting tips!</text>
 		<text id="reject1">You seem dangerous. Stay out of our area!</text>
 		<text id="reject2">Well, fine! I’ll just go back to the mountains then!</text>
-		<text id="reject3">Ready to learn some hunting techniques?</text>
+		<text id="reject3">Prêt à apprendre certaines techniques de chasse?</text>
 		<text id="hunt1">We’ll have this area cleared of dangerous creatures in no time!</text>
 		<text id="hunt2">For a job well done, let me give you my old [item=backpack] - it might come in handy when you’re out in the field.</text>
 		<text id="tip1">You could dig a tunnel to sneak up on boars and hit them from behind.</text>
@@ -1204,10 +1204,10 @@
 		<text id="tent3">So there I was, shivering and alone on the dark mountainside, when I saw firelight! And heard laughter! It sounded so companionable...</text>
 		<text id="tent4">So you came down to make friends with us?</text>
 		<text id="tent5">Of course not. And I certainly wasn’t hunting boars to try and impress you. Not at all.</text>
-		<text id="tent6">I simply wanted to expand my hunting range.</text>
+		<text id="tent6">Je voulais simplement étendre ma zone de chasse</text>
 		<text id="tent7">I’d like to know more about this place, and whether there’s anything beyond this island…</text>
 		<text id="tent8">There’s other islands out there to the east. I’ve seen them, from high in the mountains.</text>
-		<text id="tent9">Think we could get there?</text>
+		<text id="tent9">Vous pensez que nous pourrions y arriver?</text>
 		<text id="tent10">Not sure. The coast on that end is treacherous. Plus, those islands looked plenty strange to me. Might be dangerous.</text>
 		<text id="tent11">So you’re saying we should just be content with the way things are?</text>
 		<text id="tent12">I’m saying that we don’t need to go borrowing trouble when life is already hard.</text>
@@ -1219,8 +1219,8 @@
 		<text id="wolf2">N'a-t-il pas de meute?</text>
 		<text id="wolf3">Ils ont dû le laisser derrière lui.</text>
 		<text id="wolf4">With [var=quest.wolf.net] [item=net]s, [var=quest.wolf.trap] [item=trap]s and [var=quest.wolf.meat] [item=meat], we may be able to tame him.</text>
-		<text id="wolf5">Okay, let’s see what we can do with this pup.</text>
-		<text id="wolf6">Well done, he seems to trust you completely. You have a loyal companion now.</text>
+		<text id="wolf5">Bon, voyons ce que nous pouvons faire avec ce chiot.</text>
+		<text id="wolf6">Bien joué, il semble te faire entièrement confiance. Vous avez maintenant un fidèle compagnon.</text>
 		<text id="wolf7">You can have the [item=wolf] follow you by using the [color=770000]Familiar[/color] slot in your [color=770000]Equipment[/color] window.</text>
 	</section>
 	<section id="mechanic">
