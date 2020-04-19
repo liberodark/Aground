@@ -116,8 +116,8 @@
 		<text id="coins">Pièces</text>
 		<text id="broken">{item} a cassé!</text>
 		<text id="damaged">{item} va bientôt se casser!</text>
-		<text id="rem_storehouse_items">Inventaire Uniquement</text>
-		<text id="add_storehouse_items">Include Storehouse</text>
+		<text id="rem_storehouse_items">Inventaire Seulement</text>
+		<text id="add_storehouse_items">Inclure l'Entrepôt</text>
 		<text id="hungry">{item} a faim!</text>
 		<text id="not_hungry">{item} n'a pas faim.</text>
 		<text id="rename">Set {item} Name:</text>
@@ -127,9 +127,9 @@
 		<text id="restore_power_partial">Recharger autant de batteries que possible.</text>
 		<text id="rations">Rations</text>
 		<text id="time">Temps</text>
-		<text id="auto_feed">Feed {item} the following?{list}</text>
-		<text id="auto_fuel">Fuel {item} with the following?{list}</text>
-		<text id="auto_repair">Repair {item} with the following?{list}</text>
+		<text id="auto_feed">Nourrir {item} avec ce qui suit?{list}</text>
+		<text id="auto_fuel">Carburant {item} avec ce qui suit?{list}</text>
+		<text id="auto_repair">Réparer {item} avec ce qui suit?{list}</text>
 		<text id="retransform">{item} est sur le point de casser! Utiliser ce qui suit pour réparer?{list}</text>
 		<text id="uses">Utiliser</text>
 		<text id="enchantment">Enchantement</text>
@@ -138,7 +138,7 @@
 		<text id="damage">Dommage</text>
 		<text id="capture">Capturer</text>
 		<text id="capture_type">Type de Capture</text>
-		<text id="spirits">Spirits</text>
+		<text id="spirits">Esprits</text>
 		<text id="flight">Altitude de Vol:</text>
 		<text id="depth">Profondeur de plongée:</text>
 		<text id="knockback">Recul:</text>
@@ -354,7 +354,7 @@
 		<text id="toothfish">Légine</text>
 		<text id="rockfish">Sébaste</text>
 		<text id="coral_cod">Morue de corail</text>
-		<text id="fertilizer">Fertilizer</text>
+		<text id="fertilizer">Engrais</text>
 		<text id="yeti_fur">Icy Fur</text>
 		<text id="dark_fur">Shadow Fur</text>
 		<text id="fire_gem">Fire Gem</text>
@@ -641,7 +641,7 @@
 		<text id="produces">-- Produire --</text>
 		<text id="slots">-- Emplacements --</text>
 		<text id="plant">Changer de Culture</text>
-		<text id="fertilizer">Fertilizer</text>
+		<text id="fertilizer">Engrais</text>
 		<text id="activate_fail">Il manque quelque chose pour l'activer.</text>
 		<text id="search_fail">Hmm, rien d'intéressant ici.</text>
 		<text id="get_pumpkin_seeds">J'ai trouvé [item=pumpkin_seed]!</text>
@@ -834,12 +834,12 @@
 		<text id="hunt">Chasse aux Sangliers</text>
 		<text id="fence">Défense</text>
 		<text id="wolf">Wolf Pup</text>
-		<text id="powerplant">Fix Power Plant</text>
+		<text id="powerplant">Réparer Centrale électrique</text>
 		<text id="factory">Construire une Usine</text>
 		<text id="elevator">Construire un Ascenseur</text>
 		<text id="mirrows">Confront Mirrows</text>
 		<text id="mirrows2">Convince Mirrows</text>
-		<text id="fisherman_cat">Finding Peri</text>
+		<text id="fisherman_cat">Trouver Peri</text>
 		<text id="bandits">Vaincre les Bandits</text>
 		<text id="boars">Vaincre les Sangliers</text>
 		<text id="wyrm_hive">Wyrm Hive</text>
@@ -1302,18 +1302,18 @@
 		<text id="mirrows5">Quoi? Je ne dirige pas un organisme de bienfaisance, vous savez.</text>
 	</section>
 	<section id="fisherman">
-		<text id="intro1">Finally back on land again! You look like you just arrived too!</text>
-		<text id="intro1_alt">Hey there! It's nice to see other survivors sailing out here!</text>
+		<text id="intro1">Enfin de retour sur terre! On dirait que vous venez d'arriver aussi!</text>
+		<text id="intro1_alt">Héy! C'est agréable de voir d'autres survivants naviguer ici!</text>
 		<text id="intro2">Don't mind her, that's just Polly’s way of saying hello. Hope you don’t mind a bit of seawater on your boots!</text>
-		<text id="intro3">So, have you been to this island before?</text>
-		<text id="intro3_alt">So, do you know what island lies ahead?</text>
-		<text id="intro4">Sure have, this island's called Sunset Haven, and it has more survivors than any other island I've seen.</text>
-		<text id="intro4_alt">Sure do, the island's called Sunset Haven, and it has more survivors than any other island I've seen.</text>
-		<text id="intro5">Makes sense too - as it is where the main ship crashed.</text>
-		<text id="intro6">But watch yourself. I've heard some bad rumors about Sunset Haven lately...</text>
-		<text id="cat1">Hey, my [item=cat] Peri ran away from me again! Do you think you could help me find her?</text>
-		<text id="cat2">I think she’s trying to avoid sailing. Not a fan of the water.</text>
-		<text id="cat3">If you help me out, I'll teach you what I know of fishing.</text>
+		<text id="intro3">Alors, avez-vous déjà visité cette île?</text>
+		<text id="intro3_alt">Alors, savez-vous quelle île nous attend?</text>
+		<text id="intro4">Bien sûr, cette île s'appelle Sunset Haven, et elle a plus de survivants que n'importe quelle autre île que j'ai vue.</text>
+		<text id="intro4_alt">Bien sûr, l'île s'appelle Sunset Haven, et elle a plus de survivants que n'importe quelle autre île que j'ai vue.</text>
+		<text id="intro5">Cela a également du sens - car c'est là que le navire principal s'est écrasé.</text>
+		<text id="intro6">Mais attention. J'ai récemment entendu de mauvaises rumeurs sur Sunset Haven...</text>
+		<text id="cat1">Hé, mon [item=cat] Peri s'est encore enfui de moi! Pensez-vous que vous pourriez m'aider à la retrouver?</text>
+		<text id="cat2">Je pense qu'elle essaie d'éviter de naviguer. Pas une fan de l'eau.</text>
+		<text id="cat3">Si vous m'aidez, je vous apprendrai ce que je sais de la pêche.</text>
 		<text id="cat4">Awesome, thanks! Here's a spare [item=fishing_rod], talk to me if you want fishing tips!</text>
 		<text id="cat5">[item=toothfish] are Peri's favorite food, maybe you can tempt her with some of those?</text>
 		<text id="cat6">Hey, you found my [item=cat]! Thanks, man.</text>
@@ -1329,10 +1329,10 @@
 		<text id="tip3">Some fish are more difficult to catch and require more keys. Keep an eye on the tooltip, and hit the key it shows!</text>
 		<text id="scene1">Me, this is all I need - a roof over my head, sunshine, and the vast ocean to fish.</text>
 		<text id="scene2">Et vous? Quel est votre rêve?</text>
-		<text id="scene3">I’d really like to know if there’s a way off this planet.</text>
-		<text id="scene4">What, why!? Do you have a death wish? Those things have no mercy.</text>
-		<text id="scene5">I want to know more about them… and why things happened the way they did...</text>
-		<text id="scene6">Listen my friend, I saw one firsthand before we launched from Earth. All you need to know is how to avoid them.</text>
+		<text id="scene3">J'aimerais vraiment savoir s'il y a un moyen de quitter cette planète.</text>
+		<text id="scene4">Quoi, pourquoi!? Avez-vous un souhait de mort? Ces choses n'ont aucune pitié.</text>
+		<text id="scene5">Je veux en savoir plus à leur sujet... et pourquoi les choses se sont passées comme ça...</text>
+		<text id="scene6">Écoutez mon ami, j'en ai vu un avant le lancement de la Terre. Tout ce que vous devez savoir, c'est comment les éviter.</text>
 	</section>
 	<section id="mirrows">
 		<text id="intro1">Are you two the Mirrows? Why have you been tormenting Sunset Haven and creating those strange mutants?</text>
@@ -1342,15 +1342,15 @@
 		<text id="intro5">If you’re determined to work against us, we have no choice but to fight you.</text>
 		<text id="intro6">I have a feeling your body is just what I need for my new Cyborg invention!</text>
 		<text id="defeat0">Unbelievable! Somehow you are stronger than I am, even with our advanced cybernetics!</text>
-		<text id="defeat1">You must tell us the secrets of your strength - you could be the key to saving humanity!</text>
-		<text id="defeat2">If I tell you my secrets will you agree to stop harassing the townsfolk and asking them for money?</text>
-		<text id="defeat3">Of course. Why would we need those dull specimens when we have you!?</text>
-		<text id="defeat4">This will be a whole new line of research for us!</text>
+		<text id="defeat1">Vous devez nous dire les secrets de votre force - vous pourriez être la clé pour sauver l'humanité!</text>
+		<text id="defeat2">Si je vous dis mes secrets, accepterez-vous d'arrêter de harceler les citadins et de leur demander de l'argent?</text>
+		<text id="defeat3">Bien sûr. Pourquoi aurions-nous besoin de ces spécimens ternes quand nous vous aurons!?</text>
+		<text id="defeat4">Ce sera un tout nouvel axe de recherche pour nous!!</text>
 		<text id="defeat5">Feel free to use our surgery lab. We’d be very interested to see how powerful you become with our cybernetic enhancements!</text>
 		<text id="tip1">You can remove cybernetic enhancements at any time by selecting it in your equipment window and choosing remove. You can re-install enhancements later at the surgery lab, but it will cost more resources.</text>
 		<text id="nav1">Looks like the navigation screen is still working. According to this, we are currently on Unoiks 428c.</text>
-		<text id="nav2">Did the Mirrows add this note?! I have to ask them about this...</text>
-		<text id="nav3">We're on the Enemy Homeworld? How do you know?</text>
+		<text id="nav2">Les Mirrows ont-ils ajouté cette note?! Je dois leur demander à ce sujet...</text>
+		<text id="nav3">Nous sommes sur l'Ennemi Homeworld? Comment le sais-tu?</text>
 		<text id="nav4">We can't be certain... but we took samples of many ruins on this planet. Not only are they a match for their technology, but they date back over a million years ago!</text>
 		<text id="nav5">Mais ils sont partis maintenant?</text>
 		<text id="nav6">We haven't detected them on this planet, but even if they did leave, they are sure to return eventually.</text>
@@ -1422,7 +1422,7 @@
 		<text id="start">Unoiks 428{char}</text>
 	</section>
 	<section id="system.planet.desc">
-		<text id="start">An Earth-like and habitable planet, colony location #21.\n\nSuspected of being [color=ff2222]Enemy Homeworld[/color].</text>
+		<text id="start">Une planète semblable à la Terre et habitable, emplacement de la colonie # 21.\n\nSuspecté d'être [color=ff2222]Enemy Homeworld[/color].</text>
 		<text id="start.dwarf">Une petite planète terrestre dense mais proche de l'étoile. Elle n'a pas d'atmosphère, mais elle est susceptible de contenir des minerais précieux et [item=exotic_matter].</text>
 		<text id="start.gas">Une géante de glace avec une atmosphère orageuse et une forte attraction gravitationnelle.</text>
 	</section>
@@ -1448,9 +1448,9 @@
 		<text id="import_save">Peut uniquement importer des fichiers sur l'écran de titre.</text>
 		<text id="import_html5">To import: drag .asav file into game window, then select a slot to place the save.</text>
 		<text id="file_import">Sélectionner une sauvegarde à importer.</text>
-		<text id="file_export">Where do you wish to export the save slot?</text>
-		<text id="import_fail">Cannot import: Save corrupted.</text>
-		<text id="export_fail">Cannot export: Save corrupted.</text>
+		<text id="file_export">Où souhaitez-vous exporter la sauvegarde?</text>
+		<text id="import_fail">Impossible d'importer: Sauveguarde corrompu.</text>
+		<text id="export_fail">Impossible d'exporter: Sauveguarde corrompu.</text>
 		<text id="auto_heal">Auto-eat health healing food?</text>
 		<text id="auto_stamina">Auto-eat stamina healing food?</text>
 		<text id="max_overweight">Overweight Limit:</text>
@@ -1510,40 +1510,40 @@
 		<text id="attack">Attaque:</text>
 		<text id="defend">Défendre:</text>
 		<text id="device">Device:</text>
-		<text id="hotkey1">Hotkey 1:</text>
-		<text id="hotkey2">Hotkey 2:</text>
-		<text id="hotkey3">Hotkey 3:</text>
-		<text id="hotkey4">Hotkey 4:</text>
-		<text id="hotkey5">Hotkey 5:</text>
-		<text id="hotkey6">Hotkey 6:</text>
-		<text id="hotkey7">Hotkey 7:</text>
-		<text id="hotkey8">Hotkey 8:</text>
+		<text id="hotkey1">Raccourci 1:</text>
+		<text id="hotkey2">Raccourci 2:</text>
+		<text id="hotkey3">Raccourci 3:</text>
+		<text id="hotkey4">Raccourci 4:</text>
+		<text id="hotkey5">Raccourci 5:</text>
+		<text id="hotkey6">Raccourci 6:</text>
+		<text id="hotkey7">Raccourci 7:</text>
+		<text id="hotkey8">Raccourci 8:</text>
 		<text id="mute">Muet:</text>
-		<text id="chat">Chat:</text>
+		<text id="chat">Tchat:</text>
 	</section>
 	<section id="cloud">
-		<text id="login">Aground Cloud Login\nAground Cloud is an optional service that will sync your save files across all versions of the game.</text>
-		<text id="logging_in">Logging in... Please wait...</text>
-		<text id="login_fail">Incorrect username or password.</text>
-		<text id="connect_fail">Cloud sync failed to connect.</text>
-		<text id="sync_fail">Sync Failed!</text>
-		<text id="button_login">Login to Aground Cloud</text>
-		<text id="button_logout">Logout of Aground Cloud</text>
-		<text id="not_logged_in">Not logged into Aground Cloud</text>
-		<text id="logged_in">Logged in as: {username}</text>
+		<text id="login">Connexion à Aground Cloud\nAground Cloud est un service facultatif qui synchronisera vos fichiers de sauvegarde sur toutes les versions du jeu.</text>
+		<text id="logging_in">Connexion... Veuillez patienter...</text>
+		<text id="login_fail">identifiant ou mot de passe incorrect.</text>
+		<text id="connect_fail">Cloud sync n'a pas réussi à se connecter.</text>
+		<text id="sync_fail">Échec de la synchronisation!</text>
+		<text id="button_login">Connectez-vous à Aground Cloud</text>
+		<text id="button_logout">Déconnexion de Aground Cloud</text>
+		<text id="not_logged_in">Non connecté à Aground Cloud</text>
+		<text id="logged_in">Connecté en tant que: {username}</text>
 		<text id="username">Utilisateur:</text>
 		<text id="password">Mot de passe:</text>
 		<text id="remember">Remember Me?</text>
 		<text id="create">Créer un compte</text>
-		<text id="user_error">Username must be between 3 and 24 characters.</text>
-		<text id="pass_error">Password must be between 3 and 40 characters.</text>
+		<text id="user_error">Le nom d'utilisateur doit comprendre entre 3 et 24 caractères.</text>
+		<text id="pass_error">Le mot de passe doit comprendre entre 3 et 40 caractères.</text>
 		<text id="sync_slots">Syncing Slots</text>
-		<text id="all_synced">All Saves Synced!</text>
-		<text id="unsynced">You have unsynced saves!</text>
+		<text id="all_synced">Toutes les sauveguardes sont synchronisés!</text>
+		<text id="unsynced">Vous avez des sauveguardes non synchronisés!</text>
 		<text id="sync_now">Synchroniser maintenant</text>
-		<text id="overwrite">There are two saves in this slot!\nWhich one would you like to keep?</text>
-		<text id="close_syncing">Your saves are currently syncing. Are you sure you wish to leave before the sync completes?</text>
-		<text id="confirm_logout">Are you sure you wish to logout?</text>
+		<text id="overwrite">Il y a deux sauvegardes dans cet emplacement!\nLaquel aimeriez-vous garder?</text>
+		<text id="close_syncing">Vos sauvegardes sont en cours de synchronisation. Voulez-vous vraiment quitter avant la fin de la synchronisation?</text>
+		<text id="confirm_logout">Êtes-vous sûr de vouloir vous déconnecter?</text>
 	</section>
 	<section id="modio">
 		<text id="login">Nous utilisons mod.io pour installer et gérer les mods. Entrez votre e-mail pour commencer!</text>
@@ -1572,7 +1572,7 @@
 	</section>
 	<section id="steam">
 		<text id="upload">Envoyer sur Steam</text>
-		<text id="upload_title">Uploading {name} to Steam Workshop:</text>
+		<text id="upload_title">Envoie {name} vers Steam Workshop:</text>
 		<text id="notes">Notes:</text>
 		<text id="id">ID:</text>
 		<text id="agreement">Acceptez les conditions de service du workshop.</text>
