@@ -886,7 +886,7 @@
 		<text id="minecart">wants to set up a [item=minecart] to make mining easier.</text>
 	</section>
 	<section id="vehicle">
-		<text id="dismount">Démonter</text>
+		<text id="dismount">Déscendre</text>
 		<text id="vehicle">Véhicule</text>
 		<text id="fly">Move up to fly.</text>
 		<text id="overweight">Le véhicule est trop lourd pour bouger!</text>
@@ -1056,9 +1056,9 @@
 		<text id="dragon12">Vous l'avez fait? Il y a peut-être encore de l'espoir pour race.</text>
 		<text id="dragon12_a">Excellent! Alors, vous nous direz les secrets de la magie?</text>
 		<text id="dragon13">Malheureusement, je ne connais pas les secrets que vous cherchez. Les anciens nous ont créés et ils ont construit ce repaire pour nous élever.</text>
-		<text id="dragon14">However, answers may lie on the islands to the east. Return to this lair when you are ready, and I will fly you there.</text>
-		<text id="dragon15">Another dragon lair! Imagine how many dragons were once raised in lairs like these with magic! I wonder why... in any case, allow me to activate this lair.</text>
-		<text id="dragon16">I also built a [color=770000]Wyrm Pen[/color] here, in case we need to raise more dragons! But don't expect me to harvest [item=dragonblood] here, I've got more important things to research.</text>
+		<text id="dragon14">Cependant, les réponses peuvent se trouver sur les îles à l'est. Retournez dans ce repaire quand vous serez prêt et je vous y emmènerai.</text>
+		<text id="dragon15">Un autre repaire de dragon! Imaginez combien de dragons ont été élevés dans des tanières comme celles-ci avec magie! Je me demande pourquoi ... en tout cas, permettez-moi d'activer ce repaire.</text>
+		<text id="dragon16">J'ai également construit un [color=770000]Wyrm Pen[/color] ici, au cas où nous aurions besoin d'élever plus de dragons! Mais ne vous attendez pas à ce que je récolte du [item=dragonblood] ici, j'ai des choses plus importantes à rechercher.</text>
 		<text id="call_dragon">Où avez-vous laissé le dragon? Je vais l'appeler ici - essayez de ne pas le perdre de vue.</text>
 		<text id="lair1">Je le savais! Cette tanière est artificielle, faite par magie! Il semble que son but était d'élever des dragons!</text>
 		<text id="lair2">Je parie que je peux l'activer...</text>
