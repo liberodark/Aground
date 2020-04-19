@@ -1127,39 +1127,39 @@
 		<text id="oldone12">Non!</text>
 		<text id="oldone13">Qu'est-ce qui ne va pas, n'avons-nous pas gagné?</text>
 		<text id="oldone14">Nous étions trop lents! Il a envoyé un signal. Ils sauront que nous sommes sur cette planète!</text>
-		<text id="oldone15">We must learn all the magic we can - and use their power against them when they come! Otherwise we are all doomed.</text>
-		<text id="oldone16">You are more adept at magic than I expected! This cannot be allowed, only we should wield magic.</text>
-		<text id="oldone17">It's sending a signal! If they hear it, they will come! I must finish this quickly!</text>
+		<text id="oldone15">Nous devons apprendre toute la magie que nous pouvons - et utiliser leur pouvoir contre eux quand ils viendront! Sinon, nous sommes tous condamnés.</text>
+		<text id="oldone16">Vous êtes plus adepte de la magie que je ne le pensais! Ce n'est pas possible, seulement nous devons utiliser la magie.</text>
+		<text id="oldone17">Un signal est envoyé. S'ils l'entendent, ils viendront! Je dois finir ça vite!</text>
 		<text id="oldone18">Qu'est-il arrivé? Ça va?</text>
-		<text id="oldone19">No…[pause=4] The signal was sent…[pause=4] And my life-force has been completely drained…</text>
-		<text id="oldone20">It is up to you now…[pause=4] Hurry!…[pause=4] Find the answers… Use their magic…</text>
-		<text id="oldone_tips1">[tile=alchemist anim=alchemist.idle] I'll set up a defensive barrier and healing magic. Stay behind me while it attacks, and then hit it when it overloads.</text>
-		<text id="oldone_attack">[tile=alchemist anim=alchemist.idle] Attack it now!</text>
-		<text id="oldone_beam">[tile=alchemist anim=alchemist.idle] I'm detecting a magical energy spike! I don't think my barrier will be able to block this attack!</text>
+		<text id="oldone19">Non…[pause=4] Le signal a été envoyé…[pause=4] Et ma force vitale a été complètement épuisée…</text>
+		<text id="oldone20">C'est à vous maintenant…[pause=4] Vite!…[pause=4] Trouvez les réponses… Utilisez leur magie…</text>
+		<text id="oldone_tips1">[tile=alchemist anim=alchemist.idle] Je vais mettre en place une barrière défensive et la magie de guérison. Restez derrière moi pendant l'attaque, puis frappez-le quand il surcharge.</text>
+		<text id="oldone_attack">[tile=alchemist anim=alchemist.idle] Attaquez maintenant!</text>
+		<text id="oldone_beam">[tile=alchemist anim=alchemist.idle] Je détecte un pic d'énergie magique! Je ne pense pas que ma barrière pourra bloquer cette attaque!</text>
 		<text id="return1">Que fais-tu ici?!</text>
-		<text id="return2">I’m using the laboratory to analyze samples from the eastern island.</text>
-		<text id="return3">I mean, how did you get back here so fast?</text>
-		<text id="return4">The same way I get everywhere! By teleporting. Obviously. Now stop bothering me, I need to finish my analysis.</text>
-		<text id="muttering">Gemstone synthesis… nested carapace… evolution indefinitely… [font=drachenklaue]mumbo jumbo[/font]...</text>
-		<text id="oldone_choice">You're no match for this creature. We'll need a plan if we want to survive!</text>
+		<text id="return2">J'utilise le laboratoire pour analyser des échantillons de l'est de l'île.</text>
+		<text id="return3">Je veux dire, comment êtes-vous revenu ici si vite?</text>
+		<text id="return4">De la même manière que j'arrive partout! En me téléportant. Évidemment. Maintenant arrête de me déranger, je dois terminer mon analyse.</text>
+		<text id="muttering">Synthèse de pierres précieuses… carapace imbriquée… évolution indéfinie… [font=drachenklaue]mumbo jumbo[/font]...</text>
+		<text id="oldone_choice">Vous n'êtes pas à la hauteur de cette créature. Nous aurons besoin d'un plan si nous voulons survivre!</text>
 		<text id="work_together">Travailler ensemble</text>
 		<text id="alchemist_fight">Laissez l'alchimiste se battre</text>
 		<text id="battle">Reculer! Ce combat n'est pas pour les débutants!</text>
 	</section>
 	<section id="player">
-		<text id="storm1">So cold…[pause=1] and tired…[pause=1] I need shelter, but there’s nothing around here but fallen branches!</text>
-		<text id="storm3">I can barely hold all this [item=wood]! It'll take more [tile=stamina] [color=006600]Stamina[/color] to move now, but I can't stop here, I need to find shelter!</text>
-		<text id="hut1">What is this structure? It looks like someone stopped in the middle of making a shelter. I bet I could finish it with [var=quest.hut.wood] [item=wood].</text>
+		<text id="storm1">Si froid…[pause=1] et fatigué…[pause=1] J'ai besoin d'un abri, mais il n'y a rien d'autre ici que des branches tombées!</text>
+		<text id="storm3">Je peux à peine tenir tout ça [item=wood]! Il faudra plus d'[tile=stamina] [color=006600]Stamina[/color] pour bouger maintenant, mais je ne peux pas m'arrêter ici, j'ai besoin de trouver un abri!</text>
+		<text id="hut1">Quelle est cette structure? On dirait que quelqu'un s'est arrêté au milieu de la construction d'un abri. Je parie que je pourrais finir avec [var=quest.hut.wood] [item=wood].</text>
 		<text id="hut2">I have {count} of [var=quest.hut.wood] [item=wood] needed to finish this [color=770000]Hut[/color]. I need to gather more fallen branches.</text>
 		<text id="hut3">I dropped off {added} [item=wood] at the [color=770000]Hut[/color]. I need {remaining} more to finish it!</text>
-		<text id="storehouse1">This axe could come in handy. With it I could probably build a [color=770000]Storehouse[/color] to store the resources I gather.</text>
-		<text id="storehouse2">I bet I could make a storehouse with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries].</text>
-		<text id="storehouse3">Alright! Let’s get this storehouse built!</text>
+		<text id="storehouse1">Cette hache pourrait être utile. Avec cela, je pourrais probablement construire un [color=770000]Storehouse[/color] pour stocker les ressources que je rassemble.</text>
+		<text id="storehouse2">Je parie que je pourrais faire un entrepôt avec [var=quest.storehouse.wood] [item=wood] et [var=quest.storehouse.berries] [item=berries].</text>
+		<text id="storehouse3">Bien! Construisons cet entrepôt!</text>
 		<text id="storehouse4">Parfait. Maintenant, je peux éviter de me fatiguer en portant trop de choses.</text>
-		<text id="dock1">I wonder if the thief was telling the truth about other survivors?</text>
-		<text id="dock2">Perhaps I should build a [color=770000]Dock[/color] to set out and find them. It'll take [var=quest.dock2.wood] [item=wood] and [var=quest.dock2.steel_bar] [item=steel_bar]s.</text>
-		<text id="dock3">Alright, let's get this [color=770000]Dock[/color] built!</text>
-		<text id="market1">Maybe if I built a [color=770000]Market[/color], I'd attract traders to this dock. I can build one for [var=quest.market2.gold_bar] [item=gold_bar]s.</text>
+		<text id="dock1">Je me demande si le voleur disait la vérité sur les autres survivants?</text>
+		<text id="dock2">Peut-être que je devrais construire un [color=770000]Dock[/color] pour partir et les trouver. Il faudra [var=quest.dock2.wood] [item=wood] et [var=quest.dock2.steel_bar] [item=steel_bar]s.</text>
+		<text id="dock3">D'accord, construisons ce [color=770000]Dock[/color]!</text>
+		<text id="market1">Peut-être que si je construisais un [color=770000]Market[/color], j'attirerais des commerçants sur ce quai. Je peux en construire un contre des [var=quest.market2.gold_bar] [item=gold_bar]s.</text>
 		<text id="market2">That's everything I need for the [color=770000]Market[/color]!</text>
 		<text id="market3">It looks like there really were traders out there! They even gave me a [item=coin_purse] to store coins for buying and selling.</text>
 		<text id="market4">Now we just need to build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color]!</text>
