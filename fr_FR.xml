@@ -757,8 +757,8 @@
 		<text id="structure_adjacent_right">This structure must be built to the right of a {structure}.</text>
 		<text id="structure_coast">Cette structure doit être construite à côté d'une côte déserte.</text>
 		<text id="structure_vehicle">Vous ne pouvez pas construire cette structure à l'intérieur d'un véhicule.</text>
-		<text id="plant_structure">You cannot plant on top of structures or crops.</text>
-		<text id="plant_grass">You can only plant on fertile grass tiles.</text>
+		<text id="plant_structure">Vous ne pouvez pas planter sur des structures ou des cultures.</text>
+		<text id="plant_grass">Vous ne pouvez planter que sur de l'herbe fertile.</text>
 		<text id="place_rooms">You must place this entirely in a single room.</text>
 		<text id="no_effect">Cela n'aura aucun effet.</text>
 		<text id="drop_instead">Would you like to throw them away instead?</text>
@@ -769,27 +769,27 @@
 		<text id="max_repair">Il est déjà entièrement réparé!</text>
 		<text id="max_rations">Vous ne pouvez plus ajouter de rations!</text>
 		<text id="max_feed">Vous ne pouvez plus ajouter de nourriture!</text>
-		<text id="max_coins">You cannot hold any more coins!</text>
+		<text id="max_coins">Vous ne pouvez plus détenir de pièces!</text>
 		<text id="send_bug_report">Something went wrong! Would you like to send a bug report?</text>
-		<text id="not_powered">There is no power!</text>
-		<text id="power">Not enough battery power!</text>
-		<text id="rations">Not enough rations!</text>
-		<text id="fuel">Not enough fuel!</text>
-		<text id="no_item">There is no {item} here.</text>
+		<text id="not_powered">Il n'y a pas de courrant!</text>
+		<text id="power">Pas assez de batterie!</text>
+		<text id="rations">Pas assez de rations!</text>
+		<text id="fuel">Pas assez de carburant!</text>
+		<text id="no_item">Il n'y a pas {item} ici.</text>
 		<text id="item_hungry">The {item} is too hungry to make the journey!</text>
-		<text id="no_fill">You cannot fill this tile!</text>
+		<text id="no_fill">Vous ne pouvez pas remplir cette zone!</text>
 		<text id="load_fail">The core game failed to load. This usually means you are missing files, re-download and extract the entire contents of the zip archive into a folder.</text>
 		<text id="load_fail_js">The core game failed to load. This usually means you are missing files, try Shift+Refresh to do a hard reload of the page.</text>
 		<text id="incomplete">This is incomplete. You'll have to wait for a future update.</text>
-		<text id="no_flying">You can't do that while flying!</text>
-		<text id="sleep_underwater">You can't sleep underwater!</text>
-		<text id="sleep_vehicle">You can't sleep while riding a vehicle!</text>
-		<text id="flight_weight">You are too heavy to fly with {item}!</text>
+		<text id="no_flying">Vous ne pouvez pas faire ça en volant!</text>
+		<text id="sleep_underwater">Vous ne pouvez pas dormir sous l'eau!</text>
+		<text id="sleep_vehicle">Vous ne pouvez pas dormir en conduisant un véhicule!</text>
+		<text id="flight_weight">Vous êtes trop lourd pour voler avec {item}!</text>
 		<text id="overweight">You are too overweight to move!</text>
-		<text id="no_equip">You cannot equip {item}.</text>
-		<text id="no_structure">There is no structure here to dismantle.</text>
-		<text id="no_upgrade">There is no structure here to upgrade.</text>
-		<text id="no_blueprint">You do not have a blueprint for this structure.</text>
+		<text id="no_equip">Vous ne pouvez pas équiper {item}.</text>
+		<text id="no_structure">Il n'y a pas de structure ici à démonter.</text>
+		<text id="no_upgrade">Il n'y a pas de structure ici à mettre à niveau.</text>
+		<text id="no_blueprint">Vous n'avez pas de plan pour cette structure.</text>
 		<text id="one_structure">You can only build one of this structure per island.</text>
 		<text id="no_use_vehicle">You cannot do that while riding in a vehicle.</text>
 		<text id="no_use_underwater">You cannot do that while swimming.</text>
@@ -1041,14 +1041,14 @@
 		<text id="pen1">J'ai besoin de plus de [item=dragonblood]! Apportez-moi des [var=quest.wyrm_pen.wyrm] [item=wyrm]s vivants et nous aurons une quantité infinie de [item=dragonblood] avec laquelle expérimenter!</text>
 		<text id="pen2">Excellent! Reculez pendant que je travaille ma magie!</text>
 		<text id="pen3">Voici ma brillante invention - le [color=770000]Wyrm Pen[/color]! C'est plus qu'un simple enclos, c'est une réserve infinie de [item=dragonblood]!</text>
-		<text id="wyrm">I bet you could capture a [item=wyrm] with a [item=net] if it was heavily wounded. But you must catch it alive!</text>
-		<text id="dragon1">We must experiment more on the [item=wyrm]s! What do they eat? Why do they give [item=dragonblood]? You must feed the [item=wyrm]s in the [color=770000]Wyrm Pen[/color] to find out more about their evolution!</text>
-		<text id="dragon2">I knew it! The [item=wyrm]s metamorphosize into [item=dragon]s! But then why are there so few [item=adult_dragon]s in this land?</text>
-		<text id="dragon3">I believe there is a dragon lair somewhere in the mountain. If you find it, summon me... perhaps some of these secrets can be discovered there.</text>
-		<text id="dragon4">Ah, an [item=adult_dragon]! Let's see what she has to say - I can translate for you with a simple spell.</text>
-		<text id="dragon5">Who are you, to awaken me from my slumber?</text>
-		<text id="dragon6">I am a seeker of truth and magic. Tell me - why are there so few dragons left in this world?</text>
-		<text id="dragon7">Because the old ones left. They too were seekers of truth and magic. And they betrayed my kind.</text>
+		<text id="wyrm">Je parie que vous pourriez capturer un [item=wyrm] avec un [item=net] s'il était gravement blessé. Mais tu dois l'attraper vivant!</text>
+		<text id="dragon1">Nous devons expérimenter davantage sur les [item=wyrm]s! Qu'est ce qu'ils mangent? Pourquoi donnent-ils du [item=dragonblood]? Vous devez nourrir les [item=wyrm]s dans l'[color=770000]Wyrm Pen[/color] pour en savoir plus sur leur évolution!</text>
+		<text id="dragon2">Je le savais! Les [item=wyrm]s se métamorphosent en [item=dragon]s! Mais alors pourquoi y a-t-il si peu de [item=adult_dragon]s sur cette terre?</text>
+		<text id="dragon3">Je crois qu'il y a un repaire de dragon quelque part dans la montagne. Si vous le trouvez, appelez-moi ... peut-être que certains de ces secrets peuvent être découverts là-bas.</text>
+		<text id="dragon4">Ah, un [item=adult_dragon]! Voyons ce qu'elle a à dire - je peux traduire pour vous avec un simple sort.</text>
+		<text id="dragon5">Qui es-tu pour me réveiller de mon sommeil?</text>
+		<text id="dragon6">Je cherche la vérité et la magie. Dites-moi - pourquoi reste-t-il si peu de dragons dans ce monde?</text>
+		<text id="dragon7">Parce que les anciens sont partis. Eux aussi cherchaient la vérité et la magie. Et ils ont trahi mon espèce.</text>
 		<text id="dragon8">Then perhaps we can help you! All we ask for in return is knowledge.</text>
 		<text id="dragon9">You think you can help? Then prove it. If you can hatch and bring me [var=quest.hatch_dragons.dragon] [item=dragon]s, then we will talk. Otherwise, begone!</text>
 		<text id="dragon10">I knew you would betray me! Taste my wrath!</text>
