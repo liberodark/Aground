@@ -1086,43 +1086,43 @@
 		<text id="elementals3">Vous pouvez placer [item=spirit_gem]s comme des pièges, puis capturer des esprits en les attirant dessus!</text>
 		<text id="spirit_gem">Maintenant, toutes les structures sont activées! Je pense que nous méritons une pause dans la chambre violette avant de poursuivre nos recherches!</text>
 		<text id="magic_farm1">Qu'est-ce que tu attends? Utilisez la [item=water_gem] sur la structure bleue pour l'activer!</text>
-		<text id="magic_farm2">The blue structure is a magical synthesizer! It can create items from magic!</text>
-		<text id="magic_farm3">Use [item=focus_gem]s to power the synthesizer.</text>
-		<text id="magic_farm4">We still need a [item=water_gem] to power the blue structure! Use a [item=spirit_gem] to capture a water elemental!</text>
-		<text id="magic_forge1">Qu'est-ce que tu attends? Utilisez la [item=fire_gem] at the red structure to activate it!</text>
-		<text id="magic_forge2">The red structure is some sort of ancient magical forge. It can enchant items!</text>
-		<text id="magic_forge3">Try experimenting with different combinations of items and magical ingredients at the Forge - you may stumble upon something brilliant!</text>
-		<text id="magic_forge4">We still need a [item=fire_gem] to power the red structure! Use a [item=spirit_gem] to capture a fire elemental!</text>
-		<text id="alter_gem1">I’ve been in deep contemplation, trying to decode the secrets of the [item=wyrm]s.</text>
-		<text id="alter_gem2">If you bring me [var=quest.alter_gem.wyrm] [item=wyrm], [var=quest.alter_gem.fire_tusk] [item=fire_tusk] and [var=quest.alter_gem.yeti_fur] [item=yeti_fur], I will be able to finish my research.</text>
-		<text id="alter_gem3">I have done it! I have created an [item=alter_gem]! This will allow us to transform [item=wyrm]s - and probably other creatures - into usable equipment!</text>
-		<text id="alter_gem4">We must continue to explore this branch of magic! Take this [item=alter_gem] and use it on a [item=wyrm] yourself! If you need more [item=alter_gem]s, I have added the recipe to the synthesizer.</text>
-		<text id="alter_gem5">To use the [item=alter_gem], select it in your inventory, choose Transform, and choose a creature to transform.</text>
-		<text id="alter_gem6">Don’t be afraid to try [item=alter_gem]s with other creatures… like a [item=dragon]. Or, dare I suggest it - an [item=adult_dragon]?!</text>
-		<text id="alter_gem7">Running out of [item=alter_gem]s? You can find them deep underground or create them at the synthesizer.</text>
-		<text id="alter_gem8">Make sure you use [item=alter_gem]s on well-fed creatures. Hungry creatures won't stay transformed long!</text>
+		<text id="magic_farm2">La structure bleue est un synthétiseur magique! Il peut créer des objets à partir de la magie!</text>
+		<text id="magic_farm3">Utilisez les [item=focus_gem]s pour alimenter le synthétiseur.</text>
+		<text id="magic_farm4">Nous avons encore besoin d'une [item=water_gem] pour alimenter la structure bleue! Utilisez une [item=spirit_gem] pour capturer un élémentaire d'eau!</text>
+		<text id="magic_forge1">Qu'est-ce que tu attends? Utilisez la [item=fire_gem] à la structure rouge pour l'activer!</text>
+		<text id="magic_forge2">La structure rouge est une sorte de forge magique ancienne. Elle peut enchanter des objets!</text>
+		<text id="magic_forge3">Essayez d'expérimenter différentes combinaisons d'objets et d'ingrédients magiques à la Forge - vous pouvez tomber sur quelque chose de brillant!</text>
+		<text id="magic_forge4">Nous avons encore besoin d'une [item=fire_gem] pour alimenter la structure rouge! Utilisez une [item=spirit_gem] pour capturer un élémentaire de feu!</text>
+		<text id="alter_gem1">J'ai été dans une profonde contemplation, essayant de décoder les secrets des [item=wyrm]s.</text>
+		<text id="alter_gem2">Si tu m'amènes [var=quest.alter_gem.wyrm] [item=wyrm], [var=quest.alter_gem.fire_tusk] [item=fire_tusk] et [var=quest.alter_gem.yeti_fur] [item=yeti_fur], Je pourrai finir mes recherches.</text>
+		<text id="alter_gem3">Je l'ai fait! J'ai créé une [item=alter_gem]! Cela nous permettra de transformer les [item=wyrm]s - et probablement d'autres créatures - en équipement utilisable!</text>
+		<text id="alter_gem4">Nous devons continuer à explorer cette branche de la magie! Prenez cette [item=alter_gem] et utilisez-la sur un [item=wyrm] vous-même! Si vous avez besoin de plus de [item=alter_gem]s,  j'ai ajouté la recette au synthétiseur.</text>
+		<text id="alter_gem5">Pour utiliser la [item=alter_gem], sélectionnez-le dans votre inventaire, choisissez Transformer et choisissez une créature à transformer.</text>
+		<text id="alter_gem6">N'ayez pas peur d'essayer [item=alter_gem]s avec d'autres créatures… comme un [item=dragon]. Ou, oserais-je le suggérer - un [item=adult_dragon]?!</text>
+		<text id="alter_gem7">À court de [item=alter_gem]s? Vous pouvez les trouver profondément sous terre ou les créer sur le synthétiseur.</text>
+		<text id="alter_gem8">Assurez-vous d'utiliser [item=alter_gem]s sur des créatures bien nourries. Les créatures affamées ne resteront pas transformées longtemps!</text>
 		<text id="first1">Vous ne vous êtes pas écrasé avec le reste d'entre nous?</text>
 		<text id="first2">Non, je faisais partie d'une mission de reconnaissance pour le programme de colonisation.</text>
-		<text id="first3">We were four. But, the other three died, and when they came soon after, I knew this planet was cursed.</text>
-		<text id="first4">I barely survived, using what I'd learned of magic. Perhaps if I’d had those [item=goggles] back then, things would've been different.</text>
+		<text id="first3">Nous étions quatre. Mais, les trois autres sont morts, et quand ils sont venus peu après, je savais que cette planète était maudite.</text>
+		<text id="first4">J'ai à peine survécu, en utilisant ce que j'avais appris de la magie. Peut-être que si j'avais eu ces [item=goggles] à l'époque, les choses auraient été différentes.</text>
 		<text id="first5">Ils étaient là?! Après Vous?</text>
-		<text id="first6">Yes. I believe they were jealous of my magic. Or frightened of it? It’s hard to say for sure...</text>
-		<text id="second1">You met them on this planet ten years ago? That's before they tried to wipe out humanity and destroy Earth!</text>
+		<text id="first6">Oui. Je crois qu'ils étaient jaloux de ma magie. Ou effrayé? C'est difficile à dire avec certitude ...</text>
+		<text id="second1">Vous les avez rencontrés sur cette planète il y a dix ans? C'est avant qu'ils n'essayent d'anéantir l'humanité et de détruire la Terre!</text>
 		<text id="second2">Correct. J'ai été le premier à les rencontrer et le premier qu'ils ont tenté de tuer.</text>
-		<text id="second3">I don't know what I could've done differently to stop the war. They arrived suddenly with their biological weapons and attacked without a word.</text>
+		<text id="second3">Je ne sais pas ce que j'aurais pu faire différemment pour arrêter la guerre. Ils sont arrivés soudainement avec leurs armes biologiques et ont attaqué sans un mot.</text>
 		<text id="second4">Si seulement il y avait un moyen de communiquer avec eux...</text>
 		<text id="second5">Nous pourrions probablement communiquer avec eux maintenant, en utilisant ma traduction magique.</text>
 		<text id="second6">Mais avec de la chance nous ne les rencontrerons plus jamais, maintenant qu'ils semblent satisfaits de nous ignorer.</text>
-		<text id="oldone1">I’ve been noticing some very strange spikes in the magical energy lately. It could be nothing, but it could be one of them.</text>
+		<text id="oldone1">J'ai remarqué récemment des pointes très étranges dans l'énergie magique. Ça pourrait être rien, mais ça pourrait être l'un d'eux.</text>
 		<text id="oldone2">Si vous le trouvez, appelez-moi immédiatement. Si c'est vraiment l'un d'entre eux, nous sommes tous en grand danger.</text>
 		<text id="oldone3">Très bien, voyons si ma traduction fonctionne!</text>
 		<text id="oldone4">Qui êtes-vous et que faites-vous ici?</text>
 		<text id="oldone5">De quel droit me demandez-vous cela? C'est ma maison, ma planète! Vous êtes les intrus ici!</text>
 		<text id="oldone6">Cet exosquelette magique semble vaguement familier... en êtes-vous un?</text>
-		<text id="oldone7">The ones you call "them" are my foolish brethren. Long ago, they chose to abandon their homeworld, while I stayed and took a path of isolation and immortality.</text>
-		<text id="oldone8">Can you tell us about your magic? What are these magical energy spikes? Why did you create and raise the dragons?</text>
-		<text id="oldone9">Silence! We do not speak of these things with the likes of you! I have been very tolerant. Otherwise you would have been dead long ago.</text>
-		<text id="oldone10">But now I see that they were right about one thing. The universe would be better off without you and your kind!</text>
+		<text id="oldone7">Ceux que vous appelez "eux" sont mes idiots de frères. Il y a longtemps, ils ont choisi d'abandonner leur monde natal, pendant que je restais et empruntais un chemin d'isolement et d'immortalité.</text>
+		<text id="oldone8">Pouvez-vous nous parler de votre magie? Quels sont ces pics d'énergie magiques? Pourquoi avez-vous créé et élevé les dragons?</text>
+		<text id="oldone9">Silence! Nous ne parlons pas de ces choses avec des gens comme vous! J'ai été très tolérant. Sinon, vous seriez mort depuis longtemps.</text>
+		<text id="oldone10">Mais maintenant je vois qu'ils avaient raison sur une chose. L'univers serait mieux sans toi et ton genre!</text>
 		<text id="oldone11">Vous regretterez d'avoir choisi de me déranger!</text>
 		<text id="oldone12">Non!</text>
 		<text id="oldone13">Qu'est-ce qui ne va pas, n'avons-nous pas gagné?</text>
