@@ -1144,7 +1144,7 @@
 		<text id="oldone_choice">You're no match for this creature. We'll need a plan if we want to survive!</text>
 		<text id="work_together">Travailler ensemble</text>
 		<text id="alchemist_fight">Laissez l'alchimiste se battre</text>
-		<text id="battle">Stand back! This fight is not for the inexperienced!</text>
+		<text id="battle">Reculer! Ce combat n'est pas pour les débutants!</text>
 	</section>
 	<section id="player">
 		<text id="storm1">So cold…[pause=1] and tired…[pause=1] I need shelter, but there’s nothing around here but fallen branches!</text>
@@ -1155,7 +1155,7 @@
 		<text id="storehouse1">This axe could come in handy. With it I could probably build a [color=770000]Storehouse[/color] to store the resources I gather.</text>
 		<text id="storehouse2">I bet I could make a storehouse with [var=quest.storehouse.wood] [item=wood] and [var=quest.storehouse.berries] [item=berries].</text>
 		<text id="storehouse3">Alright! Let’s get this storehouse built!</text>
-		<text id="storehouse4">Perfect. Now I can avoid getting tired out from carrying too much.</text>
+		<text id="storehouse4">Parfait. Maintenant, je peux éviter de me fatiguer en portant trop de choses.</text>
 		<text id="dock1">I wonder if the thief was telling the truth about other survivors?</text>
 		<text id="dock2">Perhaps I should build a [color=770000]Dock[/color] to set out and find them. It'll take [var=quest.dock2.wood] [item=wood] and [var=quest.dock2.steel_bar] [item=steel_bar]s.</text>
 		<text id="dock3">Alright, let's get this [color=770000]Dock[/color] built!</text>
@@ -1163,12 +1163,12 @@
 		<text id="market2">That's everything I need for the [color=770000]Market[/color]!</text>
 		<text id="market3">It looks like there really were traders out there! They even gave me a [item=coin_purse] to store coins for buying and selling.</text>
 		<text id="market4">Now we just need to build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color]!</text>
-		<text id="farewell1">I don’t know what’s out there, but I mean to find out before I return.</text>
-		<text id="farewell2">Bring back some good things to eat!</text>
-		<text id="farewell3">Don't forget to explore below the surface, you never know what you might discover.</text>
-		<text id="farewell4">Don’t leave us hangin’ - come back soon.</text>
-		<text id="farewell5">Don’t get involved with anything too dangerous.</text>
-		<text id="farewell6">It's an uncertain world out there.</text>
+		<text id="farewell1">Je ne sais pas ce qui se passe là-bas, mais je veux savoir avant de revenir..</text>
+		<text id="farewell2">Ramenez de bonnes choses à manger!</text>
+		<text id="farewell3">N'oubliez pas d'explorer sous la surface, vous ne savez jamais ce que vous pourriez découvrir.</text>
+		<text id="farewell4">Ne nous laissez pas attendre - revenez bientôt.</text>
+		<text id="farewell5">Ne vous mêlez de rien de trop dangereux.</text>
+		<text id="farewell6">C'est un monde incertain là-bas.</text>
 		<text id="farewell7">You're going the wrong way, the secrets are all off to the east!</text>
 		<text id="bandits1">It's great to be back in business! Now if only we could get rid of those thieving bandits!</text>
 		<text id="bandits2">You seem strong. Think you could scare them off for us?</text>
@@ -1178,13 +1178,13 @@
 		<text id="no_coin_purse">You'll need a [item=coin_purse] if you want to trade with us. We can give you one for [var=recipe.sci1_coin_purse.sulfur] [item=sulfur].</text>
 		<text id="make_coin_purse">Trade [var=recipe.sci1_coin_purse.sulfur] [item=sulfur] for a [item=coin_purse]?</text>
 		<text id="lurker">Hey kid, would you like some rare goods? You can't buy these anywhere else!</text>
-		<text id="lurker_empty">Thank you for your business. Sorry, no refunds.</text>
+		<text id="lurker_empty">Merci pour votre travail. Désolé, aucun remboursement.</text>
 	</section>
 	<section id="hunter">
-		<text id="tent1">I shouldn't rest in some random person's tent!</text>
-		<text id="tent2">This must be the [object=hunter]'s tent. I should leave it alone.</text>
-		<text id="intro1">Hey, you! Did you see me take down that boar?</text>
-		<text id="intro2">Yeah, how… how did you do that?</text>
+		<text id="tent1">Je ne devrais pas me reposer dans la tente d'une personne au hasard!</text>
+		<text id="tent2">Ce doit être la [object=hunter]'s tente. Je devrais le laisser tranquille.</text>
+		<text id="intro1">Hé toi! Vous m'avez vu abattre ce sanglier?</text>
+		<text id="intro2">Ouais, comment… comment as-tu fait ça?</text>
 		<text id="intro3">Simple! A bit of proper technique is all you need.</text>
 		<text id="intro4">I’m trying to clear out this area. If you help me out I could teach you how to hunt.</text>
 		<text id="accept1">You need to employ the element of surprise. Hit enemies from behind, and you’ll get a critical hit.</text>
@@ -1266,7 +1266,7 @@
 		<text id="mirrows10">We’d need something really powerful to get them to change directions. Something that can't be explained with science.</text>
 		<text id="mirrows11">What do you think about this [item=dragon_armor]? It has the power of an [item=adult_dragon], but can be worn like armor!</text>
 		<text id="mirrows12">That's so weird, but I definitely think it's worth a shot. Let's show it to my parents.</text>
-		<text id="mirrows13">Back again? This time we'll turn you into a cyborg for sure!</text>
+		<text id="mirrows13">De retour? Cette fois, nous allons vous transformer en cyborg à coup sûr!</text>
 		<text id="mirrows14">Attendez! N'attaque pas, c'est moi.</text>
 		<text id="mirrows15">Cass? Que fais-tu ici?</text>
 		<text id="mirrows16">I want you to take a look at this. Maybe you don’t have to turn people into cyborgs after all.</text>
@@ -1279,10 +1279,10 @@
 	</section>
 	<section id="innkeeper">
 		<text id="intro1">Welcome to the Golden Key! Finest (and only) room and board this side of the desert!</text>
-		<text id="intro2">So this is an inn? Do you get many people through here?</text>
+		<text id="intro2">C'est donc une auberge? Avez-vous beaucoup de clients ici?</text>
 		<text id="intro3">A fair few come through Sunset Haven - exploring, trading, looking for a place to call home.</text>
 		<text id="intro4">But if we don't get power back soon who knows if anyone will stay. I can't tell you how many times I've been tempted to go and give those Mirrows a piece of my mind!</text>
-		<text id="power1">Wonderful! The power is back!</text>
+		<text id="power1">Génial! Le courrant est de retour!</text>
 		<text id="power2">No thanks to those darn Mirrows. I can’t believe we all still pay them dues to keep the technology running around here!</text>
 		<text id="power3">And not only do they fry the power plant, they can’t be bothered to come around and fix it?!</text>
 		<text id="power4">Tu ne peux pas arrêter de les payer?</text>
