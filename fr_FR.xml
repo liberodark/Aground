@@ -1062,34 +1062,34 @@
 		<text id="call_dragon">Où avez-vous laissé le dragon? Je vais l'appeler ici - essayez de ne pas le perdre de vue.</text>
 		<text id="lair1">Je le savais! Cette tanière est artificielle, faite par magie! Il semble que son but était d'élever des dragons!</text>
 		<text id="lair2">Je parie que je peux l'activer...</text>
-		<text id="lair3">Aha! Done! With this lair, we can raise our own dragons. The lair seems to point east, perhaps we could fly a dragon that direction and discover more...</text>
-		<text id="axe1">Let me see that [item=rusty_axe]... It's tough to spot with all the rust, but I recognize those symbols!</text>
-		<text id="axe2">There is some ancient magic here, but it is worn out. If you bring me the right magical ingredient, perhaps I can repair it...</text>
-		<text id="axe3">That [item=fire_tusk]... what kind of creature did you get it from? It seems to resonate with the [item=rusty_axe], perhaps that is the magical ingredient we were looking for!</text>
-		<text id="axe4">I have done it! I wonder who made this [item=thunder_axe], and how old it is? If you want to make more, I added the recipe to the laboratory.</text>
-		<text id="shadow_cape1">Let me see that [item=dark_fur]! It appears to exist between the world of the spirits and the world of the living...</text>
-		<text id="shadow_cape2">I'll have to research it further, but I can easily turn it into a [item=shadow_cape] that will hide you from normal eyes. I added the recipe to the laboratory.</text>
-		<text id="magic_intro1">This island is overflowing with magic - we are definitely in the right place!</text>
-		<text id="magic_intro2">I’ve seen this kind of magic before. These structures are partially organic and are all hibernating. They’ll need to be awoken.</text>
-		<text id="magic_intro3">I already know how to activate this purple chamber, but the other structures will require more study.</text>
-		<text id="magic_intro4">This should be a good base of operations. I'll set up some supplies.</text>
-		<text id="wyrm1">Clues for activating the other structures might lie with the [item=wyrm]s.</text>
-		<text id="wyrm2">You should follow one on this island and learn their secrets, while I translate some of these markings.</text>
-		<text id="wyrm3">Don't worry - you've dealt with [item=wyrm]s before. Following one to its den should be no problem!</text>
-		<text id="wyrm4">What's that? There was a Wyrm Queen? That's irrelevant, look at the [item=spirit_gem] you found! I'm certain this is what we need to make a breakthrough!</text>
-		<text id="wyrm5">Here, try these [item=goggles]. The markings helped me invent them, and while they didn't help me see the secret behind these structures, they may help you see what we are missing.</text>
-		<text id="wyrm6">You should follow the [item=wyrm]s on the eastern island, not here! I've already studied the [item=wyrm]s here!</text>
-		<text id="sleep">I need more time to study this. Why don't you rest in the purple chamber?</text>
-		<text id="forest">That forest to the east feels dangerous. I set up a [item=fence], and I recommend you don't go beyond it.</text>
-		<text id="elementals1">I have determined that a [item=spirit_gem] can capture a spirit of fire or water, resulting in a [item=fire_gem] or [item=water_gem]. The infused gems should allow us to activate the structures.</text>
-		<text id="elementals2">Having trouble finding elemental spirits? They are invisible to the naked eye, but my [item=goggles] should reveal them!</text>
-		<text id="elementals3">You can place [item=spirit_gem]s like traps, then capture spirits by luring them onto them!</text>
-		<text id="spirit_gem">Now all the structures are activated! I think we deserve a break in the purple chamber before we continue our research!</text>
-		<text id="magic_farm1">What are you waiting for? Use the [item=water_gem] at the blue structure to activate it!</text>
+		<text id="lair3">Aha! Terminé! Avec ce repaire, nous pouvons élever nos propres dragons. Le repaire semble pointer vers l'est, peut-être pourrions-nous voler en dragon dans cette direction et en découvrir plus...</text>
+		<text id="axe1">Laissez-moi voir cette [item=rusty_axe]... C'est difficile à repérer avec toute la rouille, mais je reconnais ces symboles!</text>
+		<text id="axe2">Il y a de la magie ancienne ici, mais elle est épuisée. Si vous m'apportez le bon ingrédient magique, je peux peut-être la réparer ...</text>
+		<text id="axe3">Cette [item=fire_tusk]... De quel genre de créature l'avez-vous obtenue? Elle semble résonner avec [item=rusty_axe], c'est peut-être l'ingrédient magique que nous recherchions!</text>
+		<text id="axe4">Je l'ai fait! Je me demande qui a fait cette [item=thunder_axe], et quel âge elle a? Si vous voulez en faire plus, j'ai ajouté la recette au laboratoire.</text>
+		<text id="shadow_cape1">Laissez-moi voir cette [item=dark_fur]! Elle semble exister entre le monde des esprits et le monde des vivants...</text>
+		<text id="shadow_cape2">Je vais devoir faire plus de recherches, mais je peux facilement la transformer en une [item=shadow_cape] qui vous cachera des yeux normaux. J'ai ajouté la recette au laboratoire.</text>
+		<text id="magic_intro1">Cette île regorge de magie - nous sommes définitivement au bon endroit!</text>
+		<text id="magic_intro2">J'ai déjà vu ce genre de magie auparavant. Ces structures sont partiellement organiques et sont toutes en train d'hiberner. Elles devront être réveillées.</text>
+		<text id="magic_intro3">Je sais déjà comment activer cette chambre violette, mais les autres structures nécessiteront plus d'étude.</text>
+		<text id="magic_intro4">Cela devrait être une bonne base d'opérations. Je vais mettre en place quelques fournitures.</text>
+		<text id="wyrm1">Les [item=wyrm]s pourraient nous donner des indices sur comment activer les autres structures.</text>
+		<text id="wyrm2">Vous devriez en suivre un sur cette île et découvrir leurs secrets, pendant que je traduis certains de ces marquages.</text>
+		<text id="wyrm3">Ne vous inquiétez pas - vous avez déjà eu affaire aux [item=wyrm]s auparavant. En suivre un dans sa tanière ne devrait pas poser de problème!</text>
+		<text id="wyrm4">Qu'est-ce que c'est? Il y avait une Reine Wyrm? Ce n'est pas pertinent, regardez la [item=spirit_gem] que vous avez trouvé! Je suis certain que c'est ce dont nous avons besoin pour faire une percée!</text>
+		<text id="wyrm5">Ici, essayez ces [item=goggles]. Les marquages m'ont aidé à les inventer, et même si elles ne m'ont pas aidé à voir le secret que cachent ces structures, elles pourraient vous aider à voir ce qui nous manque.</text>
+		<text id="wyrm6">Vous devriez suivre les [item=wyrm]s sur l'île orientale, pas ici! J'ai déjà étudié les [item=wyrm]s ici!</text>
+		<text id="sleep">J'ai besoin de plus de temps pour étudier cela. Pourquoi ne vous reposez-vous pas dans la chambre violette?</text>
+		<text id="forest">Cette forêt à l'est semble dangereuse. J'ai installé une [item=fence], et je vous recommande de ne pas aller au-delà.</text>
+		<text id="elementals1">J'ai déterminé qu'une [item=spirit_gem] peut capturer un esprit de feu ou d'eau, résultant en une [item=fire_gem] ou [item=water_gem]. Les gemmes infusées devraient nous permettre d'activer les structures.</text>
+		<text id="elementals2">Vous avez du mal à trouver des esprits élémentaires? Ils sont invisibles à l'œil nu, mais mes [item=goggles] devraient les révéler!</text>
+		<text id="elementals3">Vous pouvez placer [item=spirit_gem]s comme des pièges, puis capturer des esprits en les attirant dessus!</text>
+		<text id="spirit_gem">Maintenant, toutes les structures sont activées! Je pense que nous méritons une pause dans la chambre violette avant de poursuivre nos recherches!</text>
+		<text id="magic_farm1">Qu'est-ce que tu attends? Utilisez la [item=water_gem] sur la structure bleue pour l'activer!</text>
 		<text id="magic_farm2">The blue structure is a magical synthesizer! It can create items from magic!</text>
 		<text id="magic_farm3">Use [item=focus_gem]s to power the synthesizer.</text>
 		<text id="magic_farm4">We still need a [item=water_gem] to power the blue structure! Use a [item=spirit_gem] to capture a water elemental!</text>
-		<text id="magic_forge1">What are you waiting for? Use the [item=fire_gem] at the red structure to activate it!</text>
+		<text id="magic_forge1">Qu'est-ce que tu attends? Utilisez la [item=fire_gem] at the red structure to activate it!</text>
 		<text id="magic_forge2">The red structure is some sort of ancient magical forge. It can enchant items!</text>
 		<text id="magic_forge3">Try experimenting with different combinations of items and magical ingredients at the Forge - you may stumble upon something brilliant!</text>
 		<text id="magic_forge4">We still need a [item=fire_gem] to power the red structure! Use a [item=spirit_gem] to capture a fire elemental!</text>
@@ -1601,8 +1601,8 @@
 	<section id="colors">
 		<text id="black">Noir</text>
 		<text id="brown">Marron</text>
-		<text id="dbrown">Dark Brown</text>
-		<text id="lbrown">Light Brown</text>
+		<text id="dbrown">Marron Foncé</text>
+		<text id="lbrown">Marron Clair</text>
 		<text id="blue">Bleu</text>
 		<text id="dblue">Bleu Foncé</text>
 		<text id="lblue">Blue Clair</text>
