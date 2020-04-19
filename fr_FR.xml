@@ -749,19 +749,19 @@
 		<text id="place_height">Vous ne pouvez pas placer cela aussi haut.</text>
 		<text id="structure_surface">Cette structure ne peut pas être construite sous la surface.</text>
 		<text id="structure_underwater">Cette structure ne peut pas être construite sous l'eau.</text>
-		<text id="structure_water">This structure must be built on water.</text>
-		<text id="structure_tile">You must dig out a bigger area to build this structure.</text>
-		<text id="structure_overlap">You cannot build structures on top of structures or crops.</text>
-		<text id="structure_adjacent">This structure must be built next to a {structure}.</text>
-		<text id="structure_adjacent_left">This structure must be built to the left of a {structure}.</text>
-		<text id="structure_adjacent_right">This structure must be built to the right of a {structure}.</text>
+		<text id="structure_water">Cette structure doit être construite sur l'eau.</text>
+		<text id="structure_tile">Vous devez creuser une zone plus grande pour construire cette structure.</text>
+		<text id="structure_overlap">Vous ne pouvez pas construire de structures sur des structures ou des cultures.</text>
+		<text id="structure_adjacent">Cette structure doit être construite à côté d'un {structure}.</text>
+		<text id="structure_adjacent_left">Cette structure doit être construite à gauche d'un {structure}.</text>
+		<text id="structure_adjacent_right">Cette structure doit être construite à droite d'un {structure}.</text>
 		<text id="structure_coast">Cette structure doit être construite à côté d'une côte déserte.</text>
 		<text id="structure_vehicle">Vous ne pouvez pas construire cette structure à l'intérieur d'un véhicule.</text>
 		<text id="plant_structure">Vous ne pouvez pas planter sur des structures ou des cultures.</text>
 		<text id="plant_grass">Vous ne pouvez planter que sur de l'herbe fertile.</text>
-		<text id="place_rooms">You must place this entirely in a single room.</text>
+		<text id="place_rooms">Vous devez le placer entièrement dans une seule pièce.</text>
 		<text id="no_effect">Cela n'aura aucun effet.</text>
-		<text id="drop_instead">Would you like to throw them away instead?</text>
+		<text id="drop_instead">Souhaitez-vous plutôt les jeter ?</text>
 		<text id="cannot_fire">Cannot fire {projectile} without {weapon}.</text>
 		<text id="no_projectiles">Cannot fire {weapon}: out of {projectile}s.</text>
 		<text id="max_items">Vous ne pouvez pas ajouter d'autres Items!</text>
@@ -770,7 +770,7 @@
 		<text id="max_rations">Vous ne pouvez plus ajouter de rations!</text>
 		<text id="max_feed">Vous ne pouvez plus ajouter de nourriture!</text>
 		<text id="max_coins">Vous ne pouvez plus détenir de pièces!</text>
-		<text id="send_bug_report">Something went wrong! Would you like to send a bug report?</text>
+		<text id="send_bug_report">Quelque chose a mal tourné! Souhaitez-vous envoyer un rapport de bug?</text>
 		<text id="not_powered">Il n'y a pas de courrant!</text>
 		<text id="power">Pas assez de batterie!</text>
 		<text id="rations">Pas assez de rations!</text>
@@ -785,21 +785,21 @@
 		<text id="sleep_underwater">Vous ne pouvez pas dormir sous l'eau!</text>
 		<text id="sleep_vehicle">Vous ne pouvez pas dormir en conduisant un véhicule!</text>
 		<text id="flight_weight">Vous êtes trop lourd pour voler avec {item}!</text>
-		<text id="overweight">You are too overweight to move!</text>
+		<text id="overweight">Vous êtes trop lourd pour bouger!</text>
 		<text id="no_equip">Vous ne pouvez pas équiper {item}.</text>
 		<text id="no_structure">Il n'y a pas de structure ici à démonter.</text>
 		<text id="no_upgrade">Il n'y a pas de structure ici à mettre à niveau.</text>
 		<text id="no_blueprint">Vous n'avez pas de plan pour cette structure.</text>
 		<text id="one_structure">You can only build one of this structure per island.</text>
 		<text id="no_use_vehicle">You cannot do that while riding in a vehicle.</text>
-		<text id="no_use_underwater">You cannot do that while swimming.</text>
+		<text id="no_use_underwater">Vous ne pouvez pas faire ça en nageant.</text>
 		<text id="remove_cyborg">Do you want to remove the {item}? It will be gone for good and you will have to re-install it at the surgery lab if you want it back.</text>
-		<text id="not_enough">Not enough {item}!</text>
+		<text id="not_enough">Pas assez de {item}!</text>
 		<text id="skill_points">You do not have enough skill points remaining to increase this skill!</text>
-		<text id="have_blueprint">You already have that blueprint!</text>
+		<text id="have_blueprint">Vous avez déjà ce plan!</text>
 		<text id="collect_progress">Are you sure you wish to remove this item? All progress will be cancelled.</text>
-		<text id="inventory_full">You cannot add any more items!</text>
-		<text id="cooldown">You must wait for the attack to cooldown before you can use it again.</text>
+		<text id="inventory_full">Vous ne pouvez plus ajouter d'items!</text>
+		<text id="cooldown">Vous devez attendre le temps de recharge de l'attaque avant de pouvoir l'utiliser à nouveau.</text>
 	</section>
 	<section id="market">
 		<text id="closed">Fermé pour la nuit.</text>
@@ -1049,13 +1049,13 @@
 		<text id="dragon5">Qui es-tu pour me réveiller de mon sommeil?</text>
 		<text id="dragon6">Je cherche la vérité et la magie. Dites-moi - pourquoi reste-t-il si peu de dragons dans ce monde?</text>
 		<text id="dragon7">Parce que les anciens sont partis. Eux aussi cherchaient la vérité et la magie. Et ils ont trahi mon espèce.</text>
-		<text id="dragon8">Then perhaps we can help you! All we ask for in return is knowledge.</text>
-		<text id="dragon9">You think you can help? Then prove it. If you can hatch and bring me [var=quest.hatch_dragons.dragon] [item=dragon]s, then we will talk. Otherwise, begone!</text>
-		<text id="dragon10">I knew you would betray me! Taste my wrath!</text>
-		<text id="dragon11">I don't think we should wake her again until we have the [item=dragon]s.</text>
-		<text id="dragon12">You have done it? Perhaps there is yet hope for my race.</text>
-		<text id="dragon12_a">Excellent! So, you'll tell us the secrets of magic?</text>
-		<text id="dragon13">Unfortunately, I do not know the secrets you seek. The old ones created us, and they built this lair to raise us.</text>
+		<text id="dragon8">Alors peut-être que nous pouvons vous aider! Tout ce que nous demandons en retour, c'est la connaissance.</text>
+		<text id="dragon9">Tu penses pouvoir aider? Eh bien prouve le. Si vous pouvez faire éclore et m'apporter des [var=quest.hatch_dragons.dragon] [item=dragon]s, alors nous parlerons. Sinon, partez!</text>
+		<text id="dragon10">Je savais que vous me trahiriez! Goûtez ma colère!</text>
+		<text id="dragon11">Je ne pense pas que nous devrions la réveiller à nouveau jusqu'à ce que nous ayons les [item=dragon]s.</text>
+		<text id="dragon12">Vous l'avez fait? Il y a peut-être encore de l'espoir pour race.</text>
+		<text id="dragon12_a">Excellent! Alors, vous nous direz les secrets de la magie?</text>
+		<text id="dragon13">Malheureusement, je ne connais pas les secrets que vous cherchez. Les anciens nous ont créés et ils ont construit ce repaire pour nous élever.</text>
 		<text id="dragon14">However, answers may lie on the islands to the east. Return to this lair when you are ready, and I will fly you there.</text>
 		<text id="dragon15">Another dragon lair! Imagine how many dragons were once raised in lairs like these with magic! I wonder why... in any case, allow me to activate this lair.</text>
 		<text id="dragon16">I also built a [color=770000]Wyrm Pen[/color] here, in case we need to raise more dragons! But don't expect me to harvest [item=dragonblood] here, I've got more important things to research.</text>
