@@ -444,8 +444,8 @@
 		<text id="horn">Horn</text>
 		<text id="frost_shield">Ice Shield</text>
 		<text id="ice_heart">Ice Heart</text>
-		<text id="owl">Owl</text>
-		<text id="dismantle">Dismantle</text>
+		<text id="owl">Chouette</text>
+		<text id="dismantle">Démonter</text>
 		<text id="hut_blueprint">Hut Blueprint</text>
 		<text id="storehouse_blueprint">Storehouse Blueprint</text>
 		<text id="kitchen_blueprint">Kitchen Blueprint</text>
@@ -755,20 +755,20 @@
 		<text id="structure_adjacent">This structure must be built next to a {structure}.</text>
 		<text id="structure_adjacent_left">This structure must be built to the left of a {structure}.</text>
 		<text id="structure_adjacent_right">This structure must be built to the right of a {structure}.</text>
-		<text id="structure_coast">This structure must be built next to an empty coast.</text>
-		<text id="structure_vehicle">You cannot build this structure inside a vehicle.</text>
+		<text id="structure_coast">Cette structure doit être construite à côté d'une côte déserte.</text>
+		<text id="structure_vehicle">Vous ne pouvez pas construire cette structure à l'intérieur d'un véhicule.</text>
 		<text id="plant_structure">You cannot plant on top of structures or crops.</text>
 		<text id="plant_grass">You can only plant on fertile grass tiles.</text>
 		<text id="place_rooms">You must place this entirely in a single room.</text>
-		<text id="no_effect">It won't have any effect.</text>
+		<text id="no_effect">Cela n'aura aucun effet.</text>
 		<text id="drop_instead">Would you like to throw them away instead?</text>
 		<text id="cannot_fire">Cannot fire {projectile} without {weapon}.</text>
 		<text id="no_projectiles">Cannot fire {weapon}: out of {projectile}s.</text>
-		<text id="max_items">You cannot add any more items!</text>
-		<text id="max_fuel">You cannot add any more fuel!</text>
-		<text id="max_repair">It is already fully repaired!</text>
-		<text id="max_rations">You cannot add any more rations!</text>
-		<text id="max_feed">You cannot add any more feed!</text>
+		<text id="max_items">Vous ne pouvez pas ajouter d'autres Items!</text>
+		<text id="max_fuel">Vous ne pouvez plus ajouter de carburant!</text>
+		<text id="max_repair">Il est déjà entièrement réparé!</text>
+		<text id="max_rations">Vous ne pouvez plus ajouter de rations!</text>
+		<text id="max_feed">Vous ne pouvez plus ajouter de nourriture!</text>
 		<text id="max_coins">You cannot hold any more coins!</text>
 		<text id="send_bug_report">Something went wrong! Would you like to send a bug report?</text>
 		<text id="not_powered">There is no power!</text>
@@ -1035,12 +1035,12 @@
 	<section id="alchemist">
 		<text id="introduce1">Il y a plus qu'il n'y paraît sur cette planète. J'ai fait des expériences et je crois avoir découvert la magie!</text>
 		<text id="introduce2">J'ai besoin de plus de matériel. Si vous tombez sur un [item=wyrm], tuez-le et donnez-moi son [item=dragonblood] et je m'assurerai que vous soyez récompensé.</text>
-		<text id="lab1">I knew it! This is the secret! I must set up a laboratory immediately!</text>
-		<text id="lab2">Your reward? Bring materials to my lab and I will mix up a magic potion for you.</text>
-		<text id="lab3">Hurry up! My research is at a standstill until I get some [item=dragonblood]!</text>
-		<text id="pen1">I need more [item=dragonblood]! Bring me [var=quest.wyrm_pen.wyrm] live [item=wyrm]s and we'll have an endless supply of [item=dragonblood] to experiment with!</text>
-		<text id="pen2">Excellent! Stand back while I work my magic!</text>
-		<text id="pen3">Behold my brilliant invention - the [color=770000]Wyrm Pen[/color]! It's more than just a pen, it's an endless supply of [item=dragonblood]!</text>
+		<text id="lab1">Je le savais! C'est le secret! Je dois créer un laboratoire immédiatement!</text>
+		<text id="lab2">Votre récompense? Apportez du matériel dans mon laboratoire et je vous préparerai une potion magique.</text>
+		<text id="lab3">Dépêchez-vous! Ma recherche est au point mort jusqu'à ce que j'obtienne [item=dragonblood]!</text>
+		<text id="pen1">J'ai besoin de plus de [item=dragonblood]! Apportez-moi des [var=quest.wyrm_pen.wyrm] [item=wyrm]s vivants et nous aurons une quantité infinie de [item=dragonblood] avec laquelle expérimenter!</text>
+		<text id="pen2">Excellent! Reculez pendant que je travaille ma magie!</text>
+		<text id="pen3">Voici ma brillante invention - le [color=770000]Wyrm Pen[/color]! C'est plus qu'un simple enclos, c'est une réserve infinie de [item=dragonblood]!</text>
 		<text id="wyrm">I bet you could capture a [item=wyrm] with a [item=net] if it was heavily wounded. But you must catch it alive!</text>
 		<text id="dragon1">We must experiment more on the [item=wyrm]s! What do they eat? Why do they give [item=dragonblood]? You must feed the [item=wyrm]s in the [color=770000]Wyrm Pen[/color] to find out more about their evolution!</text>
 		<text id="dragon2">I knew it! The [item=wyrm]s metamorphosize into [item=dragon]s! But then why are there so few [item=adult_dragon]s in this land?</text>
