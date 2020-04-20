@@ -90,15 +90,15 @@
 		<text id="set_hotkey">Définir Raccourci:</text>
 		<text id="retry">Réessayez</text>
 		<text id="title">Titre</text>
-		<text id="move_all">Move All</text>
+		<text id="move_all">Déplacer tout</text>
 		<text id="add_animal">Ajouter un Animal</text>
 		<text id="select_feed">Sélectionner la Nourriture</text>
 		<text id="use_count">Combien voulez-vous en utiliser?</text>
 		<text id="select_fertilizer">Sélectionner l'Engrais</text>
 		<text id="muted">Game Muted</text>
 		<text id="unmuted">Game Unmuted</text>
-		<text id="storehouse_add">{npc} added {count} {item} to the {storehouse}</text>
-		<text id="auto_eat">Used {count} {item} to restore health</text>
+		<text id="storehouse_add">{npc} ajoute {count} {item} à l'{storehouse}</text>
+		<text id="auto_eat">Utiliser {count} {item} restaurer la santé</text>
 		<text id="auto_eat_stamina">Utiliser {count} {item} pour restaurer l'endurance</text>
 		<text id="auto_eat_oxygen">Utiliser {count} {item} pour restaurer l'oxygène</text>
 		<text id="drop_all">Êtes-vous sûr de vouloir jeter tous vos {item}? Ils seront supprimés pour de bon.</text>
@@ -886,7 +886,7 @@
 		<text id="minecart">wants to set up a [item=minecart] to make mining easier.</text>
 	</section>
 	<section id="vehicle">
-		<text id="dismount">Déscendre</text>
+		<text id="dismount">Descendre</text>
 		<text id="vehicle">Véhicule</text>
 		<text id="fly">Move up to fly.</text>
 		<text id="overweight">Le véhicule est trop lourd pour bouger!</text>
@@ -1185,53 +1185,53 @@
 		<text id="tent2">Ce doit être la [object=hunter]'s tente. Je devrais le laisser tranquille.</text>
 		<text id="intro1">Hé toi! Vous m'avez vu abattre ce sanglier?</text>
 		<text id="intro2">Ouais, comment… comment as-tu fait ça?</text>
-		<text id="intro3">Simple! A bit of proper technique is all you need.</text>
-		<text id="intro4">I’m trying to clear out this area. If you help me out I could teach you how to hunt.</text>
-		<text id="accept1">You need to employ the element of surprise. Hit enemies from behind, and you’ll get a critical hit.</text>
-		<text id="accept2">Here, have a [item=workbench] - you can use it in your inventory to make weapons of your own!</text>
-		<text id="accept3">I prefer [item=bow]s so I don't have to get close to enemies, but if you want to use melee weapons, a [item=buckler] will help you block attacks!</text>
-		<text id="accept4">Use [key=equipment] to equip a weapon, [key=attack] to attack with the equipped weapon, and [key=defend] to block with a shield.</text>
-		<text id="accept5">Why don't you craft a [item=bow] and kill some [color=770000][tile=boar] Boars[/color]. And let me know if you need any hunting tips!</text>
-		<text id="reject1">You seem dangerous. Stay out of our area!</text>
-		<text id="reject2">Well, fine! I’ll just go back to the mountains then!</text>
+		<text id="intro3">Facile! Vous avez juste besoin d'un peu de technique appropriée.</text>
+		<text id="intro4">J'essaie de nettoyer cette zone. Si vous m'aidez, je pourrais vous apprendre à chasser.</text>
+		<text id="accept1">Vous devez utiliser l'élément de surprise. Frappez les ennemis par derrière et vous obtiendrez un coup critique.</text>
+		<text id="accept2">Tenez, voici un [item=workbench] - vous pouvez l'utiliser dans votre inventaire pour fabriquer vos propres armes!</text>
+		<text id="accept3">Je préfère les [item=bow]s pour ne pas avoir à me rapprocher des ennemis, mais si vous voulez utiliser des armes de mêlée, un [item=buckler] vous aidera à bloquer les attaques! </text>
+		<text id="accept4">Utilisez [key=equipment] pour équiper une arme, [key=attack] pour attaquer avec l'arme équipée, et [key=defend] pour bloquer avec un bouclier.</text>
+		<text id="accept5">Pourquoi ne pas fabriquer un [item=bow] et tuer quelques [color=770000][tile=boar] Boars[/color]. Et dites-moi si vous avez besoin de conseils pour la chasse!</text>
+		<text id="reject1">Vous semblez dangereux. Restez en dehors de notre région!</text>
+		<text id="reject2">Bien! Je vais juste retourner à la montagne alors!</text>
 		<text id="reject3">Prêt à apprendre certaines techniques de chasse?</text>
-		<text id="hunt1">We’ll have this area cleared of dangerous creatures in no time!</text>
-		<text id="hunt2">For a job well done, let me give you my old [item=backpack] - it might come in handy when you’re out in the field.</text>
-		<text id="tip1">You could dig a tunnel to sneak up on boars and hit them from behind.</text>
-		<text id="tip2">[item=red_berries] can be used to temporarily increase your attack power - but be careful, they’re not good for your health.</text>
-		<text id="tip3">If you keep getting “blocked,” that enemy is too strong for you. You’ll need a better weapon or a stronger attack.</text>
-		<text id="tip4">Setting [item=arrow]s to a hotkey lets you fire them as long as the [item=bow] is in your inventory, even if it's not equipped!</text>
-		<text id="tent3">So there I was, shivering and alone on the dark mountainside, when I saw firelight! And heard laughter! It sounded so companionable...</text>
-		<text id="tent4">So you came down to make friends with us?</text>
-		<text id="tent5">Of course not. And I certainly wasn’t hunting boars to try and impress you. Not at all.</text>
+		<text id="hunt1">Nous aurons débarrassé cette zone des créatures dangereuses en un rien de temps!</text>
+		<text id="hunt2">Pour un travail bien fait, permettez-moi de vous donner mon ancien [item=backpack] - il pourrait être utile lorsque vous serez sur le terrain.</text>
+		<text id="tip1">Vous pouvez creuser un tunnel pour vous faufiler derrière les sangliers et les frapper par surprise.</text>
+		<text id="tip2">[item=red_berries] peut être utilisé pour augmenter temporairement votre puissance d'attaque - mais attention, ils ne sont pas bons pour votre santé.</text>
+		<text id="tip3">Si vous continuez à être «bloqué», cet ennemi est trop fort pour vous. Vous aurez besoin d'une meilleure arme ou d'une attaque plus forte.</text>
+		<text id="tip4">Définir les [item=arrow]s sur un raccourci clavier vous permet de les tirer tant que le [item=bow] est dans votre inventaire, même s'il n'est pas équipé</text>
+		<text id="tent3">Alors j'étais là, tremblant et seul sur le flanc sombre de la montagne, quand j'ai vu le feu! Et entendu des rires! Cela semblait si agréable...</text>
+		<text id="tent4">Alors tu es venu pour te faire des amis?</text>
+		<text id="tent5">Bien sûr que non. Et je ne chassais certainement pas des sangliers pour essayer de vous impressionner. Pas du tout.</text>
 		<text id="tent6">Je voulais simplement étendre ma zone de chasse</text>
-		<text id="tent7">I’d like to know more about this place, and whether there’s anything beyond this island…</text>
-		<text id="tent8">There’s other islands out there to the east. I’ve seen them, from high in the mountains.</text>
+		<text id="tent7">Je voudrais en savoir plus sur cet endroit et s'il y a autre chose au-delà de cette île...</text>
+		<text id="tent8">Il y a d'autres îles à l'est. Je les ai vus du haut des montagnes.</text>
 		<text id="tent9">Vous pensez que nous pourrions y arriver?</text>
-		<text id="tent10">Not sure. The coast on that end is treacherous. Plus, those islands looked plenty strange to me. Might be dangerous.</text>
-		<text id="tent11">So you’re saying we should just be content with the way things are?</text>
-		<text id="tent12">I’m saying that we don’t need to go borrowing trouble when life is already hard.</text>
-		<text id="fence1">I’d like to keep the wildlife in check around here.</text>
-		<text id="fence2">Could you use the [item=workbench] I gave you to make [var=quest.fence.fence] [item=fence]s? Then we could start setting up a perimeter.</text>
-		<text id="fence3">Perfect. [color=770000][tile=boar] Boar[/color]s can't run through [item=fence]s, so we can use them to protect our settlement.</text>
-		<text id="fence4">I'll place one here, place the other [item=fence]s around our base to protect it!</text>
-		<text id="wolf1">I've noticed a wolf pup hanging around our settlement. He seems lonely.</text>
+		<text id="tent10">Pas sûr. De ce côté, la côte est traître. De plus, ces îles m'ont paru très étranges. Ça pourrait être dangereux.</text>
+		<text id="tent11">Alors vous dîtes que nous devrions être satisfaits de la situation? </text>
+		<text id="tent12">Je dis que nous n'avons pas besoin d'aller chercher des ennuis quand la vie est déjà difficile.</text>
+		<text id="fence1">J'aimerais garder la faune sous contrôle ici.</text>
+		<text id="fence2">Pourriez-vous utiliser l'[item=workbench] que je vous ai donné pour fabriquer [var=quest.fence.fence] [item=fence]s? Ensuite, nous pourrions commencer à établir un périmètre.</text>
+		<text id="fence3">Parfait. [color=770000][tile=boar] Boar[/color]s ne peuvent pas traverser les [item=fence]s, afin que nous puissions les utiliser pour protéger notre colonie.</text>
+		<text id="fence4">Je vais en placer une ici, placer les autres [item=fence]s autour de notre base pour la protéger!</text>
+		<text id="wolf1">J'ai remarqué un louveteau qui traîne dans notre colonie. Il semble seul.</text>
 		<text id="wolf2">N'a-t-il pas de meute?</text>
 		<text id="wolf3">Ils ont dû le laisser derrière lui.</text>
-		<text id="wolf4">With [var=quest.wolf.net] [item=net]s, [var=quest.wolf.trap] [item=trap]s and [var=quest.wolf.meat] [item=meat], we may be able to tame him.</text>
+		<text id="wolf4">Avec [var=quest.wolf.net] [item=net]s, [var=quest.wolf.trap] [item=trap]s et [var=quest.wolf.meat] [item=meat], nous pourrons peut-être l'apprivoiser.</text>
 		<text id="wolf5">Bon, voyons ce que nous pouvons faire avec ce chiot.</text>
 		<text id="wolf6">Bien joué, il semble te faire entièrement confiance. Vous avez maintenant un fidèle compagnon.</text>
-		<text id="wolf7">You can have the [item=wolf] follow you by using the [color=770000]Familiar[/color] slot in your [color=770000]Equipment[/color] window.</text>
+		<text id="wolf7">Vous pouvez avoir un [item=wolf] qui vous suit en utilisant l'emplacement [color=770000]Familiar[/color] [color=770000]Equipment[/color] window.</text>
 	</section>
 	<section id="mechanic">
 		<text id="introduce1">C'est totalement frit! C'est affreux!</text>
 		<text id="introduce2">Qu'est-il arrivé?</text>
-		<text id="introduce3">The Mirrows tried to re-route the power and almost blew the whole thing up!</text>
-		<text id="introduce4">Expecting us to clean up after their failed experiments… gah!</text>
-		<text id="introduce5">I don't even have any [item=titanium] left, so there's no way to repair it...</text>
-		<text id="powerplant1">Wow, I didn’t expect you to really come back with [item=titanium].</text>
+		<text id="introduce3">Les Mirrows ont essayé de réacheminer le courant et ont presque fait sauter le tout!</text>
+		<text id="introduce4">Ils espèrent que nous allons nettoyer après leurs expérimentations râtées... pff!</text>
+		<text id="introduce5">Je n'ai même plus de [item=titanium], donc il n'y a aucun moyen de le réparer...</text>
+		<text id="powerplant1">Wow, je ne m'attendais pas à ce que vous reveniez vraiment avec du [item=titanium].</text>
 		<text id="powerplant2">Merci, maintenant je peux régler ce problème en un rien de temps.</text>
-		<text id="powerplant3">Back in business! We can use [item=coal] or [item=refined_oil] to power the plant. You can also make a [item=battery] here.</text>
+		<text id="powerplant3">Retour aux affaires! Nous pouvons utiliser [item=coal] ou [item=refined_oil] pour alimenter la centrale. Vous pouvez également fabriquer une [item=battery] ici.</text>
 		<text id="powerplant4">Oh, and take this scrap metal from the repair as thanks for the [item=titanium]!</text>
 		<text id="powerplant5">I'll never find any more [item=titanium], it's hopeless!</text>
 		<text id="battery">Let me know when you've made a [item=battery], as we'll be able to make some cool stuff once we have a mobile power source!</text>
@@ -1351,41 +1351,41 @@
 		<text id="nav1">Looks like the navigation screen is still working. According to this, we are currently on Unoiks 428c.</text>
 		<text id="nav2">Les Mirrows ont-ils ajouté cette note?! Je dois leur demander à ce sujet...</text>
 		<text id="nav3">Nous sommes sur l'Ennemi Homeworld? Comment le sais-tu?</text>
-		<text id="nav4">We can't be certain... but we took samples of many ruins on this planet. Not only are they a match for their technology, but they date back over a million years ago!</text>
+		<text id="nav4">Nous ne pouvons pas en être certains... mais nous avons prélevé des échantillons de nombreuses ruines sur cette planète. Non seulement ils correspondent à leur technologie, mais ils remontent à plus d'un million d'années!</text>
 		<text id="nav5">Mais ils sont partis maintenant?</text>
-		<text id="nav6">We haven't detected them on this planet, but even if they did leave, they are sure to return eventually.</text>
-		<text id="nav7">This is why we were willing to sacrifice everything for strength... from the day we landed on this planet, a confrontation with them became inevitable.</text>
+		<text id="nav6">Nous ne les avons pas détectés sur cette planète, mais même s'ils sont partis, ils sont sûrs de revenir un jour.</text>
+		<text id="nav7">C'est pourquoi nous étions prêts à tout sacrifier pour être plus forts... Depuis que nous avons atterri sur cette planète, une confrontation avec eux était inévitable.</text>
 	</section>
 	<section id="scene.hut">
 		<text id="first1">Not bad at all... I wonder who began building this structure... and why they stopped. It looks pretty recent...</text>
-		<text id="first2">Help…[pause=4] please…[pause=4] shelter…</text>
-		<text id="first3">Someone is outside! Can I trust them?</text>
+		<text id="first2">Aidez-moi…[pause=4] S'il vous plaît…[pause=4] abri…</text>
+		<text id="first3">Quelqu'un est dehors! Puis-je leur faire confiance?</text>
 		<text id="first4">Thank you. I owe you my life. I had all but given up hope - I was too tired and hungry to finish this shelter. But what do we do now?</text>
-		<text id="first5">For now, we stay warm and dry.</text>
-		<text id="first6">But what about after that? How will we survive on this deserted island?</text>
-		<text id="first7">Is there even any point? We’re stuck here, there’s no going back.</text>
-		<text id="first8">At least we can try. Maybe life here won’t be as bad as you think it will.</text>
-		<text id="first9">Please…[pause=4] help…</text>
-		<text id="second1">… so when I arrived here I just started digging and didn’t even realize there was a storm.</text>
+		<text id="first5">Pour l'instant, nous restons au chaud et au sec.</text>
+		<text id="first6">Mais qu'en est-il ensuite? Comment survivrons-nous sur cette île déserte?</text>
+		<text id="first7">Y a-t-il même un but? Nous sommes coincés ici, il n'y a pas de retour possible.</text>
+		<text id="first8">Au moins, nous pouvons essayer. Peut-être que la vie ici ne sera pas aussi mauvaise que vous le pensez.</text>
+		<text id="first9">S'il vous plaît…[pause=4] Aidez-moi…</text>
+		<text id="second1">… Donc quand je suis arrivé ici, j'ai juste commencé à creuser et je ne me suis même pas rendu compte qu'il y avait une tempête.</text>
 		<text id="second2">But I’m glad you’re here. I was getting tired of eating dirt, and there’s nothing like a warm fire after a long day underground.</text>
 		<text id="second3">Pensez-vous qu'il y a plus de survivants là-bas?</text>
-		<text id="second4">Honestly, I’m surprised anyone survived that crash. But here we are, so maybe others survived too?</text>
-		<text id="third1">Now I bet you youngin’s are thinking this here’s the end of the world, but I thought the same during World War 3 and yet here we all are.</text>
-		<text id="third2">The way I sees it, we just got to make the best of the situation, and be glad there’s food to eat and company to share.</text>
-		<text id="third3">But how long will we have to live on this god-forsaken island?</text>
-		<text id="third4">Who knows? But as long as there’s life, there’s hope. Perhaps in time this island will be as good as home.</text>
-		<text id="fourth1">So tell us what you know of other survivors?</text>
+		<text id="second4">Honnêtement, je suis surpris que quiconque ait survécu à cet accident. Mais nous y sommes, alors peut-être que d'autres ont survécu aussi?</text>
+		<text id="third1">Maintenant, je parie que vous, les jeunes, pensez que c'est la fin du monde, mais j'ai pensé la même chose pendant la Troisième Guerre Mondiale et pourtant nous en sommes là.</text>
+		<text id="third2">À mon avis, nous devons juste tirer le meilleur parti de la situation et être heureux qu'il y ait de la nourriture à manger et de la compagnie à partager.</text>
+		<text id="third3">Mais combien de temps devrons-nous vivre sur cette île abandonnée de Dieu?</text>
+		<text id="third4">Qui sait? Mais tant qu'il y a de la vie, il y a de l'espoir. Peut-être qu'avec le temps, cette île sera comme à la maison.</text>
+		<text id="fourth1">Alors dites-nous ce que vous savez des autres survivants?</text>
 		<text id="fourth2">Most of us were scattered across different islands, but some of the islands have more survivors and even some working technology.</text>
-		<text id="fourth3">I’ve even heard rumors of an island with a nearly intact ship.</text>
+		<text id="fourth3">J'ai même entendu des rumeurs d'une île avec un navire presque intact.</text>
 		<text id="fourth4">Pourrait-il encore voler?</text>
-		<text id="fourth5">As I said, all I’ve heard are rumors. But even if it could, it’d be certain death. Best to stay on this planet, they don’t seem to care about us here.</text>
-		<text id="hunter1">You're so good at this stuff. Were you a hunter before the crash?</text>
-		<text id="hunter2">Heh. Never killed an animal in my life before this. I was a scientist. Lab work. Molecules.</text>
-		<text id="hunter3">Wow. How'd you figure it all out then?</text>
-		<text id="hunter4">It's amazing what you can do when you need to survive.</text>
-		<text id="hunter5">You change. You become someone your old self would barely recognize.</text>
-		<text id="mirrows1">They’ve been rebuilding technology?</text>
-		<text id="mirrows2">Yeah, Sunset Haven has power and industrial equipment.</text>
+		<text id="fourth5">Comme je l’ai dit, je n’ai entendu que des rumeurs. Mais même si c'était le cas, ce serait une mort certaine. Mieux vaut rester sur cette planète, ils ne semblent pas se soucier de nous ici.</text>
+		<text id="hunter1">Tu es si bon dans ce genre de choses. Tu était un chasseur avant le crash?</text>
+		<text id="hunter2">Hey. Je n'ai jamais tué un animal de ma vie avant ça. J'étais scientifique. Travail de labo. Molécules.</text>
+		<text id="hunter3">Wow. Comment avez-vous tout compris alors?</text>
+		<text id="hunter4">C'est incroyable ce que vous pouvez faire quand vous avez besoin de survivre.</text>
+		<text id="hunter5">Vous changez. Vous devenez quelqu'un que votre ancien moi reconnaîtrait à peine.</text>
+		<text id="mirrows1">Ils ont reconstruit la technologie?</text>
+		<text id="mirrows2">Ouais, Sunset Haven a du matériel électrique et industriel.</text>
 		<text id="mirrows3">But the folks there aren’t too happy with the Mirrows who set it all up.</text>
 		<text id="mirrows4">Les Mirrows ont survécu!?</text>
 		<text id="mirrows5">Tu les connais?</text>
@@ -1456,13 +1456,13 @@
 		<text id="max_overweight">Overweight Limit:</text>
 		<text id="notifications">Notifications:</text>
 		<text id="show_all">Afficher tout</text>
-		<text id="hide_queue">Hide Bottom</text>
-		<text id="hide_element">Hide Element</text>
-		<text id="hide_queue_element">Hide Bottom, Element</text>
-		<text id="hide_critical">Hide Critical</text>
-		<text id="hide_queue_critical">Hide Bottom, Critical</text>
-		<text id="hide_element_critical">Hide Element, Critical</text>
-		<text id="hide_queue_element_critical">Hide All</text>
+		<text id="hide_queue">Cacher Bouton</text>
+		<text id="hide_element">Cacher Élément</text>
+		<text id="hide_queue_element">Cacher Bouton, Élément</text>
+		<text id="hide_critical">Cacher Critique</text>
+		<text id="hide_queue_critical">Cacher Bouton, Critique</text>
+		<text id="hide_element_critical">Cacher Élément, Critique</text>
+		<text id="hide_queue_element_critical">Cacher Tout</text>
 		<text id="move_all">Enable Move All Buttons</text>
 		<text id="move_all_confirm">This button will move all items from one inventory to the other. Are you sure you want to do this?</text>
 		<text id="fade_ui">Fade UI:</text>
@@ -1475,9 +1475,9 @@
 		<text id="item_discover">Show new item discovered popup.</text>
 		<text id="blueprint_place">Use resources when placing blueprints.</text>
 		<text id="talk_quest">Give NPC priority with no quests.</text>
-		<text id="auto_collect">Auto Collect items.</text>
+		<text id="auto_collect">Récup. auto d'items.</text>
 		<text id="hotkey_switch">Switch Equipment hotkeys.</text>
-		<text id="storehouse_priority">Prioritize Storehouse Inventory.</text>
+		<text id="storehouse_priority">Prioriser l'inventaire de l'Entrepôt.</text>
 		<text id="difficulty">Difficulté:</text>
 	</section>
 	<section id="option.descriptions">
