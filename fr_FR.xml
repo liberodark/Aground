@@ -23,8 +23,8 @@
 		<text id="stamina">Endurance:</text>
 		<text id="health_short">HP</text>
 		<text id="defense_short">DEF</text>
-		<text id="power">Power</text>
-		<text id="oxygen">Oxygen</text>
+		<text id="power">Energie</text>
+		<text id="oxygen">Oxygène</text>
 		<text id="ok">Ok</text>
 		<text id="cancel">Annuler</text>
 		<text id="yes">Oui</text>
@@ -58,13 +58,13 @@
 		<text id="power_plant">Centrale électrique</text>
 		<text id="warehouse">Warehouse</text>
 		<text id="farm">Grange</text>
-		<text id="stall">Animal Pen</text>
+		<text id="stall">Enclos</text>
 		<text id="harvest">Récolte</text>
 		<text id="harvest_all">Tout Récolter</text>
 		<text id="manage">Gérer</text>
 		<text id="feed">Nourrir</text>
 		<text id="lab">Laboratoire</text>
-		<text id="wyrm_pen">Wyrm Pen</text>
+		<text id="wyrm_pen">Enclos à Wyrm</text>
 		<text id="factory">Usine</text>
 		<text id="synthesizer">Synthétiseur</text>
 		<text id="power_per_hit">Power per Hit:</text>
@@ -102,7 +102,7 @@
 		<text id="auto_eat_stamina">Utiliser {count} {item} pour restaurer l'endurance</text>
 		<text id="auto_eat_oxygen">Utiliser {count} {item} pour restaurer l'oxygène</text>
 		<text id="drop_all">Êtes-vous sûr de vouloir jeter tous vos {item}? Ils seront supprimés pour de bon.</text>
-		<text id="sign_message">Set [item=sign] Message:</text>
+		<text id="sign_message">Définir un [item=sign] Message:</text>
 		<text id="transform">Combien aimeriez-vous transformer en {into}?</text>
 		<text id="collect_complete">Collecte terminée</text>
 		<text id="set_sticky">Toggle [tile=sticky] Sticky Item</text>
@@ -570,7 +570,7 @@
 		<text id="labyrinth">Taurus</text>
 		<text id="dragon_flight">Dragon Tamer</text>
 		<text id="wyrm_queen">Queenslayer</text>
-		<text id="synthesizer">Synthetic Steak</text>
+		<text id="synthesizer">Steak Synthétique</text>
 		<text id="forge">Forging Ahead</text>
 		<text id="enchanted_chainsaw">Techno Mage</text>
 		<text id="elemental">Elementary</text>
@@ -614,14 +614,14 @@
 		<text id="medicom">Lire tous les journaux.</text>
 		<text id="electric_eel">Catch an [color=ff2222]Electric Eel[/color].</text>
 		<text id="full_cyborg">Install a full set of Cyborg gear.</text>
-		<text id="labyrinth">Complete the Minotaur Maze.</text>
-		<text id="dragon_flight">Fly on a [color=ff2222]Dragon[/color].</text>
+		<text id="labyrinth">Finir le labyrinthe du Minotaure.</text>
+		<text id="dragon_flight">Voler sur un [color=ff2222]Dragon[/color].</text>
 		<text id="wyrm_queen">Vaincre une [color=ff2222]Wyrm Queen[/color].</text>
 		<text id="synthesizer">Activater le [color=ff2222]Synthesizer[/color].</text>
 		<text id="forge">Activer la [color=ff2222]Forge[/color].</text>
 		<text id="enchanted_chainsaw">Enchanter une [color=ff2222]Tronçonneuse[/color].</text>
 		<text id="elemental">Capturez l'esprit de chaque élément.</text>
-		<text id="purple_tree">Chop down a [color=ff2222]Purple Tree[/color].</text>
+		<text id="purple_tree">Abattre Chop down a [color=ff2222]Purple Tree[/color].</text>
 		<text id="full_dragon">Obtenez un ensemble complet d'équipement de dragon.</text>
 		<text id="time_manipulator">Activer un [color=ff2222]Manipulateur de temps[/color].</text>
 		<text id="oldone">Vaincre un [color=ff2222]Old One[/color].</text>
@@ -1160,24 +1160,24 @@
 		<text id="dock2">Peut-être que je devrais construire un [color=770000]Dock[/color] pour partir et les trouver. Il faudra [var=quest.dock2.wood] [item=wood] et [var=quest.dock2.steel_bar] [item=steel_bar]s.</text>
 		<text id="dock3">D'accord, construisons ce [color=770000]Dock[/color]!</text>
 		<text id="market1">Peut-être que si je construisais un [color=770000]Market[/color], j'attirerais des commerçants sur ce quai. Je peux en construire un contre des [var=quest.market2.gold_bar] [item=gold_bar]s.</text>
-		<text id="market2">That's everything I need for the [color=770000]Market[/color]!</text>
-		<text id="market3">It looks like there really were traders out there! They even gave me a [item=coin_purse] to store coins for buying and selling.</text>
-		<text id="market4">Now we just need to build a [tile=boat.ico] Boat at the [color=770000]Dockhouse[/color]!</text>
+		<text id="market2">C'est tout ce dont j'ai besoin pour le [color=770000]Market[/color]!</text>
+		<text id="market3">On dirait qu'il y ait vraiment des commerçants! Ils m'ont même donné un [item=coin_purse] pour stocker des pièces pour acheter et vendre.</text>
+		<text id="market4">Il ne nous reste plus qu'à construire un [tile=boat.ico] Bateau au [color=770000]Dockhouse[/color]!</text>
 		<text id="farewell1">Je ne sais pas ce qui se passe là-bas, mais je veux savoir avant de revenir..</text>
 		<text id="farewell2">Ramenez de bonnes choses à manger!</text>
 		<text id="farewell3">N'oubliez pas d'explorer sous la surface, vous ne savez jamais ce que vous pourriez découvrir.</text>
 		<text id="farewell4">Ne nous laissez pas attendre - revenez bientôt.</text>
 		<text id="farewell5">Ne vous mêlez de rien de trop dangereux.</text>
 		<text id="farewell6">C'est un monde incertain là-bas.</text>
-		<text id="farewell7">You're going the wrong way, the secrets are all off to the east!</text>
-		<text id="bandits1">It's great to be back in business! Now if only we could get rid of those thieving bandits!</text>
-		<text id="bandits2">You seem strong. Think you could scare them off for us?</text>
-		<text id="bandits3">You actually beat the bandits! Please, take this gift as a token of our appreciation.</text>
-		<text id="bandits4">It's our lucky day - our prey came walking right up to us! Things are going great since we ran away from those Mirrows and their nasty experiments!</text>
-		<text id="ore_cave">This place feels weird, like I've entered another dimension. I have a feeling it will be different every time I enter.</text>
-		<text id="no_coin_purse">You'll need a [item=coin_purse] if you want to trade with us. We can give you one for [var=recipe.sci1_coin_purse.sulfur] [item=sulfur].</text>
-		<text id="make_coin_purse">Trade [var=recipe.sci1_coin_purse.sulfur] [item=sulfur] for a [item=coin_purse]?</text>
-		<text id="lurker">Hey kid, would you like some rare goods? You can't buy these anywhere else!</text>
+		<text id="farewell7">Vous allez dans le mauvais sens, les secrets sont tous à l'Est!</text>
+		<text id="bandits1">C'est formidable d'être de retour! Maintenant, si seulement nous pouvions nous débarrasser de ces voleurs!</text>
+		<text id="bandits2">Vous semblez fort. Vous pensez que vous pourriez leur faire peur?</text>
+		<text id="bandits3">Tu as vraiment battu les bandits! S'il vous plaît, prenez ce cadeau en signe de notre appréciation.</text>
+		<text id="bandits4">C'est notre jour de chance - notre proie a foncé sur nous! Les choses vont mieux depuis que nous nous sommes enfuis de ces Mirrows et de leurs mauvaises expériences!</text>
+		<text id="ore_cave">Cet endroit est bizarre, comme si j'étais entré dans une autre dimension. J'ai le sentiment que ce sera différent à chaque fois que j'entrerai.</text>
+		<text id="no_coin_purse">Vous aurez besoin d'un [item=coin_purse] si vous voulez commercer avec nous. Nous pouvons vous en donner un pour [var=recipe.sci1_coin_purse.sulfur] [item=sulfur].</text>
+		<text id="make_coin_purse">Commercer [var=recipe.sci1_coin_purse.sulfur] [item=sulfur] pour un [item=coin_purse]?</text>
+		<text id="lurker">Hé gamin, vous voulez des produits rares? Vous ne pourrez pas les acheter ailleurs!</text>
 		<text id="lurker_empty">Merci pour votre travail. Désolé, aucun remboursement.</text>
 	</section>
 	<section id="hunter">
@@ -1232,11 +1232,11 @@
 		<text id="powerplant1">Wow, je ne m'attendais pas à ce que vous reveniez vraiment avec du [item=titanium].</text>
 		<text id="powerplant2">Merci, maintenant je peux régler ce problème en un rien de temps.</text>
 		<text id="powerplant3">Retour aux affaires! Nous pouvons utiliser [item=coal] ou [item=refined_oil] pour alimenter la centrale. Vous pouvez également fabriquer une [item=battery] ici.</text>
-		<text id="powerplant4">Oh, and take this scrap metal from the repair as thanks for the [item=titanium]!</text>
-		<text id="powerplant5">I'll never find any more [item=titanium], it's hopeless!</text>
-		<text id="battery">Let me know when you've made a [item=battery], as we'll be able to make some cool stuff once we have a mobile power source!</text>
-		<text id="tip1">Use [item=sulfur] and a [item=steel_bar] to make a [item=battery] at the [color=770000]Power Plant[/color]. You can recharge them there, too.</text>
-		<text id="tip2">Simply add a [item=battery] to your inventory to power your equipment.</text>
+		<text id="powerplant4">Oh, et prenez cette ferraille en remerciement pour le [item=titanium]!</text>
+		<text id="powerplant5">Je ne trouverai plus jamais de [item=titanium], c'est sans espoir!</text>
+		<text id="battery">Faites-moi savoir quand vous aurez fabriqué une [item=battery], car nous pourrons faire des trucs sympas une fois que nous aurons une source d'alimentation mobile!</text>
+		<text id="tip1">Utilisez du [item=sulfur] et une [item=steel_bar] pour faire une [item=battery] à la [color=770000]Power Plant[/color]. Vous pouvez également les recharger là-bas.</text>
+		<text id="tip2">Ajoutez simplement une [item=battery] à votre inventaire pour alimenter votre équipement.</text>
 		<text id="tip3">Your total [tile=power] [color=444400]Power[/color] will be displayed below your [tile=health] [color=770000]Health[/color] and [tile=stamina] [color=006600]Stamina[/color] .</text>
 		<text id="factory1">Now that we finally have power again, I wish we had some new machinery to play with.</text>
 		<text id="factory2">If you help me get a [color=770000]Factory[/color] set up, we could manufacture all sorts of things!</text>
