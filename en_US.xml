@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<lang id="en_US" name="English" version="2.0.5">
+<lang id="en_US" name="English" version="2.0.6">
 	<section id="common">
 		<text id="blocked">Blocked!</text>
 		<text id="resist">{element} Resist!</text>
@@ -1475,7 +1475,7 @@
 		<text id="item_discover">Show new item discovered popup.</text>
 		<text id="blueprint_place">Use resources when placing blueprints.</text>
 		<text id="talk_quest">Give NPC priority with no quests.</text>
-		<text id="auto_collect">Auto Collect items.</text>
+		<text id="auto_collect">Auto Collect:</text>
 		<text id="hotkey_switch">Switch Equipment hotkeys.</text>
 		<text id="storehouse_priority">Prioritize Storehouse Inventory.</text>
 		<text id="difficulty">Difficulty:</text>
@@ -1520,6 +1520,7 @@
 		<text id="hotkey8">Hotkey 8:</text>
 		<text id="mute">Mute:</text>
 		<text id="chat">Chat:</text>
+		<text id="walk">Walk:</text>
 	</section>
 	<section id="cloud">
 		<text id="login">Aground Cloud Login\nAground Cloud is an optional service that will sync your save files across all versions of the game.</text>

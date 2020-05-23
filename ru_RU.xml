@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<lang id="ru_RU" name="Русский" font="fonts/uni.fnt" version="2.0.5">
+<lang id="ru_RU" name="Русский" font="fonts/uni.fnt" version="2.0.6">
     <section id="common">
         <text id="blocked">Блок!</text>
         <text id="resist">Отражено!</text>
@@ -1521,6 +1521,7 @@
         <text id="hotkey8">Гор. клав. 8:</text>
         <text id="mute">Без звука:</text>
 		<text id="chat">Чат:</text>
+		<text id="walk">Ходить:</text>
     </section>
     <section id="cloud">
         <text id="login">Войти в Облако Aground\nОблако Aground – это дополнительный сервис, который синхронизирует сохранения из всех версий игры.</text>

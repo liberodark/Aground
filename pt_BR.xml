@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lang id="pt_BR" name="Português(BR)" version="2.0.5">
+<lang id="pt_BR" name="Português(BR)" version="2.0.6">
     <section id="common">
         <text id="blocked">Bloqueou!</text>
         <text id="resist">Resistente a {element}!</text>
@@ -1476,7 +1476,7 @@
         <text id="item_discover">Notificação de novo item descoberto</text>
         <text id="blueprint_place">Usar materiais ao planejar plantas</text>
         <text id="talk_quest">Dar prioridade a PNJs sem missões</text>
-        <text id="auto_collect">Recolher itens automaticamente</text>
+        <text id="auto_collect">Recolhe auto</text>
         <text id="hotkey_switch">Trocar atalhos de equipamento</text>
         <text id="storehouse_priority">Priorizar o inventário do depósito</text>
         <text id="difficulty">Dificuldade:</text>
@@ -1521,6 +1521,7 @@
         <text id="hotkey8">Atalho 8:</text>
         <text id="mute">Mudo:</text>
 		<text id="chat">Bate-papo:</text>
+		<text id="walk">Caminhar:</text>
     </section>
     <section id="cloud">
         <text id="login">Login no Aground Cloud\nO Aground Cloud é um serviço opcional que sincroniza seus arquivos salvos em diferentes versões do jogo.</text>
