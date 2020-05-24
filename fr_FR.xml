@@ -1271,63 +1271,63 @@
 		<text id="mirrows15">Cass? Que fais-tu ici?</text>
 		<text id="mirrows16">Je voudrais que vous regardiez ceci. Peut-être que vous n'avez pas à transformer les gens en cyborg après tout.</text>
 		<text id="mirrows17">Quelle est cette chose? Le relevé de sa puissance explose les scores, mais elle ne semble pas avoir été faite par l'homme!</text>
-		<text id="mirrows18">If I tell you, will you agree to stop your human experimentation and extortion?</text>
-		<text id="mirrows19">Of course, this could be a whole new line of research for us!</text>
-		<text id="mirrows20">It turns out the species who originally inhabited this planet created the dragons and magical equipment. And, that species may have been - them.</text>
-		<text id="mirrows21">We'll be using their own creations against them! What delicious irony!</text>
-		<text id="sleep">Don't you know what time it is? I'm sure whatever you need can wait until morning...</text>
+		<text id="mirrows18">Si je vous le dis, acceptez-vous d'arrêter votre extorsion et vos expérimentations sur les humains?</text>
+		<text id="mirrows19">Bien-sûr, cela pourrait être une toute nouvelle ligne de recherche pour nous!</text>
+		<text id="mirrows20">Il s'avère que l'espèce qui habitait cette planète à l'origine a créé les dragons et l'équipement magique. Et, il est possibile que cette espèce ait été - eux.</text>
+		<text id="mirrows21">Nous utiliserions leur propre création contre eux! Quelle délicieuse ironie!</text>
+		<text id="sleep">Ne savez-vous pas quelle heure il est? Je suis sûr que quelque soit ce dont vous avez besoin cela peut attendre demain matin...</text>
 	</section>
 	<section id="innkeeper">
-		<text id="intro1">Welcome to the Golden Key! Finest (and only) room and board this side of the desert!</text>
+		<text id="intro1">Bienvenue à la Clé Dorée! La meilleure (et la seule) auberge de ce côté du désert!</text>
 		<text id="intro2">C'est donc une auberge? Avez-vous beaucoup de clients ici?</text>
-		<text id="intro3">A fair few come through Sunset Haven - exploring, trading, looking for a place to call home.</text>
-		<text id="intro4">But if we don't get power back soon who knows if anyone will stay. I can't tell you how many times I've been tempted to go and give those Mirrows a piece of my mind!</text>
+		<text id="intro3">Un bon nombre viennent vis Sunset Haven - pour explorer, commercer, à la recherche d'un endroit où s'installer.</text>
+		<text id="intro4">Mais si nous ne récupérons pas le courant bientôt qui sait si quiconque restera. Je ne peux pas vous dire combien de fois j'ai tenté d'aller voir les Mirrows pour leur dire ce que je pense!</text>
 		<text id="power1">Génial! Le courrant est de retour!</text>
-		<text id="power2">No thanks to those darn Mirrows. I can’t believe we all still pay them dues to keep the technology running around here!</text>
-		<text id="power3">And not only do they fry the power plant, they can’t be bothered to come around and fix it?!</text>
-		<text id="power4">Tu ne peux pas arrêter de les payer?</text>
-		<text id="power5">I can’t leave the inn, but if someone would go to the desert and confront them about it, maybe we could back out of this unfair arrangement.</text>
-		<text id="no_power">I'm afraid we can't let you stay here until the power comes back on.</text>
-		<text id="visit">Would you like to spend the night? Only 50 [color=770000][tile=coin_purse.ico] Coins[/color], and I'll include a hot meal!</text>
-		<text id="no_money">Not enough money? Then I'm afraid you can't stay here. This isn't a charity you know!</text>
-		<text id="scene1">I hear the main ship crashed around here somewhere? How did you survive without life pods?</text>
-		<text id="scene2">That's exactly our problem. The Mirrows saved us. They did some unbelievable last minute enhancements and protected an entire sector from obliteration. So we're in their debt.</text>
-		<text id="scene3">But now, they destroyed our power, and they’re letting strange creatures loose to wreak havoc.</text>
-		<text id="scene4">I've even heard that some folk have gone missing in the desert, where the Mirrows were last seen.</text>
-		<text id="scene5">And they expect us to put up with all this? And even pay dues to them? It’s become too much.</text>
-		<text id="mirrows1">The Mirrows agreed to stop asking you for money and experimenting on people!</text>
-		<text id="mirrows2">Excellent! Maybe we can finally have some peace around here now.</text>
+		<text id="power2">Pas grâce à ces satanés Mirrows. Je n'arrive pas à croire nous leur payons encore tous une cotisation pour que la technologie continue de fonctionner dans le coin!</text>
+		<text id="power3">Et non seulement ils plantes la centrale électrique, ils n'en ont rien à faire de venir et de la réparer?!</text>
+		<text id="power4">Vous ne pouvez pas arrêter de les payer?</text>
+		<text id="power5">Je ne peux pas m'absenter de l'auberge, mais si quelqu'un pouvait aller dans le désert et les confronter sur le sujet, peut-être que nous pourrions sortir de cet arrangement injuste.</text>
+		<text id="no_power">Je suis désolé, nous ne pouvons pas vous laisser rester ici jusqu'à ce que le courant revienne.</text>
+		<text id="visit">Voulez-vous rester pour la nuit? C'est seulement 50 [color=770000][tile=coin_purse.ico] Coins[/color], repas chaud inclus!</text>
+		<text id="no_money">Pas assez d'argent? Alors j'ai bien peur que vous ne pouviez rester ici. On ne fait pas la charité vous savez!</text>
+		<text id="scene1">J'ai entendu que le vaisseau principal s'est écrasé quelque part dans les environs? Comment avez-vous survécu sans capsules de survie?</text>
+		<text id="scene2">C'est exactement le problème. Les Mirrows nous ont sauvés. Ils ont fait d'incroyables améliorations de dernière minute et ont protégé un secteur entier de l'anéantissempent. Donc nous leur en devons une.</text>
+		<text id="scene3">Mais maintenant, ils ont détruit notre courant, et ils laissent d'étranges créatures libres de faire des ravages.</text>
+		<text id="scene4">J'ai même entendu que des gens avaient disparu dans le désert, là où on a vu les Mirrows pour la dernière fois.</text>
+		<text id="scene5">Et ils s'attendent à ce qu'on accepte tout ça? Et même qu'on leur paie des cotisations? C'est devenu trop.</text>
+		<text id="mirrows1">Les Mirrows ont accepté d'arrêter de vous demander de l'argent et d'expérimenter sur les gens!</text>
+		<text id="mirrows2">Excellent! Peut-être que nous pourront finalement être un peu en paix par ici maintenant.</text>
 		<text id="mirrows3">Ici, prenez cela comme un gage de mon appréciation.</text>
 		<text id="mirrows4">... [item=charbon]?</text>
 		<text id="mirrows5">Quoi? Je ne dirige pas un organisme de bienfaisance, vous savez.</text>
 	</section>
 	<section id="fisherman">
 		<text id="intro1">Enfin de retour sur terre! On dirait que vous venez d'arriver aussi!</text>
-		<text id="intro1_alt">Héy! C'est agréable de voir d'autres survivants naviguer ici!</text>
-		<text id="intro2">Don't mind her, that's just Polly’s way of saying hello. Hope you don’t mind a bit of seawater on your boots!</text>
+		<text id="intro1_alt">Hey! C'est agréable de voir d'autres survivants naviguer ici!</text>
+		<text id="intro2">Ne faites pas attention à elle, c'est juste la façon de Polly de dire bonjour. J'espère qu'un peu d'eau de mer sur vos bottes ne vous dérange pas!</text>
 		<text id="intro3">Alors, avez-vous déjà visité cette île?</text>
 		<text id="intro3_alt">Alors, savez-vous quelle île nous attend?</text>
 		<text id="intro4">Bien sûr, cette île s'appelle Sunset Haven, et elle a plus de survivants que n'importe quelle autre île que j'ai vue.</text>
 		<text id="intro4_alt">Bien sûr, l'île s'appelle Sunset Haven, et elle a plus de survivants que n'importe quelle autre île que j'ai vue.</text>
 		<text id="intro5">Cela a également du sens - car c'est là que le navire principal s'est écrasé.</text>
 		<text id="intro6">Mais attention. J'ai récemment entendu de mauvaises rumeurs sur Sunset Haven...</text>
-		<text id="cat1">Hé, mon [item=cat] Peri s'est encore enfui de moi! Pensez-vous que vous pourriez m'aider à la retrouver?</text>
+		<text id="cat1">Hé, ma [item=cat] Peri s'est encore enfuie de chez moi! Pensez-vous que vous pourriez m'aider à la retrouver?</text>
 		<text id="cat2">Je pense qu'elle essaie d'éviter de naviguer. Pas une fan de l'eau.</text>
 		<text id="cat3">Si vous m'aidez, je vous apprendrai ce que je sais de la pêche.</text>
-		<text id="cat4">Awesome, thanks! Here's a spare [item=fishing_rod], talk to me if you want fishing tips!</text>
-		<text id="cat5">[item=toothfish] are Peri's favorite food, maybe you can tempt her with some of those?</text>
-		<text id="cat6">Hey, you found my [item=cat]! Thanks, man.</text>
-		<text id="cat7">Sheesh, looks like you completely won her over. I bet she’d be happier with you. Why don’t you keep her?</text>
-		<text id="cat8">The cat is too fast for you to grab!</text>
-		<text id="cat9">She snatched the [item=toothfish] from my hand, but she’s too fast, I can’t catch her.</text>
-		<text id="cat11">Give Peri a [item=toothfish]?</text>
-		<text id="cat12">She didn’t bolt away as fast this time.</text>
-		<text id="cat13">Come here Peri... that's a good girl...</text>
-		<text id="cat15">One cat successfully captured!</text>
-		<text id="tip1">Fishing is all about timing. Use your fishing rod at the end of the dock and then hit [key=select] when there is something on the line - too soon or too late, and you'll lose the catch!</text>
-		<text id="tip2">If it says "Wait for it...", the fish needs a little more coaxing. Wait until it says "Pull now!" then hit [key=select] again!</text>
-		<text id="tip3">Some fish are more difficult to catch and require more keys. Keep an eye on the tooltip, and hit the key it shows!</text>
-		<text id="scene1">Me, this is all I need - a roof over my head, sunshine, and the vast ocean to fish.</text>
+		<text id="cat4">Génial, merci! Tenez un [item=fishing_rod], venez me voir si vous voulez des conseils sur la pêche!</text>
+		<text id="cat5">Les [item=toothfish] sont la nourriture préférée de Peri, peut-être que vous pouvez essayer de la tenter avec ça?</text>
+		<text id="cat6">Hey, vous avez trouvé ma [item=cat]! Merci.</text>
+		<text id="cat7">Mm, on dirait que vous l'avez complètement conquise. Je parie qu'elle sera plus heureuse avec vous. Vous devriez la garder.</text>
+		<text id="cat8">La chatte est trop rapide pour que vous l'attrapiez!</text>
+		<text id="cat9">Elle a arraché le [item=toothfish] de ma main, mais elle est trop rapide, je ne peux pas l'attraper.</text>
+		<text id="cat11">Donner un [item=toothfish] à Peri?</text>
+		<text id="cat12">Elle n'est pas partie aussi vite cette fois-ci.</text>
+		<text id="cat13">Viens ici Peri... bonne fille...</text>
+		<text id="cat15">Un chat capturé avec succès!</text>
+		<text id="tip1">Avec la pêche, tout est dans le timing. Utilisez votre canne à pêche au bout du quai et pressez [key=select] quand il y a quelque chose au bout de la ligne - trop tôt ou trop tard, et vous perdrez la prise!</text>
+		<text id="tip2">Si cela dit "Attendez...", le poisson a besoin d'être amadoué un peu plus. Attendez jusqu'à ce qu'il soit écrit "Tirez maintenant!" puis pressez de nouveau [key=select]!</text>
+		<text id="tip3">Certains poissons sont plus difficiles à attraper et nécessite plus de touches. Gardez un oeil sur les info-bulles, et appuyez sur la touche quand elle apparaît!</text>
+		<text id="scene1">Pour moi, c'est tout ce dont j'ai besoin - un toit au-dessus de ma tête, le soleil, et le vaste océan pour pécher.</text>
 		<text id="scene2">Et vous? Quel est votre rêve?</text>
 		<text id="scene3">J'aimerais vraiment savoir s'il y a un moyen de quitter cette planète.</text>
 		<text id="scene4">Quoi, pourquoi!? Avez-vous un souhait de mort? Ces choses n'ont aucune pitié.</text>
@@ -1335,20 +1335,20 @@
 		<text id="scene6">Écoutez mon ami, j'en ai vu un avant le lancement de la Terre. Tout ce que vous devez savoir, c'est comment les éviter.</text>
 	</section>
 	<section id="mirrows">
-		<text id="intro1">Are you two the Mirrows? Why have you been tormenting Sunset Haven and creating those strange mutants?</text>
-		<text id="intro2">You don't understand! We're doing this for the good of everyone! We cannot survive without ultimate weapons!</text>
-		<text id="intro3">When they come to exterminate the last of us, we'll be ready! The sacrifices made have been necessary.</text>
-		<text id="intro4">You can't just go around sacrificing people for a future that may never come to be! There are better ways to save everyone!</text>
-		<text id="intro5">If you’re determined to work against us, we have no choice but to fight you.</text>
-		<text id="intro6">I have a feeling your body is just what I need for my new Cyborg invention!</text>
-		<text id="defeat0">Unbelievable! Somehow you are stronger than I am, even with our advanced cybernetics!</text>
+		<text id="intro1">Etes-vous tous les deux des Mirrows? Pourquoi tormentez-vous Sunset Haven et créez-vous tous ces mutants?</text>
+		<text id="intro2">Vous ne comprenez pas!Nous faisons ça pour tout le monde! Nous ne pouvons pas survivre sans l'arme ultime!</text>
+		<text id="intro3">Quand ils viendront exterminer le dernier d'entre nous, nous serons prêts! Les sacrifices qui ont été faits étaient nécessaires.</text>
+		<text id="intro4">Vous ne pouvez pas juste sacrifier tout le monde au nom d'un futur qui ne pourrait ne jamais arriver! Il y a de meilleurs façons de sauver tout le monde!</text>
+		<text id="intro5">Si vous voulez travailler contre nous, nous n'aurons d'autre choix que de vous combattre.</text>
+		<text id="intro6">J'ai le sentiment que votre corps est juste ce dont j'ai besoin pour ma nouvelle invention cybernétique!</text>
+		<text id="defeat0">Incroyable! D'une certaine façon vous êtes plus fort que moi, même avec nos avancées cybernétiques!</text>
 		<text id="defeat1">Vous devez nous dire les secrets de votre force - vous pourriez être la clé pour sauver l'humanité!</text>
 		<text id="defeat2">Si je vous dis mes secrets, accepterez-vous d'arrêter de harceler les citadins et de leur demander de l'argent?</text>
 		<text id="defeat3">Bien sûr. Pourquoi aurions-nous besoin de ces spécimens ternes quand nous vous aurons!?</text>
 		<text id="defeat4">Ce sera un tout nouvel axe de recherche pour nous!!</text>
-		<text id="defeat5">Feel free to use our surgery lab. We’d be very interested to see how powerful you become with our cybernetic enhancements!</text>
-		<text id="tip1">You can remove cybernetic enhancements at any time by selecting it in your equipment window and choosing remove. You can re-install enhancements later at the surgery lab, but it will cost more resources.</text>
-		<text id="nav1">Looks like the navigation screen is still working. According to this, we are currently on Unoiks 428c.</text>
+		<text id="defeat5">N'hésitez pas à utiliser le labo de chirurgie. Nous serions très intéressés de voir à quel point vous pourriez devenir puissant avec nos améliorations cybernétiques!</text>
+		<text id="tip1">Vous pouvez retirer les améliorations cybernétiques à tous moments en les sélectionnant dans votre fenêtre d'équipement et en choisissant retirer. Vous pouvez ré-installer les améliorations plus tard au labo de chirurgie, mais cela coutera des ressources.</text>
+		<text id="nav1">On dirait que l'écran de navigation fonctionne toujours. A ce propos, nous sommes actuellement sur Unoiks 428c.</text>
 		<text id="nav2">Les Mirrows ont-ils ajouté cette note?! Je dois leur demander à ce sujet...</text>
 		<text id="nav3">Nous sommes sur l'Ennemi Homeworld? Comment le sais-tu?</text>
 		<text id="nav4">Nous ne pouvons pas en être certains... mais nous avons prélevé des échantillons de nombreuses ruines sur cette planète. Non seulement ils correspondent à leur technologie, mais ils remontent à plus d'un million d'années!</text>
@@ -1357,17 +1357,17 @@
 		<text id="nav7">C'est pourquoi nous étions prêts à tout sacrifier pour être plus forts... Depuis que nous avons atterri sur cette planète, une confrontation avec eux était inévitable.</text>
 	</section>
 	<section id="scene.hut">
-		<text id="first1">Not bad at all... I wonder who began building this structure... and why they stopped. It looks pretty recent...</text>
+		<text id="first1">Pas mal du tout... Je me demande qui a commencé à construire cette structure... et pourquoi ils ont arrêté. Ça à l'air assez récent...</text>
 		<text id="first2">Aidez-moi…[pause=4] S'il vous plaît…[pause=4] abri…</text>
 		<text id="first3">Quelqu'un est dehors! Puis-je leur faire confiance?</text>
-		<text id="first4">Thank you. I owe you my life. I had all but given up hope - I was too tired and hungry to finish this shelter. But what do we do now?</text>
+		<text id="first4">Merci. Je vous dois la vie. J'avais perdu tout espoir - j'étais trop fatigué et affamé pour finir cet abri. Mais que faisons-nous maintenant?</text>
 		<text id="first5">Pour l'instant, nous restons au chaud et au sec.</text>
 		<text id="first6">Mais qu'en est-il ensuite? Comment survivrons-nous sur cette île déserte?</text>
 		<text id="first7">Y a-t-il même un but? Nous sommes coincés ici, il n'y a pas de retour possible.</text>
 		<text id="first8">Au moins, nous pouvons essayer. Peut-être que la vie ici ne sera pas aussi mauvaise que vous le pensez.</text>
 		<text id="first9">S'il vous plaît…[pause=4] Aidez-moi…</text>
 		<text id="second1">… Donc quand je suis arrivé ici, j'ai juste commencé à creuser et je ne me suis même pas rendu compte qu'il y avait une tempête.</text>
-		<text id="second2">But I’m glad you’re here. I was getting tired of eating dirt, and there’s nothing like a warm fire after a long day underground.</text>
+		<text id="second2">Mais je suis content que vous soyez là. Je commençais à me fatigué de manger de la terre, et il n'y a rien d'aussi bien qu'un feu bien chaud après une longue journée sous terre.</text>
 		<text id="second3">Pensez-vous qu'il y a plus de survivants là-bas?</text>
 		<text id="second4">Honnêtement, je suis surpris que quiconque ait survécu à cet accident. Mais nous y sommes, alors peut-être que d'autres ont survécu aussi?</text>
 		<text id="third1">Maintenant, je parie que vous, les jeunes, pensez que c'est la fin du monde, mais j'ai pensé la même chose pendant la Troisième Guerre Mondiale et pourtant nous en sommes là.</text>
@@ -1375,7 +1375,7 @@
 		<text id="third3">Mais combien de temps devrons-nous vivre sur cette île abandonnée de Dieu?</text>
 		<text id="third4">Qui sait? Mais tant qu'il y a de la vie, il y a de l'espoir. Peut-être qu'avec le temps, cette île sera comme à la maison.</text>
 		<text id="fourth1">Alors dites-nous ce que vous savez des autres survivants?</text>
-		<text id="fourth2">Most of us were scattered across different islands, but some of the islands have more survivors and even some working technology.</text>
+		<text id="fourth2">La plupart d'entre nous sont répartis sur différentes îles, mais certaines îles ont plus de survivants ou de technologies qui fonctionnent.</text>
 		<text id="fourth3">J'ai même entendu des rumeurs d'une île avec un navire presque intact.</text>
 		<text id="fourth4">Pourrait-il encore voler?</text>
 		<text id="fourth5">Comme je l’ai dit, je n’ai entendu que des rumeurs. Mais même si c'était le cas, ce serait une mort certaine. Mieux vaut rester sur cette planète, ils ne semblent pas se soucier de nous ici.</text>
@@ -1386,13 +1386,13 @@
 		<text id="hunter5">Vous changez. Vous devenez quelqu'un que votre ancien moi reconnaîtrait à peine.</text>
 		<text id="mirrows1">Ils ont reconstruit la technologie?</text>
 		<text id="mirrows2">Ouais, Sunset Haven a du matériel électrique et industriel.</text>
-		<text id="mirrows3">But the folks there aren’t too happy with the Mirrows who set it all up.</text>
+		<text id="mirrows3">Mais les gens ici ne sont pas trop satisfaits des Mirrows qui ont tout mis en place.</text>
 		<text id="mirrows4">Les Mirrows ont survécu!?</text>
 		<text id="mirrows5">Tu les connais?</text>
-		<text id="mirrows6">Unfortunately. We were part of the same research group back home, studying genetics.</text>
-		<text id="mirrows7">After the attack, they started doing awful stuff like human experimentation. I could no longer work with them.</text>
-		<text id="mirrows8">Hey, we should rebuild some technology here, too! If they can do it, why not us?</text>
-		<text id="mirrows9">That's the spirit! This place will feel just like home in no time.</text>
+		<text id="mirrows6">Malheureusement. Nous faisions partie du même groupe de recherche, sur l'étude de la génétique.</text>
+		<text id="mirrows7">Après l'attaque, ils ont commencé à faire d'horribles choses comme des expérimentations humaines. Je ne pouvais plus travailler avec eux.</text>
+		<text id="mirrows8">Hey, nous devrions reconstruire la technologie ici aussi! S'ils peuvent le faire, pourquoi pas nous?</text>
+		<text id="mirrows9">Voilà, c'est l'idée! On se sentira comme à la maison ici en un rien de temps.</text>
 	</section>
 	<section id="medicom">
 		<text id="panel1">3/15 - We have been left with no choice but to abandon Earth. Our weapons cannot hurt them, and they pursue us with a vengeance. Perhaps, on another planet, we can finally evade their wrath.</text>
