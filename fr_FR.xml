@@ -481,116 +481,116 @@
 		<text id="purple_tree_seed">Graine d'Arbre Violet</text>
 	</section>
 	<section id="item.descriptions">
-		<text id="boat">Sail the World.</text>
-		<text id="fence">Keeps enemies out.</text>
-		<text id="furnace">Smelts ore.</text>
-		<text id="campfire">Cooks [item=steak].</text>
-		<text id="magic_box">Contains everything.</text>
-		<text id="craft">Crafts items.</text>
-		<text id="repair">Repairs items.</text>
-		<text id="freeze">Freezes enemies.</text>
-		<text id="burn">Burn</text>
-		<text id="drain">Health Drain</text>
+		<text id="boat">Vogue vers le Monde.</text>
+		<text id="fence">Garde les enemies au loin.</text>
+		<text id="furnace">Fond le minerai.</text>
+		<text id="campfire">Cuit [item=steak].</text>
+		<text id="magic_box">Contient tout.</text>
+		<text id="craft">Craft les items.</text>
+		<text id="repair">Réparer les items.</text>
+		<text id="freeze">Gèle les enemies.</text>
+		<text id="burn">Brûle</text>
+		<text id="drain">Vol de Vie</text>
 		<text id="undrain">Health Decay</text>
-		<text id="transform_other">Transforms items.</text>
-		<text id="fill">Fills holes.</text>
-		<text id="collect_rail">Pries up rails, cables and ladders.</text>
-		<text id="storehouse">Stores items.</text>
-		<text id="sign">Shows message.</text>
-		<text id="view_hidden">Reveals spirits.</text>
-		<text id="tent">Rests and restores [tile=stamina] [color=006600]Stamina[/color].</text>
-		<text id="spawn">Spawns {item}.</text>
-		<text id="light">Lights surroundings when equipped.</text>
-		<text id="cost_per_s">{value} per second.</text>
-		<text id="cost_per_s_daylight">{value} per sec in daylight.</text>
-		<text id="cost_per_s_darkness">{value} per sec in darkness.</text>
-		<text id="cost_per_s_day">{value} per sec daytime.</text>
-		<text id="cost_per_s_night">{value} per sec night.</text>
-		<text id="cost_per_s_injured">{value} per sec injured.</text>
-		<text id="cost_per_s_damaged">{value} per sec when not full.</text>
-		<text id="cost_per_s_undamaged">{value} per sec when full.</text>
-		<text id="hide">Hides the wearer.</text>
-		<text id="critical">Always gets a critical hit.</text>
+		<text id="transform_other">Transforme items.</text>
+		<text id="fill">Remplit les trous.</text>
+		<text id="collect_rail">Soulève les rails, les câbles et les échelles.</text>
+		<text id="storehouse">Range les items.</text>
+		<text id="sign">Montre le message.</text>
+		<text id="view_hidden">Révèle les esprits.</text>
+		<text id="tent">Se repose et restaure [tile=stamina] [color=006600]Stamina[/color].</text>
+		<text id="spawn">Pond {item}.</text>
+		<text id="light">Eclaire les environs quand équipée.</text>
+		<text id="cost_per_s">{value} par seconde.</text>
+		<text id="cost_per_s_daylight">{value} par seconde en journée.</text>
+		<text id="cost_per_s_darkness">{value} par seconde dans la nuit.</text>
+		<text id="cost_per_s_day">{value} par seconde par jour.</text>
+		<text id="cost_per_s_night">{value} par seconde par nuit.</text>
+		<text id="cost_per_s_injured">{value} par seconde blessé.</text>
+		<text id="cost_per_s_damaged">{value} par seconde quand elle est non remplie.</text>
+		<text id="cost_per_s_undamaged">{value} par seconde quand elle est remplie.</text>
+		<text id="hide">Cache le porteur.</text>
+		<text id="critical">Obtient toujours un coup critique.</text>
 		<text id="max_weight">Poids Maximum</text>
-		<text id="reflect">Reflect Damage</text>
-		<text id="fires">Fires {projectile}s</text>
-		<text id="cocoon">Hatches in [color=770000]Wyrm Pen[/color].</text>
-		<text id="builds">Builds</text>
-		<text id="upgrades">Upgrades</text>
-		<text id="dismantle">Breaks down structures you have a [tile=blueprint.ico] [color=770000]Blueprint[/color] for.</text>
-		<text id="collect">Collects nearby items.</text>
-		<text id="plants">Plants</text>
-		<text id="plant_cost">Plant Cost</text>
-		<text id="place_cost">Place Cost</text>
+		<text id="reflect">Renvoi les Blessures</text>
+		<text id="fires">Tire {projectile}s</text>
+		<text id="cocoon">Eclot dans l'[color=770000]Wyrm Pen[/color].</text>
+		<text id="builds">Contruit</text>
+		<text id="upgrades">Améliore</text>
+		<text id="dismantle">Démolit les structures pour lesquelles tu as le [tile=blueprint.ico] [color=770000]Blueprint[/color] for.</text>
+		<text id="collect">Collecte les items à proximité.</text>
+		<text id="plants">Plante</text>
+		<text id="plant_cost">Coût des Plantes</text>
+		<text id="place_cost">Coût de la Place</text>
 		<text id="area_name_sign">Peut renommer des îles une fois placées.</text>
-		<text id="equipOn">Equip On</text>
-		<text id="underwater">Can be used underwater.</text>
-		<text id="passTile">Passes through tiles.</text>
-		<text id="leftRight">Fires in front and behind.</text>
-		<text id="element.resist">Resists Elemental Attacks</text>
-		<text id="pierce">Pierces through enemies.</text>
-		<text id="no_kill">Does not kill (stops at 1hp).</text>
-		<text id="spirit_detector">Detects nearby life sources.</text>
-		<text id="flying">Flying</text>
-		<text id="swimming">Swimming</text>
+		<text id="equipOn">Equipper</text>
+		<text id="underwater">Peut être utiliser sous l'eau.</text>
+		<text id="passTile">Traverse les blocs.</text>
+		<text id="leftRight">Tire devant et derrière.</text>
+		<text id="element.resist">Résiste aux attaques élémentaires</text>
+		<text id="pierce">Traverse les énemies.</text>
+		<text id="no_kill">Ne tue pas (stops at 1hp).</text>
+		<text id="spirit_detector">Détecte les sources de vie.</text>
+		<text id="flying">Vol</text>
+		<text id="swimming">Nage</text>
 		<text id="hammer">Builds blueprints on hit.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="hut">Abri</text>
-		<text id="boar">Instant Meat</text>
-		<text id="storehouse">Infinite Space</text>
-		<text id="farm">Sharecropping</text>
-		<text id="orchard">Apples</text>
-		<text id="smelter">Metallurgy</text>
-		<text id="kitchen">Bon Appetit</text>
-		<text id="backpack">Heavy Lifter</text>
-		<text id="workshop">Crafting Time</text>
-		<text id="wyrm">Wyrmslayer</text>
-		<text id="golem">Rockslayer</text>
-		<text id="diamond">Shiny</text>
-		<text id="market">A Good Trade</text>
-		<text id="bigpack">Heavier Lifter</text>
-		<text id="capture_wyrm">Get Wyrm</text>
-		<text id="pen">Milking Pigs</text>
-		<text id="pizza">Mmm, Cheese</text>
-		<text id="dock">Distant Shores</text>
-		<text id="boat">Setting Sail</text>
-		<text id="lab">Experiments</text>
-		<text id="wyrm_pen">Infinite Blood</text>
-		<text id="dragon">Hatchling</text>
-		<text id="powerplant">Power Up</text>
-		<text id="factory">Industrialize</text>
-		<text id="elevator">Going Up?</text>
+		<text id="boar">Viande Instantanée</text>
+		<text id="storehouse">Espace Infini</text>
+		<text id="farm">Ferme Coopérative</text>
+		<text id="orchard">Pommes</text>
+		<text id="smelter">Métallurgie</text>
+		<text id="kitchen">Bon Appétit</text>
+		<text id="backpack">Poids Lourds</text>
+		<text id="workshop">Temps de Craft</text>
+		<text id="wyrm">Exterminateur de Wyrms</text>
+		<text id="golem">Exterminateur de Rochers</text>
+		<text id="diamond">Brillant</text>
+		<text id="market">Un Bon Echange</text>
+		<text id="bigpack">Plus Gros Poids Lourds</text>
+		<text id="capture_wyrm">Attraper un Wyrm</text>
+		<text id="pen">Exploitation de Cochons</text>
+		<text id="pizza">Mmm, du Fromage</text>
+		<text id="dock">Les Côtes au loin</text>
+		<text id="boat">Prendre la mer</text>
+		<text id="lab">Expérimentations</text>
+		<text id="wyrm_pen">Sang Infini</text>
+		<text id="dragon">Oisillon</text>
+		<text id="powerplant">Allumer</text>
+		<text id="factory">Industrialiser</text>
+		<text id="elevator">Vous montez?</text>
 		<text id="bandits">Justice</text>
 		<text id="diode_wolf">Shocking</text>
-		<text id="mirrows">Human Testing</text>
-		<text id="medicom">The Full Story</text>
-		<text id="electric_eel">Charging Up</text>
-		<text id="full_cyborg">Cyborgification</text>
-		<text id="labyrinth">Taurus</text>
-		<text id="dragon_flight">Dragon Tamer</text>
+		<text id="mirrows">Test sur les humains</text>
+		<text id="medicom">L'Histoire Complète</text>
+		<text id="electric_eel">En chargement</text>
+		<text id="full_cyborg">Transformation en Cyborg</text>
+		<text id="labyrinth">Taureau</text>
+		<text id="dragon_flight">Dompteur de Dragons</text>
 		<text id="wyrm_queen">Queenslayer</text>
 		<text id="synthesizer">Steak Synthétique</text>
-		<text id="forge">Forging Ahead</text>
+		<text id="forge">Forger en avance</text>
 		<text id="enchanted_chainsaw">Techno Mage</text>
-		<text id="elemental">Elementary</text>
-		<text id="purple_tree">Whomp</text>
-		<text id="full_dragon">Dragon Master</text>
-		<text id="time_manipulator">Rewind</text>
-		<text id="oldone">Face the Enemy</text>
-		<text id="blueprints">Building My Way</text>
-		<text id="skills">Powering Up</text>
-		<text id="golemech">Statue Smasher</text>
+		<text id="elemental">Elementaire</text>
+		<text id="purple_tree">Bruit Sourd</text>
+		<text id="full_dragon">Maître des Dragons</text>
+		<text id="time_manipulator">Retour en arrière</text>
+		<text id="oldone">Faire Face à l'Enemie</text>
+		<text id="blueprints">Contruit ma voie</text>
+		<text id="skills">En cours d'allumage</text>
+		<text id="golemech">Fracasseur de Statues</text>
 	</section>
 	<section id="achievement.descriptions">
 		<text id="hut">Réparer la [color=ff2222]Cabane[/color].</text>
 		<text id="boar">Vaincre un [color=ff2222]Sanglier[/color].</text>
 		<text id="storehouse">Construire un [color=ff2222]Entrepôt[/color].</text>
 		<text id="farm">Construire une [color=ff2222]Ferme[/color].</text>
-		<text id="orchard">Add an [color=ff2222]Orchard[/color] to the [color=ff2222]Farm[/color].</text>
+		<text id="orchard">Ajouter une [color=ff2222]Orchard[/color] à la [color=ff2222]Farm[/color].</text>
 		<text id="smelter">Construire la [color=ff2222]Fonderie[/color].</text>
 		<text id="kitchen">Construire la [color=ff2222]Cuisine[/color].</text>
-		<text id="backpack">Get the [color=ff2222]Backpack[/color].</text>
+		<text id="backpack">Obtenir le [color=ff2222]Backpack[/color].</text>
 		<text id="workshop">Construire l'[color=ff2222]Atelier[/color].</text>
 		<text id="wyrm">Vaincre un [color=ff2222]Wyrm[/color].</text>
 		<text id="golem">Vaincre un [color=ff2222]Golem[/color].</text>
@@ -598,22 +598,22 @@
 		<text id="market">Construire un [color=ff2222]Marché[/color].</text>
 		<text id="bigpack">Acheter un [color=ff2222]Super Pack[/color].</text>
 		<text id="capture_wyrm">Maintenant, que dois-je en faire?</text>
-		<text id="pen">Add a [color=ff2222]Pen[/color] to the [color=ff2222]Farm[/color].</text>
+		<text id="pen">Ajouter un [color=ff2222]Pen[/color] à la [color=ff2222]Farm[/color].</text>
 		<text id="pizza">Cuisiner une [color=ff2222]Pizza[/color].</text>
 		<text id="dock">Construire un [color=ff2222]Quai[/color].</text>
 		<text id="boat">Construire un [color=ff2222]Bateau[/color].</text>
 		<text id="lab">Construire un [color=ff2222]Laboratoire[/color].</text>
 		<text id="wyrm_pen">Construire un [color=ff2222]Enclos à Wyrm[/color].</text>
-		<text id="dragon">Hatch a [color=ff2222]Dragon[/color] from a [color=ff2222]Cocoon[/color].</text>
+		<text id="dragon">Faire éclore un [color=ff2222]Dragon[/color] du [color=ff2222]Cocoon[/color].</text>
 		<text id="powerplant">Construire une [color=ff2222]Centrale électrique[/color].</text>
 		<text id="factory">Construire une [color=ff2222]Usine[/color].</text>
 		<text id="elevator">Construire un [color=ff2222]Ascenseur[/color].</text>
 		<text id="bandits">Résoudre le problème du [color=ff2222]Bandit[/color].</text>
 		<text id="diode_wolf">Vaincre un [color=ff2222]Diode Wolf[/color].</text>
-		<text id="mirrows">Successfully Confront the Mirrows.</text>
+		<text id="mirrows">Battre les Mirrows.</text>
 		<text id="medicom">Lire tous les journaux.</text>
-		<text id="electric_eel">Catch an [color=ff2222]Electric Eel[/color].</text>
-		<text id="full_cyborg">Install a full set of Cyborg gear.</text>
+		<text id="electric_eel">Attraper une [color=ff2222]Electric Eel[/color].</text>
+		<text id="full_cyborg">Installer un équipement complet de Cyborg.</text>
 		<text id="labyrinth">Finir le labyrinthe du Minotaure.</text>
 		<text id="dragon_flight">Voler sur un [color=ff2222]Dragon[/color].</text>
 		<text id="wyrm_queen">Vaincre une [color=ff2222]Wyrm Queen[/color].</text>
@@ -646,14 +646,14 @@
 		<text id="search_fail">Hmm, rien d'intéressant ici.</text>
 		<text id="get_pumpkin_seeds">J'ai trouvé [item=pumpkin_seed]!</text>
 		<text id="sail_boat">Voilier</text>
-		<text id="manage_storage">Manage Storage</text>
+		<text id="manage_storage">Gérer le stockage</text>
 		<text id="elevator">Ascenseur</text>
-		<text id="overweight">The [tile=boat.ico] Boat is too heavy to sail!</text>
-		<text id="rest_boat">Rest in Boat</text>
-		<text id="activate">Would you like to use a {item} to activate this structure?</text>
-		<text id="enchant_recipe">The pillar reveals this enchantment:\n{enchant} + {items} = {creates}.</text>
-		<text id="enchant_added">The enchantment recipe has been added to the [color=770000]Forge[/color].</text>
-		<text id="place_in_lair">Requires {item} in this lair.</text>
+		<text id="overweight">Le [tile=boat.ico] Bateau est trop lourd pour voguer!</text>
+		<text id="rest_boat">Rester dans le Bateau</text>
+		<text id="activate">Voulez-vous utiliser un {item} pour activer cette structure?</text>
+		<text id="enchant_recipe">The pillier révèle cet enchantement:\n{enchant} + {items} = {creates}.</text>
+		<text id="enchant_added">La recette de l'enchantement a été ajoutée à la [color=770000]Forge[/color].</text>
+		<text id="place_in_lair">Requiert {item} in this lair.</text>
 		<text id="golem_factory">Tout le pouvoir de la structure est attiré par cette statue...</text>
 		<text id="golemech">Construire un Golemech</text>
 		<text id="build">Would you like to build a {structure} for the following resources?</text>
