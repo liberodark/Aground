@@ -445,7 +445,7 @@
         
         <text id="advanced_net">Rede avançada</text>
         
-        <text id="drone_factory_upgrade">Aprimoramento da Fábrica de drones</text>
+        <text id="drone_factory_upgrade">Aprim. da Fáb. de drones</text>
     </section>
     <section id="achievement.names">
         <text id="sub">Submersível</text>
@@ -569,7 +569,7 @@
         <text id="fence_underground">Mantém os inimigos longe.\nPode ser colocada no subsolo.</text>
         <text id="drone_control">Permite que você assuma o controle de drones que construiu em qualquer lugar (em qualquer sistema).</text>
         
-        <text id="meteor_book">Invoca 10 poderosas bolas de fogo que caem aleatoriamente ao seu redor.</text>
+        <text id="meteor_book">Invoca 20 poderosas bolas de fogo que caem aleatoriamente ao seu redor.</text>
         <text id="flood_book">Cria uma perigosa tempestade que causa dano periódico a inimigos próximos.</text>
         <text id="growth_book">Invoca uma enorme planta com cipós sugadores e flores que criam esporos mortíferos.</text>
         <text id="spikes_book">Empala inimigos próximos com 6 espinhos terrestres mortíferos.</text>
@@ -719,7 +719,7 @@
         <text id="werewolf_body">quer que você se acostume com o seu [item=werewolf_body].</text>
         <text id="submersible">quer construir um [object=submersible].</text>
         <text id="monoliths">quer ativar todos os [color=770000]Monólitos[/color].</text>
-        <text id="colony_ship">quer consertar uma [color=770000]Navel colonial[/color].</text>
+        <text id="colony_ship">quer consertar uma [color=770000]Nave colonial[/color].</text>
     </section>
     <section id="vehicle">
         <text id="submarine">Submarino</text>
@@ -1202,7 +1202,7 @@
         <text id="lab5">As pesquisas serão mais rápidas com mais pessoas a bordo. Sugiro buscarmos o [object=scavenger] no outro lado da Terra!</text>
         <text id="lab6">Espero que não seja muito difícil conseguir todos os ingredientes para o laboratório! A maioria deles podem ser encontrados aqui nos destroços da Terra, mas você precisará procurar por [item=magnegem default=Pedras magnéticas] em outros planetas. Elas são essenciais para o nosso veículo laboratorial!</text>
         <text id="hq1">Está na hora de estrear este laboratório! Eu não consegui descobrir muito a respeito da tecnologia de espaçonaves orgânicas deles, mas aposto que consigo inventar um localizador para detectar a presença deles em qualquer lugar. Com certeza essa informação será útil, principalmente quando estivermos prontos para lutar contra eles!</text>
-        <text id="hq2">Eu acrescentei o projeto do [item=alien_locator] ao laboratório. Você pode gerenciar projetos de pesquisa aperando Z. Quanto mais pesquisadores tivermos, mas rápidas serão as pesquisas. Então, se você souber de mais alguém que poderia ajudar, chame para o laboratório!</text>
+        <text id="hq2">Eu acrescentei o projeto do [item=alien_locator] ao laboratório. Você pode gerenciar projetos de pesquisa aperando [key=select]. Quanto mais pesquisadores tivermos, mas rápidas serão as pesquisas. Então, se você souber de mais alguém que poderia ajudar, chame para o laboratório!</text>
         <text id="hq3">Excelente! Enquanto o [item=alien_locator] estiver no seu inventário ou no inventário da nave, um indicador aparecerá perto de planetas com presença de tecnologia alienígena.</text>
         <text id="hq4">Hmm... Tem algo errado aqui... O [item=alien_locator] está recebendo um sinal forte de uma estrela que não tem planetas. Eu acrescentei ao mapa de navegação estelar. Talvez seria bom dar uma olhada.</text>
         <text id="hq5">O [object=president] me enviou todas as pesquisas e planos dele! Parece que estamos progredindo... Se o plano funcionar, talvez possamos nos livrar dessa ameaça de uma vez por todas!</text>
@@ -1694,12 +1694,12 @@
         <text id="tablet1">Nenhuma profissão era mais honrada do que a dos Preceptores. Eles usavam suas habilidades para viajar instantaneamente pelo universo, espalhando seu conhecimento para estrelas distantes.</text>
         <text id="tablet2">Era da natureza dos Preceptores compartilharem suas descobertas para o benefício de todos. Porém, um dos Preceptores se recusou a compartilhar. Ao invés disso, escondeu consigo todos os segredos e desdenhou os outros.</text>
         <text id="tablet3">Como eram tolerantes, os outros Preceptores levaram um longo tempo para agir. Mas finalmente decidiram expulsá-lo de seu meio, e o chamaram de Desonrado.</text>
-        <text id="tablet4">O Desonrado zombou dos outros Prospectores, chamando-os de tolos e garantindo que ele acabaria rindo por último. Depois disso, ele desapareceu. Apenas a sua irmã sabia onde ele havia se escondido.</text>
-        <text id="tablet5">Com vários anos de paz, ninguém esperava a enchente. As águas subiram e subiram, inundando vilarejos e matando muitos. Nem mesmo os Prospectores conseguiam lidar com as águas implacáveis.</text>
+        <text id="tablet4">O Desonrado zombou dos outros Preceptores, chamando-os de tolos e garantindo que ele acabaria rindo por último. Depois disso, ele desapareceu. Apenas a sua irmã sabia onde ele havia se escondido.</text>
+        <text id="tablet5">Com vários anos de paz, ninguém esperava a enchente. As águas subiram e subiram, inundando vilarejos e matando muitos. Nem mesmo os Preceptores conseguiam lidar com as águas implacáveis.</text>
         <text id="tablet6">Quando o Desonrado anunciou que ele havia conjurado a enchente, não demonstrou nenhum remorso, mesmo com o número de mortes cada vez mais alto.</text>
-        <text id="tablet7">Os Prospectores sabiam que precisavam parar o Desonrado. Eles se reuniram e lutaram contra ele no cume da montanha mais alta, onde as águas ainda não haviam chegado.</text>
+        <text id="tablet7">Os Preceptores sabiam que precisavam parar o Desonrado. Eles se reuniram e lutaram contra ele no cume da montanha mais alta, onde as águas ainda não haviam chegado.</text>
         <text id="tablet8">A batalha persistiu por semanas, esgotando até mesmo a vasta quantidade de magia deste planeta. Com a quantidade de magia diminuindo, a sobrevivência se tornou um desafio.</text>
-        <text id="tablet9">O Desonrado sobreviveu, caindo em um sono profundo, e os Prospectores desativaram os Transmissores de Mana. Assim, mesmo quando a magia retornasse a este mundo, o Desonrado não poderia despertar.</text>
+        <text id="tablet9">O Desonrado sobreviveu, caindo em um sono profundo, e os Preceptores desativaram os Transmissores de Mana. Assim, mesmo quando a magia retornasse a este mundo, o Desonrado não poderia despertar.</text>
         <text id="tablet10">Este é o aviso final daqueles que viveram neste planeta: não desperte o Desonrado. Deixe que ele descanse por toda a eternidade.</text>
     </section>
     <section id="stats">

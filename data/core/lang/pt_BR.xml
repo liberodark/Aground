@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lang id="pt_BR" name="Português(BR)" version="2.0.6">
+<lang id="pt_BR" name="Português(BR)" version="2.1.1">
     <section id="common">
         <text id="blocked">Bloqueou!</text>
         <text id="resist">Resistente a {element}!</text>

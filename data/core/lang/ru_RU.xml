@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<lang id="ru_RU" name="Русский" font="fonts/uni.fnt" version="2.0.6">
+<lang id="ru_RU" name="Русский" font="fonts/uni.fnt" version="2.1.1">
     <section id="common">
         <text id="blocked">Блок!</text>
         <text id="resist">Отражено!</text>
@@ -1141,7 +1141,7 @@
         <text id="return2">Работаю в лаборатории, анализирую образцы с восточного острова.</text>
         <text id="return3">Я имел в виду, как ты так быстро вернулся?</text>
         <text id="return4">Так же, как и всегда! Телепортировался, очевидно. А теперь не мешай, мне нужно закончить анализ.</text>
-        <text id="muttering">Синтез самоцветов… встроенный панцирь… бесконечная эволюция… [font=drachenklaue]абракадабра[/font]...</text>
+        <text id="muttering">Синтез самоцветов… встроенный панцирь… бесконечная эволюция… [font=drachenklaue]mumbo jumbo[/font]...</text>
         <text id="oldone_choice">Тебе с ним не справиться. Если мы хотим выжить, нам нужен план!</text>
         <text id="work_together">Сражаться вместе</text>
         <text id="alchemist_fight">Позволить сражаться Алхимику</text>

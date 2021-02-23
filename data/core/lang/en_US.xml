@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<lang id="en_US" name="English" version="2.0.6">
+<lang id="en_US" name="English" version="2.1.1">
 	<section id="common">
 		<text id="blocked">Blocked!</text>
 		<text id="resist">{element} Resist!</text>
@@ -534,6 +534,7 @@
 		<text id="flying">Flying</text>
 		<text id="swimming">Swimming</text>
 		<text id="hammer">Builds blueprints on hit.</text>
+		<text id="sight_range">Allows you to see further when equipped.</text>
 	</section>
 	<section id="achievement.names">
 		<text id="hut">Shelter</text>
@@ -1632,7 +1633,7 @@
 		<text id="harder">Harder</text>
 		<text id="hardest">Hardest</text>
 		<text id="1hko">1 Hit Death</text>
-		<text id="creative">Creative</text>
+		<text id="creative">Casual</text>
 	</section>
 	<section id="entry">
 		<text id="title">Select Campaign</text>
