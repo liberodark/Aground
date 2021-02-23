@@ -448,6 +448,18 @@
 		<text id="drone_factory_upgrade">Drone Factory Upgrade</text>
 		
 		<text id="death_scythe">Death Scythe</text>
+		
+		<text id="crystal_tree_seed">Crystal Tree Seed</text>
+
+		<text id="laser_sword">Laser Sword</text>
+		<text id="laser_whip">Laser Whip</text>
+		<text id="seeking_missile">Seeking Missile</text>
+		<text id="boomerang">Boomerang</text>
+		<text id="fire_boomerang">Fire Boomerang</text>
+		<text id="water_boomerang">Water Boomerang</text>
+		<text id="ice_boomerang">Ice Boomerang</text>
+		<text id="plant_boomerang">Plant Boomerang</text>
+		<text id="leechweap">Leech</text>
 	</section>
 	<section id="achievement.names">
 		<text id="sub">Submersive</text>
@@ -571,7 +583,7 @@
 		<text id="fence_underground">Keeps enemies out.\nCan be placed underground.</text>
 		<text id="drone_control">Allows you to take control of drones you have built anywhere (in any system).</text>
 		
-		<text id="meteor_book">Calls down 10 powerful fireballs that fall randomly around you.</text>
+		<text id="meteor_book">Calls down 20 powerful fireballs that fall randomly around you.</text>
 		<text id="flood_book">Creates a dangerous storm that deals damage over time to nearby enemies.</text>
 		<text id="growth_book">Grows a large plant with draining vines and flowers that spawn deadly spores.</text>
 		<text id="spikes_book">Impales nearby enemies with 6 deadly earth spikes.</text>
@@ -621,6 +633,7 @@
 		<text id="unnature.ranger">Ranger</text>
 		<text id="unnature.splicer">Splicer</text>
 		<text id="depths.explorer">Explorer</text>
+		<text id="tindle">Tindle</text>
 	</section>
 	<section id="actions">
 		<text id="inspect">Inspect</text>
@@ -682,6 +695,7 @@
 		<text id="monoliths">Ancient Ruins</text>
 		<text id="activate_monoliths">Activate Monoliths</text>
 		<text id="colony_ship">Old Wrecks</text>
+		<text id="tindle.monolith">Stuck Merchant</text>
 	</section>
 	<section id="quest.description">
 		<text id="water_cave">want to find a cave to build a [object=sub] in.</text>
@@ -720,8 +734,9 @@
 		<text id="werewolf_claws">wants you to gather food and gain [item=werewolf_claws].</text>
 		<text id="werewolf_body">wants you to get used to your [item=werewolf_body].</text>
 		<text id="submersible">wants to build a [object=submersible] to explore the depths.</text>
-		<text id="monoliths">wants to activate all the [color=770000]Monoliths[/color].</text>
+		<text id="monoliths">wants to activate all the [color=770000]Monoliths[/color] on the Depths.</text>
 		<text id="colony_ship">wants to repair a [color=770000]Colony Ship[/color].</text>
+		<text id="tindle.monolith">wants to re-activate the [color=770000]Monolith[/color] on Unoiks 428c.</text>
 	</section>
 	<section id="vehicle">
 		<text id="submarine">Submarine</text>
@@ -1204,14 +1219,14 @@
 		<text id="lab5">The research will go faster with extra hands aboard - I recommend picking up the [object=scavenger] on the other side of Earth!</text>
 		<text id="lab6">Hopefully you don't have too much trouble gathering the ingredients for the research lab! Most of them can be found in the wreckage right here on Earth, but you'll need to search other planets for [item=magnegem]s. They are essential for a transforming, all purpose laboratory vehicle!</text>
 		<text id="hq1">It's time to put this research lab to use! I wasn't able to figure out much about their organic spaceship technology, but I bet I could invent a locator that could detect their presence anywhere in the galaxy. I'm sure that information will come in handy, especially when we're ready to take the fight to them!</text>
-		<text id="hq2">I added the [item=alien_locator] to the research lab - you can manage research projects by hitting Z to operate the lab. The more researchers we have, the faster research will go, so if there's anyone else you can think of who could help, invite them aboard the lab!</text>
+		<text id="hq2">I added the [item=alien_locator] to the research lab - you can manage research projects by hitting [key=select] to operate the lab. The more researchers we have, the faster research will go, so if there's anyone else you can think of who could help, invite them aboard the lab!</text>
 		<text id="hq3">Excellent! As long as the [item=alien_locator] is in your inventory or your ship's inventory, an indicator will show up next to planets that have alien technology present.</text>
 		<text id="hq4">Hmm... something is strange here... The [item=alien_locator] is getting a strong signal from a star that has no planets. I added it to the star nav map, perhaps we should check it out?</text>
 		<text id="hq5">[object=president] has sent me all of its research and plans! It really feels like we're making progress here... if this plan succeeds, perhaps we can get rid of the enemy threat for good!</text>
 		<text id="invite">Should I invite the {npc} aboard the [color=770000]Mobile Research Lab[/color]?</text>
 		<text id="alien_hq1">Well, it looks like we found the enemy HQ! The place is swarming with ships! And what are we orbiting? Is that a planet, or a spaceship? I wonder if it's alive?</text>
 		<text id="alien_hq2">This looks like more than we can handle. Perhaps we should retreat and figure out a plan of action before we try to take on their HQ?</text>
-		<text id="win1">Now that they are gone, I don’t have to limit my research to warfare anymore! Think of all the possibilities! Maybe a point-of-view gun, or a self-flushing toilet!</text>
+		<text id="win1">Now that the threat is over, I don’t have to limit my research to warfare anymore! Think of all the possibilities! Maybe a point-of-view gun, or a self-flushing toilet!</text>
 		<text id="werewolf1">… and it just spliced your DNA? It sounds like it’s malfunctioning - I think everyone in this lab should remain here to be safe.</text>
 		<text id="werewolf2">You’ll have to find a way to stop the [object=unnature.splicer] on your own.</text>
 	</section>
@@ -1293,6 +1308,11 @@
 		<text id="com_station2">I read you! This is Unoiks 428c, and we’re searching for human survivors!</text>
 		<text id="com_station3">I am CaptAIn, the autonomous leader of the last major colony of mankind, and there are many human survivors here!</text>
 		<text id="com_station4">We’ve maintained radio silence to avoid enemy detection, but now that they are gone, we are looking for other survivors! If you have a ship, please come here, we have much to discuss!</text>
+		<text id="tom_mini1">Eating synthetic dishes and living in metal bulkheads? That's no life for me! I'd rather be down here, where there's danger and adventure! The only way I'm leaving this spot is if my dear Mini tells me to!</text>
+		<text id="tom_mini2">Oh! If it's up to me, we should leave - I could use a little comfort!</text>
+		<text id="tom_mini3">For real?!</text>
+		<text id="tom_mini4">Of course not - I'm happy anywhere as long as we're together, Tom!</text>
+		<text id="tom_mini5">You're awesome, Mini!</text>
 	</section>
 	<section id="alien">
 		<text id="cargo_locked">The cargo orifice is shut tight... I can't open it while they are around!</text>
@@ -1413,7 +1433,7 @@
 	<section id="exiled">
 		<text id="intro1">A human who knows magic? Two of my favorite things together! You wouldn’t happen to know a purple hooded figure, would you?</text>
 		<text id="intro2.1">Ah, you have? And he’s still studying magic? Good for him!</text>
-		<text id="intro2.2">Ah, you have? But the Old One defeated him? I didn’t know she still had it in him.</text>
+		<text id="intro2.2">Ah, you have? But the Old One defeated him? I didn’t know she still had it in her.</text>
 		<text id="intro3">The rest of my kind are in a rage over him stealing their secrets. I would say it’s quite amusing. If it didn’t mean the death of your homeworld.</text>
 		<text id="intro3.1">His desire to learn magic quickly spiraled into quite the war! I would say it was amusing, if it didn't mean the death of your homeworld and the end of human TV reruns to watch.</text>
 		<text id="intro4">Here I am, stuck on this rock, and there won't even be any more human TV reruns to pass the time? Dark days are ahead…</text>
@@ -1703,6 +1723,18 @@
 		<text id="tablet8">The battle raged for weeks, and drained even this planet’s vast amount of magic. With the supply of magic running thin, survival became a challenge.</text>
 		<text id="tablet9">The Dishonored One survived by going into a deep slumber, and the Teachers deactivated the Mana Conveyors so that even when magic returned to this world, the Dishonored One would be unable to awaken.</text>
 		<text id="tablet10">This is the final warning of those who lived on this planet: do not awaken the Dishonored One. Let him rest for all eternity.</text>
+		<text id="tindle1">You there - little one - can't you see that I'm stuck here and could use some help?</text>
+		<text id="tindle2">Surely you wouldn't dream of leaving someone as renowned as me stranded here!</text>
+		<text id="tindle3">You see this [color=770000]Monolith[/color]? It used to allow free travel throughout the universe. Those were good times for an old-blooded merchant like me - you cannot imagine the profits I made...</text>
+		<text id="tindle4">But then one day, the [color=770000]Monolith[/color] stopped working, and I've been stuck here ever since! The inhabitants of this planet were most unhelpful - they were willing to trade at first, but then left without a word.</text>
+		<text id="tindle5">If you could drop by a planet called [color=770000]The Depths[/color] and talk to the Teachers there, I'm sure they can get this whole mess sorted out!</text>
+		<text id="tindle6">They're the ones who set up the [color=770000]Monoliths[/color] you know, and they did it all for free. Quite agreeable folk, those Teachers.</text>
+		<text id="tindle7">Well, what's the hold up? Don't tell me you're stuck on this planet too and can't even get a message to the Teachers?</text>
+		<text id="tindle8">Ah, excellent! I can finally go back to travelling the stars and trading magical books!</text>
+		<text id="tindle9">Do you have an interest in magic? If you do, I buy and sell - just think my name, Tindle, and I'll be here!</text>
+		<text id="tindle10">You there - little one - do I have you to thank for activating this [color=770000]Monolith[/color]?</text>
+		<text id="tindle11">I was stuck here so long, I was beginning to worry everyone had forgotten about me. Of course, that's impossible and here you are!</text>
+		<text id="tindle12">Well now, don't be shy! You must be here to inquire about my wonderful selection of magical books! Now that the [color=770000]Monolith[/color] is operational again, I am back in business!</text>
 	</section>
 	<section id="stats">
 		<text id="spellcast">Spellcasting</text>
